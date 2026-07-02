@@ -27,10 +27,12 @@ def _load_env():
 
 
 def _persist(key, value):
+    """Set (value=str) or remove (value=None) an export line in ~/.course_env."""
     lines = []
     if _ENV_FILE.exists():
         lines = [l for l in _ENV_FILE.read_text().splitlines() if not l.startswith(f'export {key}=')]
-    lines.append(f'export {key}="{value}"')
+    if value is not None:
+        lines.append(f'export {key}="{value}"')
     _ENV_FILE.write_text("\n".join(lines) + "\n")
     _ENV_FILE.chmod(0o600)
 
@@ -53,6 +55,15 @@ def get_client(verbose=False):
             client.models.generate_content(model=MODEL, contents="ping")
             if mode != known:
                 _persist("GEMINI_MODE", mode)
+            # The gemini CLI needs one extra breadcrumb for Vertex keys —
+            # and must NOT have it for Developer-API keys. Keep it in sync
+            # every time, so older setups self-repair:
+            if mode == "vertex":
+                _persist("GOOGLE_GENAI_USE_VERTEXAI", "true")
+                os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "true"
+            else:
+                _persist("GOOGLE_GENAI_USE_VERTEXAI", None)
+                os.environ.pop("GOOGLE_GENAI_USE_VERTEXAI", None)
             os.environ["GEMINI_MODE"] = mode
             if verbose:
                 name = "Vertex / Agent Platform" if mode == "vertex" else "Gemini Developer API"
