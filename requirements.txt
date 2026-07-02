@@ -1,0 +1,10 @@
+google-genai>=1.0
+pandas
+matplotlib
+scipy
+scikit-learn
+streamlit
+requests
+beautifulsoup4
+jupyter
+ipykernel

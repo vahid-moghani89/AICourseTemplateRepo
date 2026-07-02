@@ -1,0 +1,25 @@
+# Assignment 1 — Abstract Set
+
+> Five abstracts in the style of management research. They are **synthetic** (written for this course so that specific information is deliberately present, absent, or hedged) — treat them as real for the exercise. Use them in order, one per message.
+
+---
+
+## Abstract 01
+
+Organizations increasingly adopt algorithmic management tools, yet little is known about how such tools affect employee voice. Drawing on conservation of resources theory, we examine whether algorithmic monitoring reduces employees' willingness to raise concerns. In a preregistered field experiment with 412 customer-service employees of a European telecommunications firm, teams were randomly assigned to an algorithmic scheduling condition or a supervisor-led scheduling condition for twelve weeks. Employees in the algorithmic condition were 23% less likely to submit improvement suggestions, an effect that was stronger for employees with shorter tenure. Voice behavior was measured through the firm's internal suggestion system. We find that the effect is mediated by perceived futility rather than fear of retaliation. We contribute to the literature on algorithmic management by identifying futility as the dominant psychological mechanism suppressing voice, and to practice by showing that brief weekly explanation sessions held by supervisors eliminate the effect entirely.
+
+## Abstract 02
+
+How do founders decide which advice to ignore? While the literature on entrepreneurial learning emphasizes feedback uptake, we argue that selective disregard is an equally consequential capability. Through an inductive multiple-case study of ventures in a Northern European accelerator, we develop a process model of advice filtering. Our analysis of interviews, observation notes, and archival pitch materials reveals three filtering practices — source bracketing, temporal deferral, and identity testing — that founders apply sequentially. Ventures whose founders applied all three practices showed more coherent strategic pivots over the program period. We theorize that advice filtering protects nascent strategic identity while preserving relational capital with advisors. The study contributes a practice-based perspective to entrepreneurial learning research and offers accelerator designers a vocabulary for coaching founders on productive disagreement.
+
+## Abstract 03
+
+This paper studies whether flexible work arrangements change the gender composition of internal promotions. We exploit the staggered rollout of a formal flexibility policy across 61 offices of a multinational professional-services firm between 2014 and 2021, using personnel records covering 18,344 employees. Difference-in-differences estimates indicate that the share of women among internal promotions to manager increased by 4.1 percentage points following policy adoption. The effect is concentrated in offices where senior partners visibly used the policy themselves. Survey evidence from a subset of offices suggests the mechanism operates through reduced flexibility stigma rather than changes in application behavior. Our findings inform debates on whether formal policies can shift promotion outcomes absent leadership modeling.
+
+## Abstract 04
+
+Consumer skepticism toward sustainability claims is widely documented, but its consequences for new product adoption remain contested. We propose that skepticism operates differently for functional versus symbolic product categories. Across three studies — two scenario experiments and one analysis of online review data — we find a consistent interaction pattern: sustainability claims increase purchase intention for functional products but decrease it for symbolic products among skeptical consumers. In Study 3, analyzing 28,750 reviews scraped from a large e-commerce platform, products with prominent sustainability labels in symbolic categories received systematically lower ratings from reviewers whose review histories indicated environmental skepticism. We discuss implications for positioning strategy and for the measurement of skepticism in consumer research.
+
+## Abstract 05
+
+Does board gender diversity affect firm risk-taking? Prior evidence is mixed, plagued by endogeneity concerns. We revisit the question using a regression discontinuity design around close votes on shareholder proposals related to board diversity in US public firms, 2008–2019. Firms where diversity proposals narrowly passed subsequently exhibit lower stock-return volatility and reduced R&D intensity relative to firms where proposals narrowly failed, though the latter effect is imprecisely estimated and sensitive to bandwidth choice. We caution against interpreting these results as evidence that diverse boards are inherently risk-averse; the pattern is consistent with several governance channels we cannot fully distinguish. The paper contributes to corporate governance research by providing causally credible — if deliberately modest — estimates and by demonstrating the sensitivity of prior findings to identification strategy.

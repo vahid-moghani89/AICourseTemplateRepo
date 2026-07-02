@@ -1,0 +1,1201 @@
+resp_id,age,gender,country,education,trust_1,trust_2,trust_3,trust_4,trust_5,adopt_1,adopt_2,adopt_3,adopt_4,adopt_5,concern_text
+R1010,42,Female,netherlands,Bachelor,3,2,3,3,3,3,2,3,1,3,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R1145,63,Male,TR,Bachelor,3,3,3,3,3,4,4,4,3,3,My own writing is getting worse because I always start from a draft it makes.
+R0098,45,Male,DE,Other,4,3,4,4,3,3,4,5,1,4,"None really, I find it mostly helpful."
+R0857,22,Female,IT,Bachelor,4,3,3,5,5,4,4,2,3,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0443,28,Female,Netherlands,PhD,2,4,3,3,2,3,4,3,3,4,"The junior positions are disappearing, which is how I got my start."
+R0301,56,Female,CN,Bachelor,4,2,3,4,4,4,3,4,1,3,"Nobody checks the outputs anymore, that is what scares me."
+R0176,45,Female,TR,Master,4,2,4,4,5,5,4,4,1,5,My own writing is getting worse because I always start from a draft it makes.
+R0347,46,Female,NL,Master,5,1,5,5,5,4,3,3,2,4,"Hard to say, ask me again in a year."
+R0557,50,Female,IT,Master,4,3,2,4,4,4,5,4,2,5,"The junior positions are disappearing, which is how I got my start."
+R1050,64,Female,Netherlands,Master,4,3,4,5,3,4,2,4,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0793,52,Female,germany,Bachelor,4,2,4,5,4,3,4,3,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0723,46,Male,TR,Bachelor,2,4,2,3,2,5,3,3,2,2,"The screening tool filters out people with non-Western names, I have seen it."
+R0223,43,Male,netherlands,Bachelor,4,1,5,5,4,3,5,4,2,4,"It penalizes career gaps, which mostly hits women here."
+R0940,43,Male,BE,Master,4,3,3,3,2,3,2,3,3,3,It fails on edge cases and our work is mostly edge cases.
+R0026,47,Male,BE,PhD,3,3,2,4,3,2,1,3,3,2,There is a productivity index on my profile that follows me around.
+R0959,35,Male,BE,Master,3,3,4,3,3,3,4,4,3,4,"Autonomy is gone, the system assigns and times everything."
+R0864,38,Female,TR,Bachelor,4,2,2,3,4,4,5,4,2,5,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0836,53,Female,Netherlands,Master,3,3,3,3,3,3,3,2,4,3,"The technology is fine, the people deciding how to use it worry me."
+R0050,46,Male,Netherlands,Master,4,2,5,5,5,5,4,5,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0627,38,Male,netherlands,Bachelor,4,2,5,4,5,4,3,4,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0453,32,Female,BE,Bachelor,5,2,5,3,4,3,4,3,3,3,"The junior positions are disappearing, which is how I got my start."
+R0678,61,Female,The Netherlands,PhD,2,3,4,3,3,4,3,3,3,2,Decisions feel arbitrary and there is no appeal process against the model.
+R0859,49,Female,Germany,PhD,5,1,4,5,5,4,4,4,2,3,I cannot take a longer break without the tool flagging it to my lead.
+R1057,39,Female,The Netherlands,Master,3,3,4,3,4,3,3,3,3,3,"Nobody practices the basics now, and it will show in a few years."
+R0801,50,Non-binary,UK,Bachelor,4,2,3,3,4,4,3,4,2,5,We had to redo a whole analysis because the tool silently dropped rows.
+R0377,62,Male,BE,Master,2,4,2,1,2,4,3,4,5,2,"I feel watched all day, the dashboard shows when I am idle."
+R1043,42,Male,BE,Master,3,4,4,2,4,3,2,2,4,2,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0324,66,Female,CN,Master,5,2,5,4,4,5,3,3,2,5,The summaries miss the one critical detail surprisingly often.
+R0634,48,Non-binary,UK,Master,4,2,5,5,4,4,4,4,2,4,"The craft side of this job is eroding, we just edit machine output."
+R1133,37,Male,The Netherlands,Bachelor,2,3,2,3,3,3,2,3,3,2,No concerns.
+R0930,55,Male,Netherlands,Master,5,1,4,5,5,3,5,4,2,4,I am optimistic about it overall.
+R0899,32,Male,NL,Bachelor,4,2,5,3,4,4,3,4,3,3,Last month it merged two clients records and we only noticed by accident.
+R0243,0,Prefer not to say,BE,Bachelor,3,3,4,4,4,2,4,3,2,3,My role feels replaceable now that the system drafts most of it.
+R0998,44,Male,BE,Other,4,1,4,4,3,5,3,3,2,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R1160,51,Male,US,Bachelor,2,4,1,2,2,1,2,3,3,2,"The craft side of this job is eroding, we just edit machine output."
+R0014,33,Female,BE,PhD,4,4,5,3,4,3,4,5,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0769,52,Male,CN,Bachelor,3,3,3,3,4,3,4,4,2,4,My own writing is getting worse because I always start from a draft it makes.
+R0486,62,Male,BE,Master,2,2,3,4,3,3,2,2,3,3,Every keystroke is logged and turned into a score now.
+R0310,65,Female,TR,Bachelor,4,2,4,4,5,3,3,4,2,3,Accent recognition fails for some of us and our quality scores suffer.
+R0055,39,Female,Germany,Other,2,2,4,3,4,3,3,2,4,3,"Autonomy is gone, the system assigns and times everything."
+R0772,61,Female,NL,Bachelor,3,3,3,3,2,4,2,3,2,4,The system was trained on the old boys club data and it shows.
+R1150,57,Male,The Netherlands,Master,1,4,2,2,3,3,2,2,4,2,Keeping up with every new tool is exhausting and I am falling behind.
+R1063,58,Male,DE,Master,4,3,3,4,3,3,4,3,2,3,The translations look fluent but change the meaning of contract clauses.
+R0591,62,Male,The Netherlands,PhD,4,2,4,4,4,5,4,4,3,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R1021,61,Female,NL,Master,4,3,3,4,2,4,2,3,3,3,"The craft side of this job is eroding, we just edit machine output."
+R0229,34,Male,Netherlands,PhD,4,4,3,4,4,4,3,3,3,3,"None really, I find it mostly helpful."
+R0230,66,Female,netherlands,PhD,5,2,4,5,3,4,4,4,2,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0724,54,Female,Netherlands,Master,5,2,5,3,4,4,4,4,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0970,58,Female,NL,Master,3,3,3,4,3,3,3,3,3,2,Clients already ask why they pay us if a model does the first version.
+R0786,33,Male,NL,Bachelor,4,1,3,5,4,3,5,4,4,3,Every keystroke is logged and turned into a score now.
+R0560,60,Non-binary,IT,Bachelor,3,2,3,3,3,3,3,4,3,4,"The craft side of this job is eroding, we just edit machine output."
+R1040,59,Male,The Netherlands,PhD,3,2,3,4,3,4,3,5,3,3,Juniors never learn to write a memo themselves anymore.
+R0393,57,Male,netherlands,Bachelor,3,3,4,3,4,2,3,1,4,3,We get weekly reports about our own behavior that we never agreed to.
+R0704,51,Male,TR,PhD,2,3,3,2,3,4,2,2,3,2,I fear my skills will not transfer anywhere once this place fully automates.
+R0120,53,Non-binary,BE,Master,3,3,4,3,3,4,3,4,2,2,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0495,43,Female,netherlands,Bachelor,3,2,4,4,2,3,4,4,2,3,My role feels replaceable now that the system drafts most of it.
+R0713,34,Female,TR,Master,3,2,3,5,4,4,4,3,4,5,Juniors never learn to write a memo themselves anymore.
+R0406,56,Male,UK,PhD,4,2,3,2,3,3,4,3,2,3,"The craft side of this job is eroding, we just edit machine output."
+R0121,36,Female,NL,Master,3,2,2,2,3,3,3,4,2,3,My own writing is getting worse because I always start from a draft it makes.
+R0398,64,Male,BE,Bachelor,4,4,4,4,4,3,4,4,3,5,"Hard to say, ask me again in a year."
+R1115,29,Male,US,Bachelor,3,3,3,3,3,2,3,3,3,3,Last month it merged two clients records and we only noticed by accident.
+R0952,47,Female,TR,Bachelor,4,3,4,4,4,4,4,4,2,5,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R1161,27,Prefer not to say,CN,Bachelor,5,2,4,4,2,4,5,3,2,3,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0431,48,Male,BE,PhD,5,1,5,5,5,4,5,4,2,4,My calls are transcribed and analyzed without anyone asking me.
+R0193,45,Prefer not to say,Germany,Bachelor,3,2,4,5,4,3,3,3,3,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0861,29,Male,netherlands,Master,3,2,3,3,4,2,3,3,3,2,Clients already ask why they pay us if a model does the first version.
+R0002,44,Female,netherlands,Bachelor,4,2,3,3,3,3,2,2,4,4,"None really, I find it mostly helpful."
+R0440,32,Female,IT,Other,4,4,3,4,3,3,4,5,2,4,New hires cannot troubleshoot anything because the assistant always did it.
+R0829,33,Male,DE,Master,3,4,4,3,3,2,2,2,3,3,"It is moving faster than our policies, on every front at once."
+R0054,55,Female,Netherlands,Bachelor,5,2,3,4,3,4,4,2,3,3,"The craft side of this job is eroding, we just edit machine output."
+R0820,48,Prefer not to say,Germany,PhD,5,2,5,5,4,5,4,3,4,3,The system was trained on the old boys club data and it shows.
+R0261,25,Male,NL,PhD,4,3,5,4,4,4,4,4,2,4,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0822,34,Prefer not to say,netherlands,Bachelor,2,4,3,2,2,5,4,4,2,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0183,61,Male,US,Master,3,3,3,3,3,3,3,3,3,4,I cannot take a longer break without the tool flagging it to my lead.
+R1022,49,Male,TR,Other,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0489,42,Female,UK,Bachelor,4,2,4,3,4,3,5,3,4,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0802,65,Male,TR,Master,4,1,4,4,3,4,3,5,2,4,"Nobody checks the outputs anymore, that is what scares me."
+R0682,50,Female,US,PhD,5,3,4,4,5,2,3,2,3,3,Clients already ask why they pay us if a model does the first version.
+R1089,53,Female,UK,Bachelor,2,4,2,2,2,4,3,3,2,2,We stopped training people properly because the tool covers the gaps.
+R0856,29,Male,The Netherlands,PhD,3,2,5,3,4,4,3,5,2,3,"The junior positions are disappearing, which is how I got my start."
+R0288,46,Female,CN,Master,4,2,5,5,4,3,5,4,2,3,I worry I will forget how to do the analysis without the tool.
+R0092,49,Female,UK,Bachelor,2,3,1,2,2,2,2,2,5,2,"Older colleagues get worse recommendations from it, consistently."
+R0325,57,Non-binary,Netherlands,Master,4,3,3,4,2,2,3,3,4,4,It invents numbers and management copies them into reports.
+R0522,34,Male,US,Bachelor,2,4,3,2,3,3,3,2,2,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0464,22,Male,UK,Other,3,3,2,3,4,3,3,3,2,5,"The junior positions are disappearing, which is how I got my start."
+R0457,35,Prefer not to say,TR,Bachelor,2,3,2,3,3,3,3,4,4,3,I am optimistic about it overall.
+R0159,40,Female,US,Bachelor,4,2,4,4,4,4,2,4,2,3,"The craft side of this job is eroding, we just edit machine output."
+R1056,64,Female,UK,Bachelor,3,3,3,3,4,3,4,3,3,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0378,32,Female,IT,Master,4,1,3,3,4,3,4,5,2,4,No concerns.
+R0731,43,Male,Germany,Master,3,1,4,5,4,3,2,4,4,3,Clients already ask why they pay us if a model does the first version.
+R0312,40,Male,UK,Master,1,4,1,1,1,3,2,4,2,2,Clients already ask why they pay us if a model does the first version.
+R0046,51,Female,UK,Bachelor,3,3,3,3,3,3,3,4,3,4,It invents numbers and management copies them into reports.
+R0498,49,Prefer not to say,IT,Master,3,2,4,4,4,3,3,3,4,3,"None really, I find it mostly helpful."
+R0997,56,Female,CN,Master,3,2,3,4,3,4,4,4,2,3,There is a productivity index on my profile that follows me around.
+R0257,64,Female,Netherlands,Bachelor,4,1,4,4,4,2,3,4,3,3,We had to redo a whole analysis because the tool silently dropped rows.
+R0167,39,Female,IT,Master,4,2,4,4,4,3,3,3,1,3,"Older colleagues get worse recommendations from it, consistently."
+R0063,142,Female,BE,Bachelor,2,3,4,3,5,3,5,2,3,3,"They will not fire anyone, they just will not replace people who leave."
+R0578,63,Male,DE,PhD,4,3,3,4,4,2,2,2,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0267,37,Male,Netherlands,Master,3,3,3,2,4,3,3,3,4,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0481,45,Male,germany,PhD,3,2,5,4,4,4,4,4,2,4,My calls are transcribed and analyzed without anyone asking me.
+R0696,55,Male,netherlands,Bachelor,5,2,4,5,4,4,3,4,3,4,"People trust the answer because it is well written, not because it is right."
+R0738,38,Female,Netherlands,Master,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0776,60,Male,IT,PhD,3,3,3,4,3,2,3,5,3,2,Keeping up with every new tool is exhausting and I am falling behind.
+R0625,49,Male,BE,Other,4,2,3,4,4,4,3,4,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0447,59,Male,IT,PhD,3,3,3,2,4,3,3,3,3,2,There is a productivity index on my profile that follows me around.
+R0697,35,Male,Germany,Master,3,4,2,3,1,3,3,3,3,4,No concerns.
+R0622,55,Female,The Netherlands,Bachelor,3,2,4,3,3,3,4,4,3,4,I worry I will forget how to do the analysis without the tool.
+R0181,35,Female,netherlands,Master,4,2,4,4,4,4,4,4,3,4,We get weekly reports about our own behavior that we never agreed to.
+R0132,33,Male,DE,Master,3,2,3,3,3,4,3,3,3,3,"Nobody practices the basics now, and it will show in a few years."
+R0040,29,Female,NL,Other,5,3,4,4,5,3,4,4,3,3,Nothing specific comes to mind.
+R0057,35,Male,US,Bachelor,3,4,4,5,3,3,3,3,2,3,"The junior positions are disappearing, which is how I got my start."
+R0596,55,Male,US,PhD,4,3,4,3,3,2,4,3,2,2,I am becoming dependent on it for things I used to do from memory.
+R0845,31,Female,Netherlands,Master,3,3,4,5,4,3,5,3,2,3,It is confidently wrong in ways that are hard to spot.
+R0566,25,Female,BE,Bachelor,5,2,4,4,5,3,3,3,3,2,The summaries miss the one critical detail surprisingly often.
+R0942,61,Female,US,Master,3,3,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R0737,58,Female,NL,Other,3,4,3,2,2,2,3,4,3,4,We stopped training people properly because the tool covers the gaps.
+R0985,56,Female,TR,Bachelor,4,2,3,4,4,4,3,4,1,3,"I feel watched all day, the dashboard shows when I am idle."
+R0983,65,Female,Netherlands,Bachelor,2,4,3,2,2,3,2,4,3,3,I am optimistic about it overall.
+R0540,27,Male,NL,Bachelor,3,2,3,4,4,3,3,3,3,4,I think half of what I do could be automated before long.
+R0547,44,Male,UK,Other,4,2,2,5,4,3,2,2,4,3,Accent recognition fails for some of us and our quality scores suffer.
+R0710,31,Female,US,Bachelor,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0610,65,Prefer not to say,IT,PhD,4,2,3,4,4,4,5,4,2,4,"Autonomy is gone, the system assigns and times everything."
+R0668,46,Female,germany,Master,2,3,2,3,3,2,3,2,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0161,63,Male,UK,PhD,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0109,29,Female,BE,PhD,5,1,4,5,4,3,3,4,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0413,-3,Female,IT,Master,3,2,4,4,4,3,4,4,1,4,The system was trained on the old boys club data and it shows.
+R0289,41,Male,TR,Bachelor,3,2,3,5,3,4,4,4,2,4,Last month it merged two clients records and we only noticed by accident.
+R0666,52,Female,BE,Bachelor,3,3,5,2,3,4,3,4,2,3,My role feels replaceable now that the system drafts most of it.
+R0472,64,Male,TR,Master,4,1,4,5,4,3,3,4,3,4,"They will not fire anyone, they just will not replace people who leave."
+R0039,36,Female,Netherlands,Bachelor,4,3,4,4,3,4,3,3,2,3,My calls are transcribed and analyzed without anyone asking me.
+R0300,30,Female,Netherlands,Bachelor,3,2,4,5,3,3,4,3,3,4,It is confidently wrong in ways that are hard to spot.
+R0961,31,Male,germany,Bachelor,4,3,5,3,3,4,4,3,3,4,"The craft side of this job is eroding, we just edit machine output."
+R0170,31,Female,Germany,Master,3,2,4,4,5,3,3,2,4,3,Every keystroke is logged and turned into a score now.
+R0799,41,Female,TR,Master,3,4,2,3,2,3,2,3,3,4,"Older colleagues get worse recommendations from it, consistently."
+R0597,62,Male,Netherlands,PhD,4,2,2,3,3,3,3,4,1,4,I worry I will forget how to do the analysis without the tool.
+R0009,42,Female,DE,Master,5,2,4,5,4,2,3,2,3,2,"Nobody practices the basics now, and it will show in a few years."
+R0511,51,Female,netherlands,Bachelor,4,1,5,3,4,3,3,2,3,2,There is a productivity index on my profile that follows me around.
+R0062,33,Female,BE,Master,5,2,5,5,5,5,4,4,2,5,The translations look fluent but change the meaning of contract clauses.
+R0688,63,Female,BE,PhD,3,4,4,3,3,4,3,2,2,4,"The technology is fine, the people deciding how to use it worry me."
+R0589,46,Male,US,Master,4,3,5,4,4,4,4,3,3,3,"It penalizes career gaps, which mostly hits women here."
+R0647,55,Male,Germany,Master,4,1,4,4,4,3,5,4,2,4,There is a productivity index on my profile that follows me around.
+R1112,64,Male,US,Master,4,2,2,4,3,4,3,4,2,4,Nothing specific comes to mind.
+R1099,52,Male,netherlands,Master,5,2,4,4,4,4,4,3,2,2,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0064,49,Male,BE,Bachelor,2,3,1,2,1,3,2,3,4,3,"Nobody checks the outputs anymore, that is what scares me."
+R1121,34,Female,The Netherlands,PhD,4,2,4,4,4,3,4,3,3,4,Accent recognition fails for some of us and our quality scores suffer.
+R0896,45,Male,The Netherlands,PhD,3,2,3,4,4,3,3,3,2,3,The translations look fluent but change the meaning of contract clauses.
+R1063,58,Male,DE,Master,4,3,3,4,3,3,4,3,2,3,The translations look fluent but change the meaning of contract clauses.
+R0338,54,Male,US,Bachelor,2,3,2,4,4,3,4,4,3,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R1076,45,Female,BE,PhD,2,3,4,3,4,3,3,3,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0044,63,Male,NL,Bachelor,4,1,4,4,4,4,3,3,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0327,49,Female,TR,Master,4,2,3,3,4,3,4,4,2,3,"When it breaks there is no error, just a plausible wrong answer."
+R0090,25,Male,Germany,Master,3,4,4,4,4,2,3,3,3,3,"Nobody checks the outputs anymore, that is what scares me."
+R1020,35,Female,BE,Bachelor,4,2,4,5,5,4,4,4,2,5,Clients already ask why they pay us if a model does the first version.
+R0233,63,Female,germany,Bachelor,4,3,3,4,5,4,3,3,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0744,53,Male,US,Bachelor,3,2,3,3,4,3,2,3,2,3,It invents numbers and management copies them into reports.
+R0165,41,Non-binary,IT,Bachelor,3,3,4,3,4,3,4,4,3,3,"It is moving faster than our policies, on every front at once."
+R1103,18,Male,US,Other,5,1,5,5,5,5,5,5,2,5,I am the youngest here and I figure my entire career will be a race against these systems.
+R0392,57,Female,US,Master,3,3,2,4,3,3,3,3,3,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R1048,25,Non-binary,TR,PhD,4,3,4,3,3,2,2,3,2,4,The summaries miss the one critical detail surprisingly often.
+R0519,37,Female,TR,Master,4,2,4,2,4,4,3,4,3,3,"When it breaks there is no error, just a plausible wrong answer."
+R0598,52,Female,Netherlands,Bachelor,4,2,4,5,5,4,4,4,2,4,The system was trained on the old boys club data and it shows.
+R1062,59,Female,Netherlands,Bachelor,2,4,2,3,3,3,4,4,4,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0528,48,Female,TR,Other,3,2,3,4,4,5,4,3,2,4,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0780,29,Male,The Netherlands,Master,4,1,5,4,5,4,5,4,3,4,I am optimistic about it overall.
+R0792,34,Male,BE,Master,4,3,5,3,5,4,5,4,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0564,22,Male,IT,Master,3,4,4,4,4,3,3,2,3,3,"People trust the answer because it is well written, not because it is right."
+R0411,59,Female,BE,Bachelor,5,2,3,3,2,2,3,2,3,2,It fails on edge cases and our work is mostly edge cases.
+R1106,50,Male,Netherlands,PhD,3,2,4,5,3,4,4,3,3,4,"People trust the answer because it is well written, not because it is right."
+R0332,49,Male,NL,Bachelor,3,2,5,4,5,3,3,4,2,4,"It penalizes career gaps, which mostly hits women here."
+R0563,64,Male,TR,Bachelor,1,4,2,2,1,3,3,3,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0296,26,Female,The Netherlands,Other,3,2,3,4,3,4,3,3,2,4,It fails on edge cases and our work is mostly edge cases.
+R1139,61,Male,NL,PhD,4,4,4,4,3,3,3,3,3,1,"Nobody practices the basics now, and it will show in a few years."
+R1024,54,Non-binary,US,PhD,2,3,2,1,2,2,3,2,2,5,Decisions feel arbitrary and there is no appeal process against the model.
+R0571,48,Female,netherlands,Master,3,4,3,4,2,2,3,3,3,3,It fails on edge cases and our work is mostly edge cases.
+R0518,40,Female,UK,Bachelor,4,3,4,3,2,3,4,3,3,5,"I feel watched all day, the dashboard shows when I am idle."
+R0639,52,Female,TR,Bachelor,4,2,3,4,3,3,3,3,3,3,Last month it merged two clients records and we only noticed by accident.
+R1095,49,Male,The Netherlands,Master,2,3,2,2,3,3,3,2,3,1,It is confidently wrong in ways that are hard to spot.
+R0384,34,Male,Netherlands,Master,3,3,3,4,4,5,4,2,3,3,The summaries miss the one critical detail surprisingly often.
+R0950,42,Male,BE,PhD,4,3,4,3,4,4,3,4,2,4,Last month it merged two clients records and we only noticed by accident.
+R0531,49,Male,netherlands,PhD,1,4,2,4,3,3,3,3,3,3,I worry I will forget how to do the analysis without the tool.
+R0068,28,Female,Germany,PhD,4,2,3,3,4,3,3,3,3,3,"Hard to say, ask me again in a year."
+R0218,59,Male,The Netherlands,Other,5,1,4,4,4,4,4,4,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0356,33,Female,TR,Other,2,4,2,3,3,3,3,2,3,3,"It penalizes career gaps, which mostly hits women here."
+R0535,25,Prefer not to say,NL,Bachelor,5,1,5,5,4,3,4,2,3,4,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0698,23,Female,UK,PhD,4,3,3,4,3,4,3,3,4,4,Last month it merged two clients records and we only noticed by accident.
+R1065,30,Male,netherlands,Bachelor,3,3,2,3,3,3,3,4,3,3,Clients already ask why they pay us if a model does the first version.
+R1052,36,Male,NL,Master,4,3,3,4,4,3,3,3,3,3,"Nobody checks the outputs anymore, that is what scares me."
+R0534,25,Male,Germany,Bachelor,4,2,4,5,4,4,4,5,1,4,The system was trained on the old boys club data and it shows.
+R0395,46,Female,TR,Bachelor,4,2,3,3,3,3,3,3,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0343,41,Male,BE,Master,4,1,4,5,5,5,5,4,2,4,Clients already ask why they pay us if a model does the first version.
+R0147,33,Male,IT,Bachelor,4,2,4,5,4,3,3,3,2,4,New hires cannot troubleshoot anything because the assistant always did it.
+R0542,49,Female,US,Master,2,4,3,3,1,1,2,2,3,4,Clients already ask why they pay us if a model does the first version.
+R0687,22,Female,DE,Master,4,2,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R1032,41,Female,NL,Master,3,1,4,3,4,3,3,4,3,3,Nothing specific comes to mind.
+R1082,26,Female,Germany,PhD,2,4,2,2,3,3,4,3,3,3,We stopped training people properly because the tool covers the gaps.
+R0033,51,Male,Netherlands,Bachelor,2,2,4,3,3,3,2,4,2,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0127,60,Female,The Netherlands,Master,3,2,3,3,3,2,3,3,5,1,"It penalizes career gaps, which mostly hits women here."
+R0358,52,Prefer not to say,Germany,PhD,4,2,5,3,4,3,4,4,1,5,I cannot take a longer break without the tool flagging it to my lead.
+R0203,51,Female,The Netherlands,PhD,4,3,2,2,3,2,4,4,2,4,I worry I will forget how to do the analysis without the tool.
+R0263,47,Female,UK,Bachelor,4,3,3,2,4,2,2,3,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R1148,22,Male,netherlands,Master,2,4,2,2,2,2,3,3,2,4,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0818,47,Male,germany,Master,4,2,3,2,3,4,2,3,4,2,Juniors never learn to write a memo themselves anymore.
+R0162,30,Female,IT,Other,5,2,4,4,3,2,2,4,3,3,My own writing is getting worse because I always start from a draft it makes.
+R0295,58,Male,NL,Master,3,2,2,4,3,4,3,5,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0317,47,Male,NL,Master,3,3,3,2,3,3,2,3,2,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0556,29,Male,netherlands,Bachelor,3,4,4,2,1,2,1,2,4,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0605,36,Female,NL,Other,2,4,3,2,1,2,3,3,4,3,Accent recognition fails for some of us and our quality scores suffer.
+R0023,39,Male,IT,Master,3,3,3,4,3,4,3,3,3,3,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0013,48,Male,US,Other,5,2,4,4,4,3,3,3,2,2,"It is moving faster than our policies, on every front at once."
+R0452,27,Female,germany,Master,5,3,5,3,4,3,3,4,2,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0196,38,Female,IT,Bachelor,2,3,3,3,1,2,2,2,5,3,"Nobody checks the outputs anymore, that is what scares me."
+R0973,29,Prefer not to say,netherlands,Master,5,2,4,5,4,4,3,4,1,3,My calls are transcribed and analyzed without anyone asking me.
+R0706,63,Female,CN,Master,3,3,4,2,3,4,3,3,3,5,It fails on edge cases and our work is mostly edge cases.
+R1170,43,Male,TR,Bachelor,3,3,3,3,3,4,5,4,2,5,"Nobody practices the basics now, and it will show in a few years."
+R0430,46,Male,Netherlands,Bachelor,2,5,3,2,3,2,3,4,3,4,"People trust the answer because it is well written, not because it is right."
+R0967,52,Female,Germany,Master,5,3,3,3,3,3,3,3,3,4,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0444,61,Male,netherlands,Master,3,3,5,3,3,3,3,2,3,3,We had to redo a whole analysis because the tool silently dropped rows.
+R0733,46,Male,The Netherlands,Bachelor,1,4,2,3,2,4,2,3,3,4,No concerns.
+R0633,21,Non-binary,Netherlands,Bachelor,3,3,4,3,3,2,4,2,2,2,Keeping up with every new tool is exhausting and I am falling behind.
+R0584,47,Female,CN,Master,4,3,3,3,4,3,3,2,3,2,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0248,37,Female,US,Other,4,3,3,5,3,4,4,4,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0926,59,Male,Germany,Bachelor,4,2,3,3,4,3,3,4,3,4,I cannot take a longer break without the tool flagging it to my lead.
+R0828,44,Prefer not to say,The Netherlands,Bachelor,2,4,2,3,2,5,3,5,2,3,"Nobody checks the outputs anymore, that is what scares me."
+R0019,29,Female,NL,Bachelor,5,2,4,4,4,4,5,5,1,5,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0615,62,Male,DE,Bachelor,3,2,3,3,4,4,4,3,3,5,"The screening tool filters out people with non-Western names, I have seen it."
+R1156,33,Male,The Netherlands,PhD,4,3,5,4,4,3,4,4,2,3,Two colleagues did the same work and got very different automated ratings.
+R1002,29,Male,The Netherlands,Bachelor,3,3,3,3,3,4,3,3,3,2,The system decides my schedule and there is no one to argue with.
+R0415,60,Female,DE,Bachelor,4,2,5,4,4,4,3,3,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0439,34,Male,CN,Bachelor,3,3,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R0059,41,Female,BE,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0258,32,Male,NL,Bachelor,3,2,4,5,3,3,2,4,2,5,It invents numbers and management copies them into reports.
+R0299,65,Male,CN,Bachelor,4,2,4,3,3,3,5,4,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0124,43,Female,BE,Master,3,4,3,4,3,4,5,3,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0667,230,Female,The Netherlands,Master,4,2,2,3,4,4,4,3,4,3,The system decides my schedule and there is no one to argue with.
+R0142,43,Female,UK,Master,5,2,4,4,4,3,3,3,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0907,50,Prefer not to say,UK,PhD,4,3,4,4,4,2,3,3,3,3,It invents numbers and management copies them into reports.
+R0770,21,Male,UK,Master,3,3,3,2,2,3,2,3,4,4,The translations look fluent but change the meaning of contract clauses.
+R0905,28,Female,TR,Master,4,1,5,4,4,4,4,3,2,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0893,37,Female,The Netherlands,Bachelor,2,3,3,3,2,4,3,4,3,3,Every keystroke is logged and turned into a score now.
+R0042,43,Female,NL,Bachelor,3,4,2,3,3,3,3,2,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0111,55,Male,TR,PhD,3,4,2,4,4,4,3,4,2,5,Accent recognition fails for some of us and our quality scores suffer.
+R0796,55,Male,US,Bachelor,3,2,3,4,3,3,4,3,3,3,My role feels replaceable now that the system drafts most of it.
+R0292,33,Female,Netherlands,Master,4,2,4,5,4,4,3,3,2,4,Management keeps hinting that the team will be smaller next year because of these tools.
+R0131,66,Female,The Netherlands,Master,4,2,4,4,3,4,3,4,2,4,I think most of what I do could be automated before long.
+R0517,60,Male,TR,Master,3,2,3,2,3,4,3,3,1,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0309,51,Female,netherlands,PhD,5,1,4,4,4,3,4,4,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R0357,61,Female,CN,Master,3,3,5,3,4,3,3,4,2,3,We had to redo a whole analysis because the tool silently dropped rows.
+R0209,52,Female,Netherlands,PhD,4,2,4,4,4,3,4,3,2,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0471,28,Male,DE,Other,3,3,3,3,3,4,3,4,2,5,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0936,60,Female,DE,Master,5,3,4,3,4,3,3,3,3,3,It invents numbers and management copies them into reports.
+R0693,54,Female,UK,Other,3,2,3,3,1,2,2,3,3,2,Nothing specific comes to mind.
+R0606,33,Female,Netherlands,PhD,3,4,3,3,2,2,4,3,4,4,It invents numbers and management copies them into reports.
+R0126,62,Prefer not to say,BE,Other,3,3,1,2,3,4,3,3,3,2,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0676,59,Female,Germany,Master,3,2,3,4,4,3,3,2,3,3,"The junior positions are disappearing, which is how I got my start."
+R0707,51,Male,CN,Bachelor,3,3,4,4,4,4,4,4,2,4,"When it breaks there is no error, just a plausible wrong answer."
+R0539,39,Female,DE,Bachelor,4,3,4,2,4,3,4,3,2,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0685,60,Male,UK,Master,3,2,4,4,5,5,4,5,3,4,"People trust the answer because it is well written, not because it is right."
+R0321,65,Male,The Netherlands,Bachelor,5,2,5,4,4,4,3,2,2,3,"Older colleagues get worse recommendations from it, consistently."
+R0996,65,Male,germany,Bachelor,3,3,2,4,3,3,4,4,3,4,"Older colleagues get worse recommendations from it, consistently."
+R1026,63,Female,Germany,Bachelor,2,3,3,3,2,3,2,3,4,3,Decisions feel arbitrary and there is no appeal process against the model.
+R1109,38,Male,BE,Bachelor,3,3,3,4,2,3,2,3,2,3,It is confidently wrong in ways that are hard to spot.
+R0042,43,Female,NL,Bachelor,3,4,2,3,3,3,3,2,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0189,61,Male,BE,Master,4,4,3,4,3,3,3,3,4,3,Decisions feel arbitrary and there is no appeal process against the model.
+R1046,66,Female,The Netherlands,Master,5,1,3,3,4,4,3,5,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0635,55,Female,US,Master,4,3,2,2,2,3,4,4,2,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0766,36,Female,NL,Other,3,2,3,4,4,4,2,4,2,4,The system decides my schedule and there is no one to argue with.
+R1165,36,Male,IT,Bachelor,3,3,3,3,3,3,3,2,3,2,It invents numbers and management copies them into reports.
+R0365,51,Female,BE,Master,5,2,5,4,4,5,5,5,2,4,No concerns.
+R0208,57,Male,netherlands,Master,3,4,3,5,4,4,4,3,2,2,"I feel watched all day, the dashboard shows when I am idle."
+R0400,34,Female,CN,Bachelor,3,3,3,3,3,4,4,3,3,3,We get weekly reports about our own behavior that we never agreed to.
+R0219,30,Female,IT,Master,4,3,4,3,4,3,4,5,3,3,"The craft side of this job is eroding, we just edit machine output."
+R0376,29,Female,NL,Bachelor,4,1,3,4,5,3,3,3,3,3,"The junior positions are disappearing, which is how I got my start."
+R0104,40,Female,DE,Master,4,2,3,5,4,4,4,3,2,2,My role feels replaceable now that the system drafts most of it.
+R0451,51,Male,UK,Master,4,2,3,5,3,5,4,4,1,4,"The junior positions are disappearing, which is how I got my start."
+R0585,22,Male,BE,PhD,3,3,3,3,3,3,3,4,4,4,Last month it merged two clients records and we only noticed by accident.
+R0680,26,Female,Germany,Master,3,3,4,2,2,1,2,2,4,2,My own writing is getting worse because I always start from a draft it makes.
+R0441,21,Female,NL,Master,2,3,1,4,3,3,3,2,2,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0692,49,Female,UK,Bachelor,2,3,3,2,2,3,3,4,4,2,"None really, I find it mostly helpful."
+R0817,50,Male,DE,Master,4,2,3,3,2,5,4,3,3,4,The translations look fluent but change the meaning of contract clauses.
+R0003,47,Female,netherlands,PhD,3,2,5,3,5,3,3,4,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0245,49,Female,BE,Master,3,2,5,4,4,3,3,4,3,4,My own writing is getting worse because I always start from a draft it makes.
+R0122,26,Male,The Netherlands,Master,3,3,3,4,3,2,4,3,3,3,We get weekly reports about our own behavior that we never agreed to.
+R0657,38,Male,TR,Other,4,3,3,2,3,4,3,3,3,3,"It is moving faster than our policies, on every front at once."
+R0345,45,Male,TR,Master,3,3,3,3,1,4,4,2,3,3,I am becoming dependent on it for things I used to do from memory.
+R0716,62,Male,TR,Other,3,2,4,4,3,4,3,4,3,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0537,55,Prefer not to say,germany,Master,4,2,3,4,4,4,2,3,2,3,We had to redo a whole analysis because the tool silently dropped rows.
+R0656,39,Female,The Netherlands,Master,3,3,2,3,3,3,3,3,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0527,32,Male,CN,PhD,5,2,5,4,4,3,4,4,3,4,"It is moving faster than our policies, on every front at once."
+R0112,34,Male,DE,Bachelor,3,2,4,3,4,4,3,3,3,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0478,22,Male,DE,Bachelor,4,3,3,3,4,3,3,3,3,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0328,47,Male,TR,Master,1,4,2,3,3,3,3,3,4,2,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0191,40,Prefer not to say,BE,Bachelor,4,2,5,4,4,4,3,4,2,2,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R1017,43,Male,Netherlands,Bachelor,2,3,2,3,1,4,4,4,3,2,We had to redo a whole analysis because the tool silently dropped rows.
+R0722,56,Non-binary,germany,Other,3,2,5,5,5,5,3,4,2,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0036,34,Female,The Netherlands,Bachelor,3,3,2,3,3,3,3,3,3,3,"The junior positions are disappearing, which is how I got my start."
+R0933,35,Female,TR,Bachelor,2,5,1,2,2,3,2,3,5,3,There is a productivity index on my profile that follows me around.
+R1003,54,Male,CN,Bachelor,4,3,2,4,3,3,3,3,2,3,Last month it merged two clients records and we only noticed by accident.
+R0470,58,Female,IT,Master,4,3,4,4,3,4,3,3,3,4,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0107,26,Female,germany,Bachelor,3,3,4,3,3,3,3,3,2,2,"The screening tool filters out people with non-Western names, I have seen it."
+R0781,30,Male,NL,Master,4,2,3,4,4,4,4,5,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0140,32,Female,netherlands,Bachelor,3,4,3,3,3,3,2,2,4,2,Promotion scores come from a model nobody can explain.
+R0945,25,Male,DE,PhD,4,2,5,5,5,3,4,4,2,4,The summaries miss the one critical detail surprisingly often.
+R0948,32,Male,CN,Bachelor,3,3,4,3,5,3,3,4,3,4,"Older colleagues get worse recommendations from it, consistently."
+R0375,27,Female,Netherlands,Master,2,4,3,2,3,3,2,2,3,3,"Autonomy is gone, the system assigns and times everything."
+R1074,56,Male,CN,Master,3,2,5,3,2,3,4,5,3,4,I think most of what I do could be automated before long.
+R1162,62,Female,IT,Other,3,2,5,5,5,3,4,4,2,3,The translations look fluent but change the meaning of contract clauses.
+R1105,59,Male,IT,Bachelor,2,3,2,3,2,3,3,4,3,3,"Nobody checks the outputs anymore, that is what scares me."
+R1042,35,Female,UK,Master,3,3,3,4,4,3,2,2,4,3,"When it breaks there is no error, just a plausible wrong answer."
+R0543,32,Male,netherlands,Master,3,3,4,4,4,4,3,4,2,4,Juniors never learn to write a memo themselves anymore.
+R0875,34,Female,BE,Bachelor,4,2,4,4,4,4,4,3,3,4,My own writing is getting worse because I always start from a draft it makes.
+R0507,49,Male,US,Other,3,3,4,3,2,5,5,4,2,4,I worry I will forget how to do the analysis without the tool.
+R0153,44,Female,BE,Bachelor,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0006,48,Male,NL,Bachelor,4,3,3,3,3,3,4,3,4,4,The translations look fluent but change the meaning of contract clauses.
+R1124,58,Female,NL,Bachelor,4,3,3,3,3,3,4,4,1,3,"None really, I find it mostly helpful."
+R0867,29,Male,DE,Master,3,4,3,3,4,2,3,4,3,3,We stopped training people properly because the tool covers the gaps.
+R0918,45,Female,UK,Bachelor,2,4,3,2,2,3,5,3,2,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0501,23,Female,Germany,Bachelor,4,2,4,5,4,2,3,3,3,2,My own writing is getting worse because I always start from a draft it makes.
+R0372,25,Male,UK,PhD,3,3,3,3,3,2,2,2,3,3,"Older colleagues get worse recommendations from it, consistently."
+R0670,51,Male,CN,Master,1,5,2,2,2,2,3,2,4,2,My own writing is getting worse because I always start from a draft it makes.
+R0794,64,Female,netherlands,Bachelor,2,2,4,4,3,3,4,4,3,4,Nothing specific comes to mind.
+R0143,37,Female,Netherlands,Bachelor,4,2,3,3,3,3,2,4,3,3,No concerns.
+R0603,56,Male,netherlands,Other,3,4,3,3,2,4,4,4,2,2,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0106,32,Male,netherlands,Bachelor,3,4,3,2,3,3,3,2,3,4,Juniors never learn to write a memo themselves anymore.
+R0442,37,Female,The Netherlands,Master,3,1,3,3,4,3,3,4,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0882,21,Male,UK,Bachelor,3,3,5,3,3,3,3,3,3,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0246,55,Male,TR,PhD,3,3,4,4,4,3,2,2,4,3,My calls are transcribed and analyzed without anyone asking me.
+R0065,57,Female,The Netherlands,Master,3,3,2,3,3,2,3,3,3,3,It invents numbers and management copies them into reports.
+R0600,64,Female,DE,Other,3,3,2,4,4,4,3,2,2,4,Nothing specific comes to mind.
+R0662,29,Female,IT,Master,4,2,5,5,4,3,4,4,2,4,"Nobody practices the basics now, and it will show in a few years."
+R0247,45,Male,The Netherlands,Bachelor,5,1,4,5,4,3,4,3,4,3,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R1131,32,Female,germany,PhD,3,2,3,5,3,4,3,3,2,2,I am optimistic about it overall.
+R0125,28,Male,CN,Other,4,1,4,4,4,3,4,3,2,4,"When it breaks there is no error, just a plausible wrong answer."
+R0906,59,Female,DE,Master,2,5,2,2,2,3,2,3,3,2,"Nobody practices the basics now, and it will show in a few years."
+R0968,42,Male,NL,Bachelor,3,3,2,1,2,2,3,3,3,3,Last month it merged two clients records and we only noticed by accident.
+R0502,54,Male,TR,Master,3,3,2,2,2,2,2,2,4,1,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0569,58,Male,CN,Other,4,4,3,3,3,2,2,3,4,3,I cannot take a longer break without the tool flagging it to my lead.
+R0760,29,Male,The Netherlands,Master,5,3,5,4,3,3,3,2,3,3,Juniors never learn to write a memo themselves anymore.
+R0075,43,Male,BE,Master,1,4,1,2,2,1,1,1,5,1,"It is moving faster than our policies, on every front at once."
+R0066,47,Male,Germany,PhD,5,2,3,5,4,4,4,5,2,4,I think most of what I do could be automated before long.
+R1060,40,Female,IT,Bachelor,4,2,4,4,4,4,3,3,2,4,Management keeps hinting that the team will be smaller next year because of these tools.
+R0841,63,Female,BE,Master,5,1,4,4,5,4,5,5,1,5,"The craft side of this job is eroding, we just edit machine output."
+R1019,46,Male,netherlands,Master,3,3,2,4,4,4,4,4,3,4,The system decides my schedule and there is no one to argue with.
+R0824,28,Male,UK,Bachelor,5,1,3,4,4,5,4,5,3,5,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R1036,53,Male,BE,Master,5,1,4,5,5,4,5,5,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0684,51,Male,US,Master,4,1,4,4,4,3,3,3,2,4,We stopped training people properly because the tool covers the gaps.
+R1108,59,Male,Germany,Other,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0975,54,Female,Netherlands,Bachelor,1,4,3,2,3,4,2,3,3,2,"Nobody practices the basics now, and it will show in a few years."
+R0099,45,Male,Germany,Bachelor,3,2,3,3,5,2,4,3,3,4,My own writing is getting worse because I always start from a draft it makes.
+R0790,31,Female,NL,Bachelor,5,1,4,4,4,3,3,4,1,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0834,61,Male,Germany,Bachelor,3,3,3,3,2,3,2,3,3,2,"The craft side of this job is eroding, we just edit machine output."
+R0832,58,Female,netherlands,Bachelor,4,3,3,4,4,3,3,3,3,2,It fails on edge cases and our work is mostly edge cases.
+R0408,43,Male,Netherlands,Master,4,3,3,3,4,4,4,4,3,5,We stopped training people properly because the tool covers the gaps.
+R0751,41,Male,IT,PhD,5,1,5,5,5,4,4,4,1,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0291,40,Female,NL,Bachelor,4,2,4,3,3,3,3,5,4,3,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0135,34,Female,UK,PhD,4,3,3,3,2,2,3,4,2,3,"I mostly worry about how management will use it, in every sense."
+R0496,40,Male,IT,Master,4,2,4,3,4,4,3,3,3,4,There is a productivity index on my profile that follows me around.
+R0694,53,Male,The Netherlands,Master,5,2,4,4,3,5,5,4,2,4,My role feels replaceable now that the system drafts most of it.
+R0732,40,Male,TR,Bachelor,5,2,4,5,4,3,3,3,4,3,"People trust the answer because it is well written, not because it is right."
+R0849,32,Male,netherlands,Bachelor,5,2,4,4,4,4,3,4,2,5,Keeping up with every new tool is exhausting and I am falling behind.
+R0264,45,Male,The Netherlands,Master,4,1,4,4,5,3,3,4,3,3,Decisions feel arbitrary and there is no appeal process against the model.
+R0123,28,Male,Germany,Master,2,3,3,3,3,4,3,3,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0244,49,Male,BE,Master,5,3,5,4,4,3,4,4,3,3,Keeping up with every new tool is exhausting and I am falling behind.
+R1084,63,Female,Germany,Bachelor,2,2,2,3,4,2,3,2,3,4,New hires cannot troubleshoot anything because the assistant always did it.
+R0240,40,Female,IT,PhD,4,1,4,4,3,5,4,4,3,4,"The junior positions are disappearing, which is how I got my start."
+R0151,24,Female,IT,PhD,5,2,4,4,4,3,3,3,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0304,52,Male,NL,Master,3,1,4,4,4,2,3,3,2,4,"The craft side of this job is eroding, we just edit machine output."
+R0830,31,Female,netherlands,Bachelor,2,3,3,3,3,2,2,2,3,2,"The craft side of this job is eroding, we just edit machine output."
+R0010,43,Male,IT,Bachelor,4,2,5,5,5,4,3,3,3,2,"The technology is fine, the people deciding how to use it worry me."
+R0675,62,Female,DE,Bachelor,3,3,4,4,3,3,2,4,3,3,We stopped training people properly because the tool covers the gaps.
+R0894,48,Female,Netherlands,Bachelor,4,3,4,3,3,5,2,4,2,4,Accent recognition fails for some of us and our quality scores suffer.
+R0679,30,Male,Germany,PhD,3,2,3,3,4,3,4,3,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0825,52,Male,UK,Master,4,2,5,5,5,4,4,5,2,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0069,21,Female,CN,Master,3,4,4,3,3,2,3,2,4,2,No concerns.
+R1163,58,Male,TR,Master,5,2,3,4,4,4,4,3,3,4,There is a productivity index on my profile that follows me around.
+R1000,49,Non-binary,germany,Master,4,2,3,4,3,3,4,3,2,3,"The technology is fine, the people deciding how to use it worry me."
+R0691,41,Prefer not to say,NL,Master,2,3,3,2,1,3,3,3,4,4,I worry I will forget how to do the analysis without the tool.
+R0129,56,Female,UK,PhD,3,2,4,4,4,4,4,4,3,2,It invents numbers and management copies them into reports.
+R0664,21,Female,IT,Master,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0725,54,Male,UK,Master,4,3,2,3,3,4,4,2,2,3,It invents numbers and management copies them into reports.
+R0221,52,Male,BE,Master,4,2,3,3,4,3,4,4,2,2,"Nobody checks the outputs anymore, that is what scares me."
+R0290,28,Male,BE,Master,3,2,3,3,3,3,3,4,2,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R1174,34,Female,DE,Bachelor,3,4,3,3,4,2,4,4,2,3,I cannot take a longer break without the tool flagging it to my lead.
+R0015,36,Female,netherlands,Master,5,1,4,4,5,4,3,3,2,3,"Nobody checks the outputs anymore, that is what scares me."
+R0241,55,Male,TR,Other,4,4,4,4,4,4,4,4,4,4,"None really, I find it mostly helpful."
+R0344,48,Male,Germany,Other,4,2,4,3,4,4,4,3,3,5,My role feels replaceable now that the system drafts most of it.
+R0492,27,Male,DE,Master,2,4,3,2,4,2,3,3,3,5,The translations look fluent but change the meaning of contract clauses.
+R0730,34,Male,The Netherlands,Master,4,1,4,4,3,3,4,3,1,4,Two colleagues did the same work and got very different automated ratings.
+R0335,33,Male,BE,PhD,5,3,3,4,3,3,3,3,3,3,"The craft side of this job is eroding, we just edit machine output."
+R0016,350,Male,The Netherlands,Master,3,3,3,3,2,4,4,4,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0236,45,Female,US,PhD,5,2,4,5,4,5,4,4,2,4,We get weekly reports about our own behavior that we never agreed to.
+R0100,34,Female,UK,Master,3,4,3,2,4,3,3,3,3,1,We stopped training people properly because the tool covers the gaps.
+R1034,39,Male,TR,Bachelor,2,3,2,2,3,2,3,3,4,2,"When it breaks there is no error, just a plausible wrong answer."
+R0525,44,Male,Netherlands,Bachelor,4,1,4,4,5,4,4,5,3,3,Last month it merged two clients records and we only noticed by accident.
+R0318,43,Male,CN,Master,2,3,2,3,4,2,3,3,2,2,"The junior positions are disappearing, which is how I got my start."
+R0303,33,Female,Netherlands,Bachelor,3,1,4,4,4,3,4,3,3,3,I worry I will forget how to do the analysis without the tool.
+R0526,41,Female,netherlands,PhD,4,3,4,4,4,3,4,3,2,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0034,28,Male,NL,Bachelor,4,3,2,2,2,3,4,3,2,4,"Whoever understands the tool best games the metrics, the rest of us lose."
+R1119,33,Female,BE,Other,2,5,3,2,2,2,4,3,2,4,Promotion scores come from a model nobody can explain.
+R0604,31,Male,NL,Master,3,2,4,3,4,3,3,3,3,3,It tracks how fast I answer messages and my manager brings it up in reviews.
+R1069,39,Male,netherlands,Master,2,3,3,5,3,4,1,3,3,3,"None really, I find it mostly helpful."
+R1012,54,Male,BE,PhD,3,3,3,4,3,3,4,3,2,4,Every keystroke is logged and turned into a score now.
+R0648,51,Male,UK,Master,3,2,3,2,3,3,3,4,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R0609,33,Male,The Netherlands,Bachelor,3,3,3,3,3,2,4,3,3,2,Accent recognition fails for some of us and our quality scores suffer.
+R0621,26,Female,TR,Master,2,3,2,2,2,2,4,4,2,3,My own writing is getting worse because I always start from a draft it makes.
+R0417,48,Male,NL,Master,3,3,3,3,3,3,4,3,2,3,It invents numbers and management copies them into reports.
+R0720,56,Male,germany,Bachelor,5,2,5,5,4,4,4,4,2,4,The summaries miss the one critical detail surprisingly often.
+R0819,26,Male,US,PhD,5,1,5,5,5,4,4,5,1,5,Last month it merged two clients records and we only noticed by accident.
+R0555,59,Female,BE,Master,3,2,4,4,4,3,3,3,4,3,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0607,53,Female,netherlands,Bachelor,3,3,4,4,3,4,3,3,4,2,I fear my skills will not transfer anywhere once this place fully automates.
+R0313,52,Male,netherlands,Master,3,3,3,3,4,3,4,3,2,3,"People trust the answer because it is well written, not because it is right."
+R1031,38,Female,germany,Bachelor,4,2,3,4,4,3,2,2,2,3,Accent recognition fails for some of us and our quality scores suffer.
+R0514,64,Male,UK,Bachelor,3,3,3,3,4,2,3,3,3,2,Nothing specific comes to mind.
+R0058,50,Male,The Netherlands,Master,5,2,2,4,5,2,2,3,3,3,"I mostly worry about how management will use it, in every sense."
+R0037,36,Male,CN,Bachelor,3,2,4,4,3,3,2,3,3,3,My calls are transcribed and analyzed without anyone asking me.
+R1029,33,Female,IT,PhD,4,3,5,4,4,4,4,3,2,3,Accent recognition fails for some of us and our quality scores suffer.
+R0545,30,Female,netherlands,Bachelor,4,1,4,4,4,5,2,4,2,4,Accent recognition fails for some of us and our quality scores suffer.
+R0806,34,Male,BE,Bachelor,3,5,2,2,2,2,1,1,4,2,"I mostly worry about how management will use it, in every sense."
+R0204,41,Male,UK,Master,4,2,2,4,4,4,3,4,2,3,The translations look fluent but change the meaning of contract clauses.
+R1016,28,Male,CN,Bachelor,3,1,4,3,4,2,2,2,3,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0954,52,Female,BE,Bachelor,3,4,3,4,3,4,4,4,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0512,26,Female,UK,Master,4,2,3,3,3,2,4,4,2,3,The summaries miss the one critical detail surprisingly often.
+R1137,57,Female,The Netherlands,Bachelor,3,3,3,2,3,4,3,4,3,2,I am optimistic about it overall.
+R0800,54,Female,netherlands,Bachelor,5,2,4,3,3,4,3,5,3,4,It is confidently wrong in ways that are hard to spot.
+R0749,32,Female,UK,PhD,4,3,3,3,2,3,4,4,3,4,It invents numbers and management copies them into reports.
+R0370,29,Male,UK,Bachelor,2,4,3,2,4,3,4,4,3,3,If the pilot succeeds I do not see why they would keep three of us on this task.
+R1136,53,Male,BE,Master,3,2,2,3,2,4,4,3,3,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0999,32,Male,DE,Other,4,2,4,3,3,4,3,5,2,4,The translations look fluent but change the meaning of contract clauses.
+R0274,60,Male,netherlands,Master,2,4,2,2,3,2,3,3,4,2,The summaries miss the one critical detail surprisingly often.
+R0426,44,Female,netherlands,PhD,5,2,4,3,3,4,4,3,3,3,New hires cannot troubleshoot anything because the assistant always did it.
+R1125,23,Female,Netherlands,Master,3,3,3,4,4,2,3,2,3,3,The system was trained on the old boys club data and it shows.
+R0354,21,Female,The Netherlands,Master,4,1,5,4,5,4,3,4,2,3,"I feel watched all day, the dashboard shows when I am idle."
+R0480,44,Male,The Netherlands,Other,3,3,4,3,4,2,3,3,3,2,I think 60 percent of what I do could be automated before long.
+R0225,32,Male,germany,Bachelor,3,3,2,4,3,4,3,3,4,4,"I feel watched all day, the dashboard shows when I am idle."
+R0423,53,Male,TR,Master,4,1,4,4,2,4,5,3,3,4,The summaries miss the one critical detail surprisingly often.
+R0884,38,Male,The Netherlands,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0853,27,Female,netherlands,PhD,5,3,5,3,5,4,5,4,2,4,"People trust the answer because it is well written, not because it is right."
+R0128,60,Male,Germany,Master,4,1,4,4,4,4,4,4,2,4,It is confidently wrong in ways that are hard to spot.
+R0797,41,Prefer not to say,DE,Master,3,3,4,3,2,3,3,2,3,3,I cannot take a longer break without the tool flagging it to my lead.
+R1129,53,Male,germany,Master,3,1,5,5,4,4,5,5,1,5,I am optimistic about it overall.
+R0673,21,Female,The Netherlands,Master,4,4,4,3,4,4,3,3,2,3,It invents numbers and management copies them into reports.
+R0746,58,Female,netherlands,Master,4,3,3,3,2,4,3,2,4,4,No concerns.
+R0499,55,Female,Netherlands,Bachelor,4,3,4,4,4,4,5,4,2,3,I think a third of what I do could be automated before long.
+R0388,62,Male,NL,Bachelor,3,3,3,2,4,3,2,3,2,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R1116,65,Prefer not to say,netherlands,PhD,4,2,3,4,4,3,3,3,4,1,Keeping up with every new tool is exhausting and I am falling behind.
+R0728,38,Female,BE,Bachelor,2,5,2,1,1,2,2,3,4,1,I think 60 percent of what I do could be automated before long.
+R0771,52,Female,IT,Other,1,5,1,2,2,2,3,2,4,3,Promotion scores come from a model nobody can explain.
+R1178,34,Female,IT,Master,1,4,2,2,2,4,2,3,3,4,"I feel watched all day, the dashboard shows when I am idle."
+R0810,30,Male,The Netherlands,Bachelor,3,2,4,2,3,3,3,3,3,2,We get weekly reports about our own behavior that we never agreed to.
+R0346,40,Male,netherlands,Master,3,2,3,3,3,3,4,2,3,3,"The technology is fine, the people deciding how to use it worry me."
+R0747,46,Female,BE,Master,3,3,2,3,3,4,3,3,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R1077,23,Male,Germany,Master,5,2,5,5,5,5,4,4,1,3,Two colleagues did the same work and got very different automated ratings.
+R0348,30,Male,TR,Bachelor,3,3,2,2,2,3,3,2,3,2,"Wages in my function have been flat since automation started, that is my real worry."
+R0702,40,Male,netherlands,Bachelor,3,3,2,3,3,3,3,2,4,3,"Nobody practices the basics now, and it will show in a few years."
+R0333,41,Female,CN,Bachelor,4,1,4,5,4,4,3,4,2,4,Juniors never learn to write a memo themselves anymore.
+R0383,41,Male,Germany,Bachelor,2,4,2,3,3,3,3,3,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0711,36,Female,US,Bachelor,2,2,3,3,3,3,3,1,4,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0130,42,Male,netherlands,Bachelor,3,2,2,3,3,4,4,4,2,2,I worry I will forget how to do the analysis without the tool.
+R0708,58,Male,CN,Bachelor,3,3,3,3,3,4,5,3,2,4,"When it breaks there is no error, just a plausible wrong answer."
+R0573,28,Male,NL,Master,3,3,3,3,3,4,4,3,3,3,It invents numbers and management copies them into reports.
+R0442,37,Female,The Netherlands,Master,3,1,3,3,4,3,3,4,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0991,55,Female,IT,Bachelor,4,2,3,3,4,3,4,3,2,3,"They will not fire anyone, they just will not replace people who leave."
+R1049,33,Female,BE,Other,2,3,3,2,2,3,3,4,2,2,Last month it merged two clients records and we only noticed by accident.
+R0272,41,Female,CN,Bachelor,4,2,3,4,3,3,4,2,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0456,38,Female,TR,Master,3,3,4,3,3,3,3,3,2,4,Accent recognition fails for some of us and our quality scores suffer.
+R1064,31,Male,Germany,PhD,3,2,3,4,4,4,4,4,2,5,I am optimistic about it overall.
+R0269,37,Male,IT,PhD,4,1,4,4,4,3,4,4,3,4,"It is moving faster than our policies, on every front at once."
+R0144,62,Prefer not to say,CN,Bachelor,5,1,5,5,5,5,4,5,1,5,The system decides my schedule and there is no one to argue with.
+R0741,52,Male,CN,Bachelor,4,1,4,3,3,4,2,4,2,4,It fails on edge cases and our work is mostly edge cases.
+R0004,43,Male,UK,Master,4,3,2,1,2,2,3,2,5,4,"I feel watched all day, the dashboard shows when I am idle."
+R0601,32,Female,US,Bachelor,5,2,5,5,4,4,3,3,3,4,I am optimistic about it overall.
+R0719,27,Female,UK,PhD,4,2,4,4,5,3,4,3,3,3,It invents numbers and management copies them into reports.
+R0200,38,Male,DE,Master,3,2,4,4,5,3,3,5,3,4,"It is moving faster than our policies, on every front at once."
+R0848,52,Non-binary,DE,Bachelor,3,3,4,3,2,5,5,4,1,4,Every keystroke is logged and turned into a score now.
+R0971,38,Female,Netherlands,Other,3,1,5,3,4,4,4,4,2,4,Nothing specific comes to mind.
+R0570,28,Male,IT,Master,4,2,4,5,5,4,5,5,2,4,"The screening tool filters out people with non-Western names, I have seen it."
+R0558,61,Female,The Netherlands,Master,3,3,3,3,3,4,4,5,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0852,46,Male,NL,PhD,2,3,2,2,2,2,2,3,4,3,It is confidently wrong in ways that are hard to spot.
+R0756,38,Female,DE,Master,3,3,3,3,2,3,3,3,2,2,We had to redo a whole analysis because the tool silently dropped rows.
+R0364,28,Male,IT,Master,4,3,4,4,3,4,3,3,3,3,The summaries miss the one critical detail surprisingly often.
+R0980,27,Male,TR,Bachelor,3,3,4,4,3,4,4,3,2,4,"People trust the answer because it is well written, not because it is right."
+R0226,49,Female,NL,Other,2,3,2,3,2,3,3,3,3,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0653,56,Female,UK,Master,3,4,2,3,2,3,1,3,3,3,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0624,46,Female,Germany,Bachelor,4,2,3,4,3,5,3,3,3,4,My own writing is getting worse because I always start from a draft it makes.
+R0190,55,Female,Netherlands,Bachelor,5,3,4,4,3,3,3,2,2,2,My own writing is getting worse because I always start from a draft it makes.
+R0943,36,Male,US,PhD,4,1,5,5,4,4,3,3,1,5,We get weekly reports about our own behavior that we never agreed to.
+R0854,34,Male,The Netherlands,Other,4,1,3,2,5,3,3,4,3,2,"Nobody practices the basics now, and it will show in a few years."
+R0202,47,Female,The Netherlands,Master,4,3,3,2,3,3,3,2,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0429,46,Prefer not to say,DE,Master,3,3,4,4,5,3,3,2,3,2,No concerns.
+R0758,65,Male,CN,Bachelor,3,2,4,4,3,4,3,3,2,2,Last month it merged two clients records and we only noticed by accident.
+R0379,59,Female,IT,Other,4,3,4,4,3,3,4,4,3,4,It is confidently wrong in ways that are hard to spot.
+R0640,61,Non-binary,BE,Bachelor,2,4,2,2,3,3,3,3,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0891,32,Female,Netherlands,Master,4,2,4,3,3,3,3,3,2,4,I fear my skills will not transfer anywhere once this place fully automates.
+R0988,56,Female,UK,Bachelor,4,2,4,4,4,3,4,4,2,4,There is a productivity index on my profile that follows me around.
+R0863,50,Male,IT,Master,4,1,3,4,3,3,3,5,3,3,"They will not fire anyone, they just will not replace people who leave."
+R1086,46,Female,DE,Bachelor,3,3,4,3,3,3,3,3,2,3,"The junior positions are disappearing, which is how I got my start."
+R0765,56,Male,NL,Master,4,4,3,2,2,3,4,3,3,4,"The technology is fine, the people deciding how to use it worry me."
+R0053,27,Female,netherlands,Bachelor,4,5,3,3,3,4,3,3,3,2,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0052,29,Non-binary,CN,Bachelor,3,4,2,3,2,3,3,3,2,3,I think half of what I do could be automated before long.
+R0636,40,Male,netherlands,Master,4,3,3,3,2,2,4,3,2,3,"Older colleagues get worse recommendations from it, consistently."
+R0435,54,Male,IT,PhD,4,2,5,3,4,3,3,3,3,4,Last month it merged two clients records and we only noticed by accident.
+R0922,64,Female,UK,PhD,2,3,1,2,2,3,4,3,4,2,Last month it merged two clients records and we only noticed by accident.
+R0923,57,Prefer not to say,UK,PhD,3,2,3,3,4,4,4,3,2,4,"Autonomy is gone, the system assigns and times everything."
+R0214,45,Female,Germany,Bachelor,3,3,3,4,3,3,3,2,3,3,"The junior positions are disappearing, which is how I got my start."
+R0551,53,Female,BE,Master,3,2,3,3,3,4,2,4,2,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R1169,24,Female,Netherlands,PhD,4,2,5,5,5,5,5,5,1,4,"When it breaks there is no error, just a plausible wrong answer."
+R1075,49,Prefer not to say,netherlands,Master,3,1,5,3,4,4,4,4,2,3,"I feel watched all day, the dashboard shows when I am idle."
+R0277,60,Male,TR,Other,3,3,2,4,4,2,3,3,3,3,"When it breaks there is no error, just a plausible wrong answer."
+R0287,33,Female,IT,Bachelor,3,3,3,3,3,4,3,3,2,2,"Autonomy is gone, the system assigns and times everything."
+R0568,33,Female,germany,Master,3,2,3,2,3,2,3,2,4,3,"When it breaks there is no error, just a plausible wrong answer."
+R0631,64,Female,CN,Other,3,4,3,3,3,2,3,3,2,3,I think a third of what I do could be automated before long.
+R1167,30,Male,The Netherlands,Bachelor,3,2,3,3,3,4,3,3,4,4,My calls are transcribed and analyzed without anyone asking me.
+R0139,52,Male,UK,PhD,5,1,5,5,4,5,4,4,1,4,Clients already ask why they pay us if a model does the first version.
+R0934,50,Female,IT,Bachelor,4,3,3,3,4,2,3,2,4,3,I am becoming dependent on it for things I used to do from memory.
+R0487,22,Male,netherlands,Bachelor,3,2,3,4,4,3,2,2,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R0701,32,Female,DE,Bachelor,3,2,3,3,3,3,2,2,3,3,"It penalizes career gaps, which mostly hits women here."
+R0273,42,Male,IT,Master,3,3,2,2,1,3,4,2,4,3,The system decides my schedule and there is no one to argue with.
+R0989,24,Female,BE,Master,3,3,4,3,4,4,4,4,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0753,62,Female,IT,PhD,4,3,4,4,2,3,3,3,3,2,Two colleagues did the same work and got very different automated ratings.
+R1011,63,Female,UK,Other,3,2,4,4,3,2,3,4,4,3,"I mostly worry about how management will use it, in every sense."
+R0870,45,Male,US,Master,3,3,4,4,4,3,3,4,2,4,Accent recognition fails for some of us and our quality scores suffer.
+R0837,50,Female,TR,Other,3,3,3,3,4,4,3,3,2,4,"Nobody checks the outputs anymore, that is what scares me."
+R0689,21,Female,The Netherlands,Master,3,3,2,2,3,3,2,3,2,2,Last month it merged two clients records and we only noticed by accident.
+R0207,61,Male,DE,Bachelor,2,4,2,4,3,3,3,2,4,3,I think a third of what I do could be automated before long.
+R0536,38,Non-binary,NL,Master,3,3,3,3,3,4,4,4,2,3,I am becoming dependent on it for things I used to do from memory.
+R0494,56,Female,germany,Bachelor,3,3,3,4,3,3,2,3,2,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0468,49,Female,CN,Master,3,3,3,4,3,5,3,3,2,4,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0460,29,Female,NL,Master,2,3,4,3,1,3,2,3,4,3,"Nobody checks the outputs anymore, that is what scares me."
+R0331,34,Non-binary,NL,Master,2,4,2,2,2,3,2,2,2,4,Juniors never learn to write a memo themselves anymore.
+R0957,31,Female,CN,Bachelor,2,3,3,2,2,3,3,2,3,4,"Hard to say, ask me again in a year."
+R1096,42,Non-binary,CN,Bachelor,3,3,3,3,3,3,4,2,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R1070,36,Prefer not to say,BE,Master,5,1,5,5,4,4,2,3,4,3,"The craft side of this job is eroding, we just edit machine output."
+R0588,66,Male,netherlands,Master,2,4,3,2,3,3,3,3,3,2,Juniors never learn to write a memo themselves anymore.
+R0259,199,Female,CN,Other,4,1,3,4,4,3,3,4,2,3,We stopped training people properly because the tool covers the gaps.
+R1135,40,Male,netherlands,Bachelor,2,3,3,2,2,3,3,3,3,2,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0115,36,Female,BE,PhD,4,2,4,5,4,4,4,2,2,3,"It penalizes career gaps, which mostly hits women here."
+R1007,56,Female,TR,Bachelor,5,2,5,4,5,4,5,5,1,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0773,61,Male,IT,Bachelor,3,3,3,3,2,3,3,2,3,4,Nothing specific comes to mind.
+R1061,40,Female,US,PhD,3,2,4,3,3,5,5,4,2,3,Juniors never learn to write a memo themselves anymore.
+R0199,45,Male,netherlands,Other,4,2,5,3,4,3,4,3,3,3,I am optimistic about it overall.
+R0195,21,Male,US,Bachelor,5,2,3,4,3,4,3,3,2,3,I cannot take a longer break without the tool flagging it to my lead.
+R0814,37,Prefer not to say,netherlands,Master,3,2,3,3,2,4,4,4,3,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R1085,62,Male,TR,Master,4,3,4,3,2,3,2,4,2,3,I am becoming dependent on it for things I used to do from memory.
+R1080,31,Female,BE,Master,3,2,4,4,4,4,3,3,3,5,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0652,33,Male,germany,Master,3,2,2,4,3,3,4,3,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0253,40,Female,germany,Master,3,2,3,2,3,3,3,4,1,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0623,52,Male,NL,PhD,3,4,2,3,3,4,3,3,2,3,"Nobody practices the basics now, and it will show in a few years."
+R1120,25,Prefer not to say,UK,PhD,2,3,3,3,4,3,3,3,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R1035,31,Male,US,Bachelor,3,2,3,5,3,4,3,3,2,4,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0093,59,Male,DE,Bachelor,4,2,4,5,4,3,4,3,2,2,"Nobody checks the outputs anymore, that is what scares me."
+R1058,34,Female,CN,Bachelor,3,3,2,4,3,4,4,3,2,2,I cannot take a longer break without the tool flagging it to my lead.
+R0369,63,Male,The Netherlands,Master,4,3,4,5,5,3,3,3,3,4,Accent recognition fails for some of us and our quality scores suffer.
+R0968,42,Male,NL,Bachelor,3,3,2,1,2,2,3,3,3,3,Last month it merged two clients records and we only noticed by accident.
+R0073,46,Male,germany,Master,3,3,5,4,4,4,4,4,4,4,Clients already ask why they pay us if a model does the first version.
+R0661,37,Male,Netherlands,Bachelor,3,3,3,3,3,4,3,3,4,3,The system was trained on the old boys club data and it shows.
+R1143,64,Female,BE,Master,3,2,3,3,4,3,3,4,2,4,Promotion scores come from a model nobody can explain.
+R1134,60,Male,US,Bachelor,4,2,4,3,3,4,4,4,2,5,There is a productivity index on my profile that follows me around.
+R0285,26,Male,TR,Bachelor,3,3,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R1122,58,Male,netherlands,Bachelor,3,3,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R0410,43,Male,CN,Bachelor,3,3,3,3,4,4,4,3,3,3,It invents numbers and management copies them into reports.
+R0424,53,Female,CN,Master,4,1,4,5,4,3,4,3,4,3,Promotion scores come from a model nobody can explain.
+R0484,39,Female,US,Bachelor,4,3,4,3,3,2,3,2,3,3,I am becoming dependent on it for things I used to do from memory.
+R0360,58,Female,The Netherlands,Bachelor,3,2,3,3,5,2,2,3,4,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0201,48,Female,DE,Bachelor,3,4,4,3,4,3,3,3,3,2,It invents numbers and management copies them into reports.
+R1083,37,Male,Netherlands,Other,3,3,3,2,2,3,4,3,2,3,"Autonomy is gone, the system assigns and times everything."
+R0116,43,Female,UK,Bachelor,3,2,3,4,3,3,3,2,2,2,"Nobody checks the outputs anymore, that is what scares me."
+R0178,60,Male,Germany,Master,4,3,3,4,4,4,3,4,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0690,50,Male,UK,Master,1,4,2,2,2,3,4,3,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0152,26,Female,NL,Master,3,5,2,3,3,2,2,2,4,2,New hires cannot troubleshoot anything because the assistant always did it.
+R1100,21,Male,UK,PhD,2,3,4,3,3,4,4,2,3,2,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0389,44,Female,NL,Bachelor,5,3,4,5,3,4,3,3,3,4,The translations look fluent but change the meaning of contract clauses.
+R0428,53,Female,IT,Master,3,3,3,3,2,4,3,3,4,3,My own writing is getting worse because I always start from a draft it makes.
+R0032,55,Female,NL,Bachelor,4,1,3,3,4,5,4,4,2,5,There is a productivity index on my profile that follows me around.
+R0734,59,Male,UK,Master,4,2,4,4,4,2,3,5,2,4,It invents numbers and management copies them into reports.
+R0385,57,Prefer not to say,UK,Master,3,3,4,3,3,4,3,4,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0399,49,Non-binary,Germany,Bachelor,1,4,1,2,2,3,3,2,3,3,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0717,48,Female,Netherlands,Bachelor,3,3,3,3,3,4,3,3,2,3,"Nobody practices the basics now, and it will show in a few years."
+R0184,29,Female,US,Bachelor,2,3,3,3,3,3,2,3,4,3,We stopped training people properly because the tool covers the gaps.
+R0762,25,Male,TR,Master,3,2,4,4,3,3,3,2,3,3,Juniors never learn to write a memo themselves anymore.
+R1038,51,Male,US,Bachelor,3,3,3,3,3,4,2,3,3,3,Decisions feel arbitrary and there is no appeal process against the model.
+R0659,62,Male,Germany,Bachelor,5,3,3,4,3,4,4,3,2,3,I think half of what I do could be automated before long.
+R0490,64,Male,Germany,Master,4,3,3,4,2,4,3,3,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0958,25,Male,Germany,Master,4,3,4,2,3,2,2,3,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R1154,47,Female,UK,Master,4,3,4,2,2,3,4,3,3,3,I am optimistic about it overall.
+R0477,35,Female,germany,Master,4,1,4,5,5,4,4,3,2,4,"None really, I find it mostly helpful."
+R0278,46,Female,NL,Master,3,3,3,4,3,3,2,2,3,3,The system decides my schedule and there is no one to argue with.
+R0847,43,Male,UK,Master,2,4,3,3,3,3,2,3,2,2,My calls are transcribed and analyzed without anyone asking me.
+R0599,35,Non-binary,BE,Bachelor,1,4,2,2,2,2,2,3,4,3,Promotion scores come from a model nobody can explain.
+R0262,53,Male,NL,Bachelor,4,2,4,5,4,3,3,4,3,3,My role feels replaceable now that the system drafts most of it.
+R0228,39,Prefer not to say,NL,Master,2,3,4,2,2,3,3,3,3,3,We get weekly reports about our own behavior that we never agreed to.
+R0561,42,Male,TR,PhD,4,3,4,3,4,3,2,4,2,4,The system was trained on the old boys club data and it shows.
+R0895,49,Prefer not to say,US,Other,5,1,5,5,5,4,4,4,2,5,"Wages in my function have been flat since automation started, that is my real worry."
+R0718,42,Male,TR,Master,2,4,4,2,3,2,4,3,1,3,Juniors never learn to write a memo themselves anymore.
+R1152,25,Female,IT,Master,3,3,3,3,4,2,4,3,3,3,Decisions feel arbitrary and there is no appeal process against the model.
+R0681,66,Female,IT,Bachelor,3,4,2,3,2,2,2,2,3,3,My own writing is getting worse because I always start from a draft it makes.
+R0969,35,Male,CN,PhD,2,3,4,3,3,4,3,3,2,2,I am becoming dependent on it for things I used to do from memory.
+R0401,52,Male,BE,Master,3,2,3,3,3,2,3,4,4,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0148,39,Male,DE,PhD,3,2,4,4,5,4,4,4,3,4,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0546,45,Male,CN,Master,2,4,3,2,2,2,3,2,4,2,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0909,49,Female,BE,Master,2,4,2,3,1,2,2,3,4,2,The system decides my schedule and there is no one to argue with.
+R1142,27,Male,IT,Bachelor,3,3,3,4,3,3,2,3,3,3,Juniors never learn to write a memo themselves anymore.
+R1107,23,Male,BE,Master,3,3,3,3,3,4,4,3,2,5,The system was trained on the old boys club data and it shows.
+R0425,65,Male,Netherlands,Master,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0844,62,Female,NL,Bachelor,3,1,3,3,4,3,3,3,2,4,"The craft side of this job is eroding, we just edit machine output."
+R0396,29,Male,BE,Bachelor,1,4,2,2,2,3,1,2,5,1,"Hard to say, ask me again in a year."
+R0695,42,Male,IT,Master,4,2,3,3,3,3,4,3,3,3,"I mostly worry about how management will use it, in every sense."
+R0703,46,Female,netherlands,Master,4,2,4,3,4,1,3,3,4,3,Clients already ask why they pay us if a model does the first version.
+R0858,60,Female,UK,PhD,5,1,5,5,5,4,3,4,2,4,"Nobody practices the basics now, and it will show in a few years."
+R0946,38,Female,US,Bachelor,4,2,3,3,3,4,4,3,3,3,No concerns.
+R0630,49,Male,DE,Bachelor,5,1,5,5,5,4,4,5,3,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0031,36,Female,TR,Master,3,3,4,2,2,4,3,3,3,3,"They will not fire anyone, they just will not replace people who leave."
+R0012,21,Female,BE,Master,4,2,3,4,5,3,3,4,2,4,Every keystroke is logged and turned into a score now.
+R0938,66,Female,CN,Other,4,3,3,2,4,2,2,4,3,5,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0188,50,Male,netherlands,Master,2,4,2,3,3,5,3,3,2,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0067,28,Male,Netherlands,Master,5,1,4,4,5,4,4,4,1,4,My calls are transcribed and analyzed without anyone asking me.
+R0476,48,Female,UK,Bachelor,4,3,3,3,4,4,3,3,3,4,Nothing specific comes to mind.
+R0785,37,Non-binary,BE,Bachelor,3,3,4,4,4,2,3,3,3,3,"People trust the answer because it is well written, not because it is right."
+R0084,53,Male,The Netherlands,PhD,3,3,4,4,3,4,4,5,3,5,We stopped training people properly because the tool covers the gaps.
+R0669,40,Female,TR,Master,4,4,4,4,4,4,4,4,4,4,"None really, I find it mostly helpful."
+R1147,49,Male,TR,Master,3,1,3,3,4,4,3,3,2,4,Two colleagues did the same work and got very different automated ratings.
+R0156,22,Male,NL,PhD,5,2,4,3,5,4,3,3,3,3,It is confidently wrong in ways that are hard to spot.
+R0890,39,Female,The Netherlands,Master,4,2,4,2,4,3,4,4,1,4,"I feel watched all day, the dashboard shows when I am idle."
+R0205,59,Female,The Netherlands,Master,4,2,4,5,3,2,3,4,2,5,The translations look fluent but change the meaning of contract clauses.
+R0108,40,Female,UK,Master,4,2,4,5,4,3,2,5,2,5,I cannot take a longer break without the tool flagging it to my lead.
+R0169,30,Male,germany,Master,3,2,3,2,3,3,2,3,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0693,54,Female,UK,Other,3,2,3,3,1,2,2,3,3,2,Nothing specific comes to mind.
+R0791,36,Female,Netherlands,Master,3,2,3,3,2,2,3,2,3,4,"None really, I find it mostly helpful."
+R0809,26,Male,The Netherlands,Other,4,3,3,3,4,2,3,3,4,3,Accent recognition fails for some of us and our quality scores suffer.
+R0915,61,Male,IT,Master,3,2,4,4,3,3,3,4,3,4,Promotion scores come from a model nobody can explain.
+R0752,28,Male,BE,Master,2,3,2,1,2,3,4,3,4,4,I am optimistic about it overall.
+R0977,40,Male,Netherlands,Other,5,2,3,5,4,5,5,2,3,4,It fails on edge cases and our work is mostly edge cases.
+R1130,37,Non-binary,NL,Master,4,3,3,3,3,2,3,4,2,3,"Autonomy is gone, the system assigns and times everything."
+R0805,32,Female,UK,Bachelor,3,3,3,4,3,5,5,4,2,4,"Hard to say, ask me again in a year."
+R0156,22,Male,NL,PhD,5,2,4,3,5,4,3,3,3,3,It is confidently wrong in ways that are hard to spot.
+R0981,35,Male,Netherlands,Master,4,2,4,5,4,4,4,3,4,4,"The technology is fine, the people deciding how to use it worry me."
+R1140,27,Female,The Netherlands,Bachelor,3,4,4,3,4,3,3,2,4,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0901,60,Male,The Netherlands,PhD,4,3,4,5,3,4,2,3,2,4,"When it breaks there is no error, just a plausible wrong answer."
+R0995,66,Female,DE,Bachelor,3,3,5,4,5,3,3,5,2,4,The translations look fluent but change the meaning of contract clauses.
+R0337,51,Male,netherlands,PhD,4,2,2,3,3,3,4,4,3,3,"When it breaks there is no error, just a plausible wrong answer."
+R0928,36,Male,CN,Other,3,3,2,4,4,3,2,3,4,3,We stopped training people properly because the tool covers the gaps.
+R0726,36,Female,DE,Master,4,2,5,5,4,4,3,4,1,3,Every keystroke is logged and turned into a score now.
+R1004,60,Male,netherlands,Bachelor,4,2,4,4,4,2,3,3,3,3,It fails on edge cases and our work is mostly edge cases.
+R1045,26,Female,CN,Master,2,3,3,2,2,2,5,2,2,3,Decisions feel arbitrary and there is no appeal process against the model.
+R0577,37,Female,TR,Other,4,3,3,2,3,4,3,3,2,4,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0917,55,Male,NL,Master,4,4,4,3,4,3,4,2,2,3,"People trust the answer because it is well written, not because it is right."
+R0020,32,Female,netherlands,Master,3,3,4,3,3,3,4,3,3,4,"Older colleagues get worse recommendations from it, consistently."
+R1005,58,Male,CN,Bachelor,3,3,2,5,4,5,5,4,1,4,Last month it merged two clients records and we only noticed by accident.
+R0323,42,Female,TR,Master,3,3,4,2,4,2,2,3,3,3,I am optimistic about it overall.
+R0079,54,Male,NL,Other,1,4,3,3,3,3,4,4,3,3,There is a productivity index on my profile that follows me around.
+R0454,27,Female,IT,Bachelor,4,4,4,4,4,4,4,4,4,4,"None really, I find it mostly helpful."
+R0175,61,Female,US,Master,4,2,4,4,4,5,4,3,4,2,"I feel watched all day, the dashboard shows when I am idle."
+R0632,21,Female,IT,PhD,2,2,3,4,3,4,3,2,3,5,Juniors never learn to write a memo themselves anymore.
+R0979,63,Female,CN,PhD,4,2,4,5,4,4,4,2,2,4,Two colleagues did the same work and got very different automated ratings.
+R1173,60,Male,IT,Master,3,2,3,4,3,3,3,2,4,3,My own writing is getting worse because I always start from a draft it makes.
+R0672,33,Male,CN,Master,4,1,4,4,3,4,4,4,2,4,It is confidently wrong in ways that are hard to spot.
+R0865,61,Female,Germany,Bachelor,3,3,3,3,4,4,2,3,2,4,I think most of what I do could be automated before long.
+R0510,65,Female,BE,Bachelor,4,2,2,4,4,3,4,3,3,3,Juniors never learn to write a memo themselves anymore.
+R1041,36,Male,DE,Bachelor,3,3,3,3,3,3,4,3,2,3,"Older colleagues get worse recommendations from it, consistently."
+R0574,39,Female,CN,Master,4,2,4,3,3,4,3,3,2,3,"The technology is fine, the people deciding how to use it worry me."
+R0268,63,Male,BE,PhD,5,2,3,3,3,2,3,2,2,2,I cannot take a longer break without the tool flagging it to my lead.
+R0224,25,Prefer not to say,IT,Bachelor,4,2,4,4,4,4,3,4,4,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0548,42,Female,The Netherlands,Bachelor,5,1,5,5,5,4,4,4,2,5,My calls are transcribed and analyzed without anyone asking me.
+R0888,32,Male,netherlands,Bachelor,2,3,3,3,4,3,4,3,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0767,51,Female,IT,Bachelor,4,1,4,4,5,5,4,3,2,4,"People trust the answer because it is well written, not because it is right."
+R0421,54,Female,UK,Bachelor,3,2,3,3,4,4,3,4,3,1,Every keystroke is logged and turned into a score now.
+R0961,31,Male,germany,Bachelor,4,3,5,3,3,4,4,3,3,4,"The craft side of this job is eroding, we just edit machine output."
+R0265,60,Female,The Netherlands,Master,3,3,4,5,3,2,4,3,4,3,Clients already ask why they pay us if a model does the first version.
+R0270,49,Male,TR,Bachelor,4,2,4,5,4,4,3,3,2,4,Management keeps hinting that the team will be smaller next year because of these tools.
+R0342,29,Male,NL,Master,3,3,3,4,3,3,5,4,3,4,I fear my skills will not transfer anywhere once this place fully automates.
+R1168,29,Female,germany,Bachelor,4,1,3,3,4,3,4,3,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0254,42,Non-binary,UK,Master,2,2,4,3,4,4,4,5,2,5,The system decides my schedule and there is no one to argue with.
+R0256,37,Female,The Netherlands,Bachelor,4,1,4,4,3,4,5,4,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0549,56,Female,NL,Bachelor,3,4,4,3,2,4,3,2,3,3,"They will not fire anyone, they just will not replace people who leave."
+R0601,32,Female,US,Bachelor,5,2,5,5,4,4,3,3,3,4,I am optimistic about it overall.
+R0595,25,Male,DE,Bachelor,3,2,3,4,4,4,3,2,2,4,"Nobody checks the outputs anymore, that is what scares me."
+R0078,64,Male,TR,Master,2,3,2,2,2,4,3,3,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R0660,64,Female,germany,PhD,4,4,4,4,4,4,4,4,4,4,"None really, I find it mostly helpful."
+R0197,22,Male,IT,Other,3,2,3,3,3,2,3,2,2,2,"The screening tool filters out people with non-Western names, I have seen it."
+R0619,66,Male,Netherlands,Bachelor,3,2,3,3,4,3,4,5,3,4,Last month it merged two clients records and we only noticed by accident.
+R0646,36,Female,Netherlands,Master,5,3,5,3,4,3,2,3,3,2,"Autonomy is gone, the system assigns and times everything."
+R0119,21,Male,IT,Master,3,4,3,3,3,3,3,4,3,3,Last month it merged two clients records and we only noticed by accident.
+R0788,44,Male,Netherlands,Bachelor,1,5,2,1,2,2,2,2,4,2,"I feel watched all day, the dashboard shows when I am idle."
+R0775,39,Male,germany,PhD,4,2,5,4,5,3,4,4,2,4,There is a productivity index on my profile that follows me around.
+R0305,30,Female,BE,Bachelor,5,2,4,4,4,5,3,4,1,3,We get weekly reports about our own behavior that we never agreed to.
+R1088,38,Female,TR,Bachelor,4,3,2,3,4,3,3,3,4,4,My role feels replaceable now that the system drafts most of it.
+R0587,37,Female,Netherlands,Bachelor,4,3,5,5,4,4,4,5,2,4,"Nobody practices the basics now, and it will show in a few years."
+R0250,46,Female,US,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0860,43,Female,TR,Master,3,3,4,3,3,2,4,2,2,3,"It penalizes career gaps, which mostly hits women here."
+R0414,29,Male,germany,Bachelor,5,2,4,3,4,3,4,4,1,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0869,22,Female,netherlands,PhD,3,2,4,3,4,4,3,4,2,4,We stopped training people properly because the tool covers the gaps.
+R0650,37,Male,BE,Bachelor,5,1,5,4,5,5,5,5,2,5,It fails on edge cases and our work is mostly edge cases.
+R0812,41,Male,IT,Master,3,2,3,3,3,5,3,3,3,4,Nothing specific comes to mind.
+R0795,31,Female,NL,Bachelor,4,2,4,5,3,3,2,4,2,4,It fails on edge cases and our work is mostly edge cases.
+R0422,51,Female,DE,Master,4,2,3,4,4,2,3,4,3,4,Two colleagues did the same work and got very different automated ratings.
+R0437,49,Female,DE,Master,3,3,3,3,3,2,3,4,2,3,Promotion scores come from a model nobody can explain.
+R0919,47,Female,NL,Master,4,2,2,4,4,3,3,4,3,3,Juniors never learn to write a memo themselves anymore.
+R0608,47,Prefer not to say,CN,Master,3,3,3,3,3,2,3,2,2,4,"The screening tool filters out people with non-Western names, I have seen it."
+R0080,65,Male,BE,Bachelor,4,3,3,4,4,4,5,4,2,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0018,60,Male,NL,Other,3,2,3,4,4,3,4,4,3,4,It is confidently wrong in ways that are hard to spot.
+R0743,41,Male,NL,Bachelor,3,3,3,4,3,3,3,4,3,4,We get weekly reports about our own behavior that we never agreed to.
+R0500,65,Male,US,Master,2,4,1,1,3,3,2,3,3,3,I am optimistic about it overall.
+R0339,28,Female,NL,Master,2,4,3,3,4,4,3,3,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R1027,54,Female,netherlands,Master,2,1,3,4,3,2,4,4,1,3,It fails on edge cases and our work is mostly edge cases.
+R1093,37,Female,TR,PhD,3,3,4,3,3,3,3,3,4,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0089,25,Male,Germany,Other,2,3,3,2,3,3,3,4,3,2,"The junior positions are disappearing, which is how I got my start."
+R0260,42,Male,NL,PhD,4,1,4,4,4,3,4,4,2,4,It is confidently wrong in ways that are hard to spot.
+R1066,60,Male,Germany,PhD,5,1,5,4,5,3,3,4,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R1008,61,Male,DE,Master,4,2,4,4,4,3,3,2,3,2,We stopped training people properly because the tool covers the gaps.
+R0862,61,Female,Netherlands,Other,3,4,2,3,2,3,4,4,3,4,"It is moving faster than our policies, on every front at once."
+R1059,63,Male,netherlands,Master,4,2,4,3,3,4,3,3,2,3,"The craft side of this job is eroding, we just edit machine output."
+R0721,24,Male,Netherlands,Master,3,4,3,2,1,3,3,5,3,3,"The technology is fine, the people deciding how to use it worry me."
+R1044,53,Male,IT,Bachelor,4,2,4,3,3,3,3,4,1,4,I fear my skills will not transfer anywhere once this place fully automates.
+R0583,61,Male,CN,Master,4,1,4,4,4,3,5,4,2,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R1087,38,Male,UK,Other,3,3,5,3,4,4,3,4,3,3,The summaries miss the one critical detail surprisingly often.
+R0231,46,Male,UK,Other,3,4,2,3,4,4,4,2,3,2,It invents numbers and management copies them into reports.
+R0895,49,Prefer not to say,US,Other,5,1,5,5,5,4,4,4,2,5,"Wages in my function have been flat since automation started, that is my real worry."
+R1176,62,Female,Netherlands,PhD,3,4,2,3,3,4,2,4,3,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0516,42,Male,Netherlands,Bachelor,3,3,3,3,2,3,4,4,3,4,Promotion scores come from a model nobody can explain.
+R0350,41,Female,Netherlands,Bachelor,3,3,4,3,4,3,4,3,3,2,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0491,29,Male,IT,Master,4,2,4,3,3,3,2,4,2,3,It invents numbers and management copies them into reports.
+R0658,37,Female,Germany,Master,4,2,2,3,2,4,3,4,3,4,"The screening tool filters out people with non-Western names, I have seen it."
+R1068,65,Male,Germany,Other,4,3,3,4,4,5,4,5,2,4,My role feels replaceable now that the system drafts most of it.
+R0544,62,Male,DE,Bachelor,5,2,5,5,5,5,3,4,2,4,"People trust the answer because it is well written, not because it is right."
+R1164,43,Female,US,Master,2,4,3,2,2,2,1,3,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R0008,31,Male,CN,Master,5,1,4,5,4,3,3,2,2,4,There is a productivity index on my profile that follows me around.
+R0022,25,Male,netherlands,PhD,3,4,2,2,3,3,3,3,4,3,"They will not fire anyone, they just will not replace people who leave."
+R0503,36,Male,CN,Bachelor,2,4,3,3,3,3,3,3,3,2,We had to redo a whole analysis because the tool silently dropped rows.
+R0158,29,Male,DE,PhD,4,1,4,3,4,3,4,4,2,4,Clients already ask why they pay us if a model does the first version.
+R0216,27,Male,DE,Other,4,1,3,5,4,2,3,3,4,3,We get weekly reports about our own behavior that we never agreed to.
+R1146,59,Female,Netherlands,Bachelor,4,2,4,5,4,3,4,3,3,4,It invents numbers and management copies them into reports.
+R1006,34,Male,CN,Master,3,3,3,3,3,3,4,4,3,3,My role feels replaceable now that the system drafts most of it.
+R0448,46,Female,The Netherlands,Master,4,3,5,4,4,4,4,4,2,3,No concerns.
+R0088,25,Female,UK,Bachelor,2,3,3,3,4,2,4,4,3,3,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0038,58,Male,TR,Master,2,3,2,3,3,3,3,3,3,3,No concerns.
+R0051,31,Male,TR,PhD,3,2,3,3,3,4,3,2,3,3,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0271,48,Male,TR,Master,3,3,3,3,4,2,3,4,3,4,"Nobody practices the basics now, and it will show in a few years."
+R0878,26,Male,Netherlands,Master,4,2,4,4,4,3,3,4,3,3,It invents numbers and management copies them into reports.
+R0446,28,Female,DE,Bachelor,4,2,5,5,3,4,4,4,1,4,No concerns.
+R0462,33,Female,Germany,Master,4,1,4,4,3,3,5,5,3,5,"The technology is fine, the people deciding how to use it worry me."
+R0056,62,Female,UK,Master,3,4,2,1,3,3,4,3,2,2,My own writing is getting worse because I always start from a draft it makes.
+R0252,58,Male,NL,Bachelor,5,2,4,4,2,3,4,4,3,3,"Autonomy is gone, the system assigns and times everything."
+R0757,34,Male,NL,Master,4,2,3,3,4,2,3,2,3,3,"The screening tool filters out people with non-Western names, I have seen it."
+R0420,22,Female,NL,Other,5,1,3,4,4,4,4,4,2,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0322,59,Male,CN,Master,5,2,3,4,4,3,2,4,3,2,"It is moving faster than our policies, on every front at once."
+R0885,26,Male,TR,PhD,5,1,4,5,5,2,3,4,3,3,We get weekly reports about our own behavior that we never agreed to.
+R0005,65,Male,BE,Master,4,2,5,4,5,4,3,3,3,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0533,52,Male,The Netherlands,Other,5,2,4,3,4,3,3,3,4,2,Decisions feel arbitrary and there is no appeal process against the model.
+R0951,39,Female,The Netherlands,Master,4,2,5,4,4,3,4,3,3,3,New hires cannot troubleshoot anything because the assistant always did it.
+R0155,25,Male,US,PhD,4,1,4,4,4,3,4,4,2,3,Last month it merged two clients records and we only noticed by accident.
+R1037,56,Non-binary,DE,Bachelor,3,3,4,4,4,4,4,3,4,4,Promotion scores come from a model nobody can explain.
+R0283,30,Male,Netherlands,Master,5,1,4,3,4,5,3,5,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0913,65,Female,CN,Other,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0565,61,Female,netherlands,Other,4,1,4,5,3,3,4,3,3,3,It invents numbers and management copies them into reports.
+R0134,38,Female,CN,PhD,4,2,4,4,4,4,4,4,2,4,"Nobody checks the outputs anymore, that is what scares me."
+R0700,41,Female,Netherlands,Master,4,1,5,4,4,3,4,3,3,4,"People trust the answer because it is well written, not because it is right."
+R0929,27,Male,The Netherlands,PhD,4,2,3,2,3,3,3,3,2,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0474,46,Male,UK,PhD,4,3,2,3,3,3,3,4,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0316,49,Female,The Netherlands,PhD,4,3,3,4,3,5,4,3,2,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0851,43,Female,BE,Bachelor,3,3,3,2,5,1,2,1,3,2,The translations look fluent but change the meaning of contract clauses.
+R0101,55,Female,netherlands,PhD,3,2,3,4,4,3,3,3,4,2,I think 60 percent of what I do could be automated before long.
+R0432,27,Non-binary,IT,Other,3,3,4,3,4,3,3,3,3,3,The system was trained on the old boys club data and it shows.
+R0096,29,Male,netherlands,Master,2,3,3,2,1,4,5,4,3,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0677,33,Male,The Netherlands,Bachelor,5,2,4,4,5,3,3,4,3,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0028,49,Male,DE,Master,4,2,3,3,4,5,4,5,1,4,Every keystroke is logged and turned into a score now.
+R0326,38,Female,netherlands,PhD,5,2,4,5,4,3,4,4,2,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0407,48,Female,CN,Master,3,3,4,4,3,4,4,5,1,4,I cannot take a longer break without the tool flagging it to my lead.
+R0319,24,Female,NL,PhD,3,3,3,3,5,3,4,4,2,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0779,48,Male,IT,Bachelor,4,4,4,5,2,5,3,4,3,5,Every keystroke is logged and turned into a score now.
+R0663,35,Male,UK,Master,4,2,4,4,5,4,4,4,3,5,"The technology is fine, the people deciding how to use it worry me."
+R0920,49,Male,NL,Master,4,4,4,4,4,3,4,4,2,3,New hires cannot troubleshoot anything because the assistant always did it.
+R1166,43,Male,netherlands,Bachelor,3,3,3,4,5,4,4,4,2,5,Decisions feel arbitrary and there is no appeal process against the model.
+R0674,29,Male,Netherlands,Bachelor,4,3,4,3,3,4,4,4,3,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0900,39,Male,IT,Bachelor,3,3,4,4,4,4,4,5,1,4,"It is moving faster than our policies, on every front at once."
+R0872,36,Female,UK,Other,3,3,4,3,3,2,2,3,4,2,"Nobody checks the outputs anymore, that is what scares me."
+R1079,57,Male,netherlands,Master,3,2,3,4,3,2,2,2,5,2,Decisions feel arbitrary and there is no appeal process against the model.
+R0394,28,Female,UK,PhD,4,2,4,4,5,4,5,4,3,3,The translations look fluent but change the meaning of contract clauses.
+R0235,66,Non-binary,BE,Bachelor,3,2,4,2,3,4,3,3,3,3,"Hard to say, ask me again in a year."
+R0593,22,Female,US,Bachelor,4,1,4,5,4,4,5,4,2,4,It invents numbers and management copies them into reports.
+R0515,59,Non-binary,UK,Other,3,3,4,3,3,3,3,2,3,3,I cannot take a longer break without the tool flagging it to my lead.
+R0626,63,Female,US,Bachelor,4,2,5,4,4,3,4,3,3,4,Two colleagues did the same work and got very different automated ratings.
+R0251,22,Male,CN,Master,3,1,5,5,5,4,4,4,1,5,"I feel watched all day, the dashboard shows when I am idle."
+R0803,44,Female,The Netherlands,Master,2,3,4,3,4,3,2,2,3,3,I think a third of what I do could be automated before long.
+R0771,52,Female,IT,Other,1,5,1,2,2,2,3,2,4,3,Promotion scores come from a model nobody can explain.
+R0434,29,Prefer not to say,Germany,Master,2,3,4,3,3,3,5,3,2,2,Management keeps hinting that the team will be smaller next year because of these tools.
+R1138,53,Male,The Netherlands,Master,5,1,4,4,5,4,3,3,3,4,The translations look fluent but change the meaning of contract clauses.
+R0912,27,Female,CN,PhD,4,1,4,3,4,4,4,4,3,4,The translations look fluent but change the meaning of contract clauses.
+R0992,52,Female,Netherlands,Master,2,3,3,2,2,2,3,3,4,1,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0402,41,Male,IT,Master,4,2,4,3,3,2,3,3,3,3,I am becoming dependent on it for things I used to do from memory.
+R0840,37,Female,Netherlands,Bachelor,4,3,5,4,5,4,4,4,2,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0466,62,Prefer not to say,TR,Master,4,1,4,4,5,3,3,4,2,3,"Too many things to name, jobs, privacy, mistakes, all of it."
+R1014,39,Female,germany,Master,3,2,3,3,2,3,3,4,3,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0714,44,Female,netherlands,Master,4,2,5,4,4,4,3,4,3,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0185,62,Male,IT,Bachelor,4,3,4,3,3,4,4,4,2,3,We stopped training people properly because the tool covers the gaps.
+R0232,51,Male,The Netherlands,Master,5,2,4,3,4,5,5,5,1,5,Promotion scores come from a model nobody can explain.
+R0798,32,Female,NL,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0750,57,Female,CN,Master,2,3,3,4,3,3,3,2,3,4,"Older colleagues get worse recommendations from it, consistently."
+R0575,54,Male,The Netherlands,Bachelor,3,4,3,2,4,3,3,3,4,4,"The craft side of this job is eroding, we just edit machine output."
+R0091,39,Male,The Netherlands,Other,5,2,3,4,4,3,1,3,3,3,"The technology is fine, the people deciding how to use it worry me."
+R1097,44,Male,The Netherlands,Master,2,5,3,3,2,3,3,3,2,3,Two colleagues did the same work and got very different automated ratings.
+R0007,55,Female,The Netherlands,Master,3,2,3,5,4,3,4,4,4,2,I think half of what I do could be automated before long.
+R0293,39,Female,DE,Bachelor,3,2,3,3,3,4,2,3,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0412,60,Female,UK,Master,4,2,3,4,4,4,4,4,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0978,52,Male,NL,Bachelor,3,3,1,2,2,2,2,4,3,3,It is confidently wrong in ways that are hard to spot.
+R0438,37,Male,TR,PhD,3,3,3,3,3,3,3,2,3,2,The translations look fluent but change the meaning of contract clauses.
+R0334,57,Female,Netherlands,Master,4,3,4,3,3,2,3,4,2,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0479,35,Female,IT,Bachelor,2,4,4,3,2,2,3,3,2,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R1175,32,Female,US,Bachelor,3,3,4,3,2,2,4,2,4,3,"Autonomy is gone, the system assigns and times everything."
+R0320,22,Female,netherlands,Master,5,3,3,4,4,4,4,5,1,5,Clients already ask why they pay us if a model does the first version.
+R0160,24,Female,BE,Other,3,3,4,3,3,5,4,4,2,5,My calls are transcribed and analyzed without anyone asking me.
+R0504,58,Female,DE,PhD,4,2,4,2,2,2,3,3,4,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0865,61,Female,Germany,Bachelor,3,3,3,3,4,4,2,3,2,4,I think most of what I do could be automated before long.
+R0077,41,Female,NL,PhD,5,2,5,4,4,3,4,4,2,3,It is confidently wrong in ways that are hard to spot.
+R1117,25,Male,germany,PhD,5,2,5,4,5,4,4,3,2,3,Nothing specific comes to mind.
+R0843,40,Male,UK,Master,5,1,4,4,5,4,4,4,2,3,"The screening tool filters out people with non-Western names, I have seen it."
+R1055,30,Female,Netherlands,Master,3,2,5,5,4,3,2,3,4,3,"The craft side of this job is eroding, we just edit machine output."
+R0021,66,Male,US,Master,3,1,4,4,3,3,4,3,2,3,"They will not fire anyone, they just will not replace people who leave."
+R0709,47,Male,BE,PhD,3,2,4,4,3,3,4,4,2,3,My own writing is getting worse because I always start from a draft it makes.
+R0220,57,Male,NL,Bachelor,2,3,2,3,3,2,3,3,4,2,"People trust the answer because it is well written, not because it is right."
+R0774,42,Female,UK,Master,3,2,4,3,4,5,3,4,3,4,"The technology is fine, the people deciding how to use it worry me."
+R0877,28,Prefer not to say,BE,Bachelor,4,1,4,4,4,4,4,5,2,5,We had to redo a whole analysis because the tool silently dropped rows.
+R0445,44,Male,netherlands,Master,5,1,4,4,4,3,4,3,2,4,Promotion scores come from a model nobody can explain.
+R0671,39,Male,US,Master,4,1,4,3,3,5,4,4,3,3,We stopped training people properly because the tool covers the gaps.
+R0163,32,Female,TR,PhD,3,2,4,3,3,4,4,4,1,4,I think 60 percent of what I do could be automated before long.
+R0110,54,Female,netherlands,PhD,2,3,2,1,2,2,2,3,4,3,"Nobody practices the basics now, and it will show in a few years."
+R0463,65,Female,NL,PhD,5,3,4,3,5,5,3,3,1,4,"Autonomy is gone, the system assigns and times everything."
+R0242,23,Male,UK,Bachelor,4,2,3,3,3,4,4,5,3,4,"When it breaks there is no error, just a plausible wrong answer."
+R0482,24,Female,Netherlands,Bachelor,5,3,5,4,4,4,5,5,2,5,It invents numbers and management copies them into reports.
+R1072,48,Female,BE,Master,2,4,2,3,3,4,4,5,2,3,I worry I will forget how to do the analysis without the tool.
+R0141,50,Male,UK,Bachelor,2,3,1,2,3,3,1,3,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0649,48,Prefer not to say,UK,PhD,4,1,5,4,4,4,4,5,1,5,I fear my skills will not transfer anywhere once this place fully automates.
+R0937,36,Male,BE,Bachelor,3,1,3,3,3,3,2,2,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0095,62,Male,netherlands,Other,3,4,2,2,2,2,2,2,3,2,"Nobody checks the outputs anymore, that is what scares me."
+R0976,54,Male,germany,Bachelor,5,2,4,5,4,4,3,3,2,4,I am becoming dependent on it for things I used to do from memory.
+R0035,61,Female,BE,Bachelor,3,3,3,3,4,3,3,3,2,3,New hires cannot troubleshoot anything because the assistant always did it.
+R0074,32,Female,DE,Master,4,3,3,4,2,4,4,4,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0897,34,Non-binary,DE,Master,4,2,4,3,3,3,3,4,3,2,If the pilot succeeds I do not see why they would keep three of us on this task.
+R1111,43,Male,UK,Bachelor,5,1,5,5,5,4,4,4,2,3,My own writing is getting worse because I always start from a draft it makes.
+R0145,43,Male,Netherlands,Bachelor,3,2,4,4,4,4,3,4,2,3,My role feels replaceable now that the system drafts most of it.
+R0594,33,Female,US,Bachelor,4,1,5,5,4,3,4,4,1,5,"It penalizes career gaps, which mostly hits women here."
+R0279,25,Male,germany,Bachelor,4,3,3,3,4,2,2,3,4,3,Two colleagues did the same work and got very different automated ratings.
+R0433,27,Female,Netherlands,PhD,4,3,4,4,4,4,3,4,2,3,"Nobody practices the basics now, and it will show in a few years."
+R0729,62,Male,UK,Master,4,1,4,4,5,5,4,4,2,3,"When it breaks there is no error, just a plausible wrong answer."
+R0213,39,Male,Germany,Bachelor,3,5,4,3,4,4,3,3,2,4,"Autonomy is gone, the system assigns and times everything."
+R0904,27,Female,TR,Master,4,3,3,4,4,4,4,4,2,3,The translations look fluent but change the meaning of contract clauses.
+R0990,58,Female,DE,Bachelor,5,2,5,4,4,3,2,3,2,4,The system decides my schedule and there is no one to argue with.
+R0572,31,Female,UK,Other,4,2,3,4,2,2,4,4,2,3,It invents numbers and management copies them into reports.
+R0964,31,Female,NL,Bachelor,5,2,4,4,4,3,4,4,3,2,"I feel watched all day, the dashboard shows when I am idle."
+R0972,45,Male,CN,Master,1,4,2,3,2,2,3,3,3,2,Management keeps hinting that the team will be smaller next year because of these tools.
+R0554,53,Female,Germany,Bachelor,2,4,2,2,2,2,2,3,3,2,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0149,26,Male,TR,Bachelor,5,1,5,3,5,4,4,3,3,3,No concerns.
+R0222,27,Male,IT,Master,3,2,3,2,3,2,2,3,4,2,Last month it merged two clients records and we only noticed by accident.
+R0194,29,Male,Germany,Master,4,2,4,3,3,2,3,3,3,4,"They will not fire anyone, they just will not replace people who leave."
+R0497,66,Non-binary,DE,Master,3,4,3,4,3,4,2,4,2,3,Accent recognition fails for some of us and our quality scores suffer.
+R0025,46,Male,germany,Master,5,1,5,5,4,3,3,4,2,4,We stopped training people properly because the tool covers the gaps.
+R0182,27,Female,The Netherlands,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0883,50,Female,NL,Master,4,2,3,4,3,4,4,4,3,5,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0754,39,Male,The Netherlands,Master,5,1,5,5,4,3,3,3,2,5,We had to redo a whole analysis because the tool silently dropped rows.
+R0645,60,Male,BE,Master,5,2,4,4,4,4,4,4,1,3,Last month it merged two clients records and we only noticed by accident.
+R0113,62,Female,US,Bachelor,3,5,1,2,1,3,3,3,4,2,My role feels replaceable now that the system drafts most of it.
+R0778,30,Female,UK,PhD,2,4,2,1,3,3,3,3,4,3,It fails on edge cases and our work is mostly edge cases.
+R0908,47,Female,NL,Master,3,2,3,5,3,3,3,3,4,5,I cannot take a longer break without the tool flagging it to my lead.
+R0761,25,Female,DE,Other,5,1,5,4,5,4,3,4,3,3,"None really, I find it mostly helpful."
+R0538,51,Female,UK,PhD,3,2,4,3,5,3,3,3,4,3,"I feel watched all day, the dashboard shows when I am idle."
+R0963,55,Female,IT,Master,4,2,4,4,4,4,3,4,2,3,Clients already ask why they pay us if a model does the first version.
+R0567,22,Female,BE,PhD,3,2,3,4,3,3,4,4,2,3,"They will not fire anyone, they just will not replace people who leave."
+R0613,66,Male,DE,Bachelor,3,4,2,3,3,3,3,2,5,1,It invents numbers and management copies them into reports.
+R0735,56,Female,germany,Bachelor,3,3,3,1,3,3,4,3,3,4,"I mostly worry about how management will use it, in every sense."
+R1039,39,Male,Netherlands,Bachelor,4,2,5,5,5,3,3,3,2,4,"The screening tool filters out people with non-Western names, I have seen it."
+R0827,38,Male,Netherlands,PhD,3,3,4,3,3,4,4,3,2,3,The system decides my schedule and there is no one to argue with.
+R0212,52,Male,NL,Master,3,2,3,3,4,3,2,4,4,2,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0311,27,Female,Netherlands,PhD,3,2,3,4,4,4,4,4,2,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0363,35,Female,BE,Master,3,3,3,3,3,4,3,2,3,2,"The screening tool filters out people with non-Western names, I have seen it."
+R0177,27,Male,TR,Other,4,3,3,4,4,4,3,4,2,5,Every keystroke is logged and turned into a score now.
+R0821,44,Non-binary,The Netherlands,Bachelor,3,2,4,4,4,3,2,4,4,4,"The junior positions are disappearing, which is how I got my start."
+R0736,28,Female,Netherlands,Master,3,2,4,5,4,3,4,3,2,4,"I mostly worry about how management will use it, in every sense."
+R1047,48,Male,UK,Bachelor,4,3,3,3,4,4,4,3,2,3,The system decides my schedule and there is no one to argue with.
+R0974,24,Female,NL,Master,4,2,4,3,3,4,4,4,3,4,The summaries miss the one critical detail surprisingly often.
+R0552,44,Female,BE,Master,1,4,3,3,3,4,4,3,2,4,It fails on edge cases and our work is mostly edge cases.
+R0172,51,Male,DE,Bachelor,3,3,3,3,2,3,3,3,4,3,"The junior positions are disappearing, which is how I got my start."
+R0889,43,Male,BE,Bachelor,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0493,38,Male,CN,Bachelor,2,4,1,1,1,2,3,2,4,3,My calls are transcribed and analyzed without anyone asking me.
+R1158,47,Male,netherlands,Bachelor,4,1,5,4,4,2,3,3,3,3,"None really, I find it mostly helpful."
+R0935,37,Female,NL,Master,3,2,3,4,4,3,3,3,2,3,I worry I will forget how to do the analysis without the tool.
+R1013,57,Female,NL,Bachelor,2,3,3,3,2,3,3,3,3,3,"They will not fire anyone, they just will not replace people who leave."
+R1009,41,Male,germany,Bachelor,4,2,3,4,3,3,3,3,2,3,It fails on edge cases and our work is mostly edge cases.
+R0168,33,Female,NL,Other,4,3,4,2,2,4,3,3,4,3,My own writing is getting worse because I always start from a draft it makes.
+R1144,41,Non-binary,IT,Master,4,3,3,3,4,3,3,4,2,4,"Older colleagues get worse recommendations from it, consistently."
+R0329,22,Male,germany,Other,4,3,4,4,4,3,4,4,2,3,Nothing specific comes to mind.
+R0994,37,Male,US,Bachelor,4,2,5,5,4,4,4,3,2,4,I am becoming dependent on it for things I used to do from memory.
+R0458,28,Female,CN,Master,2,3,2,3,1,4,4,4,2,3,"They will not fire anyone, they just will not replace people who leave."
+R0956,30,Female,The Netherlands,Master,5,1,5,5,5,4,4,4,1,5,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0465,26,Female,UK,Other,3,3,2,2,2,5,3,3,1,5,It invents numbers and management copies them into reports.
+R0559,28,Female,TR,PhD,4,3,3,4,3,5,5,4,2,5,We get weekly reports about our own behavior that we never agreed to.
+R0238,29,Female,The Netherlands,Bachelor,3,2,4,3,4,3,4,2,3,3,"It penalizes career gaps, which mostly hits women here."
+R0665,27,Prefer not to say,UK,Master,4,2,4,5,4,4,3,5,2,4,"Autonomy is gone, the system assigns and times everything."
+R1092,5,Male,BE,Bachelor,3,2,3,3,3,4,3,2,4,3,"Nobody checks the outputs anymore, that is what scares me."
+R0118,38,Female,Netherlands,Bachelor,5,2,4,4,4,4,3,4,3,3,Juniors never learn to write a memo themselves anymore.
+R1127,22,Female,US,Master,5,2,3,5,3,3,4,3,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0523,61,Male,UK,Master,2,4,2,3,3,4,3,3,3,2,"The craft side of this job is eroding, we just edit machine output."
+R0532,23,Non-binary,TR,Master,4,2,4,3,3,3,2,5,2,3,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0755,30,Female,netherlands,Master,5,1,4,4,5,3,4,4,3,3,My own writing is getting worse because I always start from a draft it makes.
+R0881,40,Male,The Netherlands,Bachelor,4,5,3,2,3,3,4,4,1,4,"Nobody practices the basics now, and it will show in a few years."
+R0192,60,Female,NL,PhD,5,2,3,4,5,5,2,2,3,3,"People trust the answer because it is well written, not because it is right."
+R0924,41,Female,NL,Bachelor,4,3,3,3,3,3,4,4,2,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0282,27,Male,Netherlands,Master,4,2,5,5,4,3,3,4,2,3,It is confidently wrong in ways that are hard to spot.
+R0097,51,Male,Netherlands,Master,4,2,5,5,5,5,3,4,2,4,The translations look fluent but change the meaning of contract clauses.
+R0355,65,Male,CN,Bachelor,3,3,2,3,3,4,4,3,3,2,"Wages in my function have been flat since automation started, that is my real worry."
+R1054,21,Female,germany,Bachelor,2,2,3,3,3,4,4,4,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R1073,28,Male,netherlands,Master,3,3,4,2,4,3,2,4,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R1102,53,Female,UK,Master,5,1,4,4,5,3,3,4,2,4,Every keystroke is logged and turned into a score now.
+R0314,44,Male,CN,PhD,2,2,3,5,3,4,2,2,3,2,"Hard to say, ask me again in a year."
+R0715,61,Male,The Netherlands,Bachelor,4,3,3,3,4,3,2,5,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0102,63,Male,IT,Other,2,5,2,2,3,4,4,4,3,4,"Wages in my function have been flat since automation started, that is my real worry."
+R1153,24,Male,netherlands,Master,4,3,4,4,3,4,4,3,2,5,We get weekly reports about our own behavior that we never agreed to.
+R0508,59,Male,CN,Other,4,1,4,3,4,4,4,4,4,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0418,28,Female,germany,Other,3,1,4,4,3,4,4,4,2,5,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0280,40,Male,Netherlands,Bachelor,4,2,4,3,4,4,5,4,2,2,"It is moving faster than our policies, on every front at once."
+R0642,56,Female,BE,Bachelor,4,4,3,4,3,3,3,4,3,5,Decisions feel arbitrary and there is no appeal process against the model.
+R0620,21,Female,BE,Master,4,2,4,4,5,3,3,4,2,3,Decisions feel arbitrary and there is no appeal process against the model.
+R1067,43,Male,IT,Bachelor,3,4,3,3,4,3,3,3,2,5,"Nobody practices the basics now, and it will show in a few years."
+R0784,54,Male,US,Other,5,2,5,4,3,4,4,4,2,5,Every keystroke is logged and turned into a score now.
+R0916,24,Male,UK,Other,2,4,2,1,1,4,3,2,3,3,"When it breaks there is no error, just a plausible wrong answer."
+R0742,52,Female,netherlands,Bachelor,3,2,3,4,3,2,2,3,3,2,"I mostly worry about how management will use it, in every sense."
+R0732,40,Male,TR,Bachelor,5,2,4,5,4,3,3,3,4,3,"People trust the answer because it is well written, not because it is right."
+R1033,49,Male,IT,Master,5,2,4,3,5,3,3,3,2,4,Management keeps hinting that the team will be smaller next year because of these tools.
+R0355,65,Male,CN,Bachelor,3,3,2,3,3,4,4,3,3,2,"Wages in my function have been flat since automation started, that is my real worry."
+R0955,21,Male,DE,Bachelor,3,1,3,4,3,4,4,4,2,4,"Hard to say, ask me again in a year."
+R0011,29,Male,BE,Bachelor,3,2,4,2,4,4,3,3,3,4,"It is moving faster than our policies, on every front at once."
+R0953,21,Female,TR,Master,5,1,5,5,4,4,5,5,2,4,The translations look fluent but change the meaning of contract clauses.
+R0838,63,Female,UK,Bachelor,3,2,2,3,3,4,4,4,2,3,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0586,34,Male,BE,PhD,4,2,5,4,4,3,3,3,2,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0614,62,Male,netherlands,Bachelor,4,2,4,4,3,3,3,2,2,3,"Older colleagues get worse recommendations from it, consistently."
+R0017,26,Female,TR,Bachelor,3,2,3,3,4,3,4,3,2,3,It fails on edge cases and our work is mostly edge cases.
+R1098,53,Female,US,Master,3,2,2,3,3,2,3,2,4,3,"They will not fire anyone, they just will not replace people who leave."
+R0763,52,Male,CN,Master,4,2,4,3,3,3,4,3,3,4,"The junior positions are disappearing, which is how I got my start."
+R0215,53,Female,DE,Bachelor,3,2,3,3,4,4,3,4,3,4,"I feel watched all day, the dashboard shows when I am idle."
+R0947,35,Female,BE,Master,3,4,3,3,2,3,4,4,2,4,"I feel watched all day, the dashboard shows when I am idle."
+R0488,64,Female,BE,Master,2,4,2,3,3,2,3,3,3,4,There is a productivity index on my profile that follows me around.
+R0249,57,Female,The Netherlands,Master,3,2,4,4,5,4,3,4,3,2,Clients already ask why they pay us if a model does the first version.
+R0823,58,Non-binary,germany,Bachelor,2,4,2,3,3,3,4,3,3,3,"I mostly worry about how management will use it, in every sense."
+R0373,59,Female,US,Master,3,2,3,5,5,4,3,3,1,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0874,43,Female,IT,Bachelor,4,1,4,4,5,3,4,4,1,4,Two colleagues did the same work and got very different automated ratings.
+R1001,65,Male,BE,Master,5,1,5,5,4,5,5,4,2,4,Management keeps hinting that the team will be smaller next year because of these tools.
+R0186,24,Male,BE,Bachelor,2,5,2,2,2,2,3,3,4,3,"None really, I find it mostly helpful."
+R1030,46,Male,BE,Bachelor,4,2,3,4,3,4,4,3,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0294,51,Male,US,PhD,3,3,5,4,4,3,4,4,2,3,New hires cannot troubleshoot anything because the assistant always did it.
+R0827,38,Male,Netherlands,PhD,3,3,4,3,3,4,4,3,2,3,The system decides my schedule and there is no one to argue with.
+R0180,33,Male,Netherlands,Bachelor,2,4,2,2,1,4,3,2,4,2,Nothing specific comes to mind.
+R1071,41,Female,CN,Bachelor,3,3,4,3,3,3,3,4,3,2,Accent recognition fails for some of us and our quality scores suffer.
+R0195,21,Male,US,Bachelor,5,2,3,4,3,4,3,3,2,3,I cannot take a longer break without the tool flagging it to my lead.
+R0210,22,Male,IT,Master,3,2,4,3,3,4,3,3,2,5,"Hard to say, ask me again in a year."
+R0029,50,Female,The Netherlands,PhD,3,2,3,4,2,2,2,3,3,3,It fails on edge cases and our work is mostly edge cases.
+R0455,39,Male,CN,Bachelor,1,3,2,2,2,3,2,3,3,2,"I mostly worry about how management will use it, in every sense."
+R0804,22,Female,TR,Bachelor,4,3,4,4,4,4,4,4,2,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0281,45,Female,US,Master,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0745,58,Male,netherlands,Bachelor,3,3,5,4,5,4,4,4,2,3,I worry I will forget how to do the analysis without the tool.
+R0419,32,Non-binary,NL,Master,3,3,2,2,3,4,4,4,2,4,Every keystroke is logged and turned into a score now.
+R0939,23,Female,Germany,Master,3,3,3,2,3,3,3,3,2,4,"Autonomy is gone, the system assigns and times everything."
+R1151,41,Prefer not to say,BE,Master,2,4,3,3,3,2,3,2,4,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0137,49,Male,BE,Bachelor,4,3,3,5,3,4,5,5,2,4,Promotion scores come from a model nobody can explain.
+R0807,61,Male,NL,Bachelor,3,3,3,3,4,3,3,3,3,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R0368,50,Male,US,Master,2,2,3,3,3,3,3,3,3,3,"Wages in my function have been flat since automation started, that is my real worry."
+R0086,29,Female,TR,Master,3,3,2,3,3,3,2,3,3,3,I am optimistic about it overall.
+R0146,43,Male,NL,Bachelor,2,4,2,1,1,2,2,2,5,1,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0397,57,Male,NL,Master,4,2,5,4,4,5,5,5,2,3,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0581,23,Male,BE,Master,3,2,2,2,2,3,4,2,3,3,"Autonomy is gone, the system assigns and times everything."
+R0483,27,Female,netherlands,Bachelor,5,2,3,3,4,4,4,5,1,4,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0618,57,Female,DE,Other,4,2,4,4,4,3,3,3,3,3,We get weekly reports about our own behavior that we never agreed to.
+R0986,32,Female,Germany,Master,3,2,4,4,5,4,4,4,1,3,There is a productivity index on my profile that follows me around.
+R0371,50,Male,germany,Bachelor,4,2,4,5,4,5,4,4,2,4,Nothing specific comes to mind.
+R0813,55,Male,UK,Master,3,2,3,4,4,3,4,3,2,4,No concerns.
+R0655,26,Male,The Netherlands,Bachelor,2,3,2,3,3,2,2,3,3,1,No concerns.
+R0475,47,Male,netherlands,Other,4,2,3,4,4,3,4,3,4,3,It invents numbers and management copies them into reports.
+R0154,21,Male,NL,Master,4,2,4,4,3,3,3,4,4,3,"Older colleagues get worse recommendations from it, consistently."
+R0553,34,Prefer not to say,Netherlands,Bachelor,3,2,4,4,4,4,4,4,1,4,"Autonomy is gone, the system assigns and times everything."
+R0302,62,Female,DE,Master,2,2,3,4,4,2,3,3,4,2,Every keystroke is logged and turned into a score now.
+R0513,57,Male,NL,Master,4,2,3,4,4,5,4,3,2,3,It is confidently wrong in ways that are hard to spot.
+R0941,65,Female,NL,PhD,4,2,4,4,4,4,4,5,3,5,Nothing specific comes to mind.
+R0910,52,Female,UK,Bachelor,3,2,3,3,3,3,3,3,4,3,"It is moving faster than our policies, on every front at once."
+R0868,38,Female,BE,Master,3,2,4,4,4,4,3,3,4,4,The translations look fluent but change the meaning of contract clauses.
+R0237,46,Male,Netherlands,Bachelor,3,2,4,4,3,3,4,4,2,5,"It is moving faster than our policies, on every front at once."
+R0850,32,Female,IT,Master,4,2,4,4,2,4,4,3,3,4,It is confidently wrong in ways that are hard to spot.
+R1078,35,Female,Netherlands,Bachelor,4,2,4,3,4,3,4,3,3,3,"Older colleagues get worse recommendations from it, consistently."
+R0628,48,Male,The Netherlands,Other,3,4,3,2,3,3,4,3,2,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0297,46,Non-binary,Germany,Bachelor,5,2,4,4,4,5,4,5,1,5,The summaries miss the one critical detail surprisingly often.
+R0815,27,Male,IT,Bachelor,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0286,38,Male,The Netherlands,Other,5,2,4,4,5,4,4,5,3,4,"I feel watched all day, the dashboard shows when I am idle."
+R0879,28,Male,DE,Other,4,2,3,3,2,4,3,3,3,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R1053,63,Male,netherlands,PhD,5,2,4,4,5,4,5,4,2,4,I think most of what I do could be automated before long.
+R0381,40,Female,germany,PhD,2,2,3,3,4,3,4,4,1,4,"Autonomy is gone, the system assigns and times everything."
+R0839,37,Female,DE,Bachelor,3,2,3,3,3,4,4,4,3,5,"Nobody checks the outputs anymore, that is what scares me."
+R0530,55,Female,UK,Bachelor,2,2,3,3,3,3,5,4,3,4,It is confidently wrong in ways that are hard to spot.
+R0833,48,Female,netherlands,Bachelor,4,2,4,5,4,4,2,2,3,4,Every keystroke is logged and turned into a score now.
+R0380,34,Male,BE,Bachelor,2,3,3,4,3,3,4,2,3,4,I cannot take a longer break without the tool flagging it to my lead.
+R0117,60,Female,Germany,Master,4,2,3,3,3,2,3,4,3,3,I worry I will forget how to do the analysis without the tool.
+R0617,40,Female,netherlands,Master,3,3,4,3,3,3,3,3,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R0876,34,Female,Netherlands,Bachelor,3,3,3,4,3,3,3,3,3,3,Two colleagues did the same work and got very different automated ratings.
+R0590,58,Female,TR,Master,3,2,5,3,4,3,2,4,4,2,"Hard to say, ask me again in a year."
+R0174,46,Female,BE,Bachelor,3,3,4,3,3,4,3,2,4,4,No concerns.
+R1118,33,Female,NL,Bachelor,3,2,4,3,3,2,3,4,3,2,We get weekly reports about our own behavior that we never agreed to.
+R0202,47,Female,The Netherlands,Master,4,3,3,2,3,3,3,2,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0276,48,Male,netherlands,Bachelor,3,2,3,3,3,3,4,3,3,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0340,50,Female,DE,Master,4,4,3,3,2,4,3,2,4,3,Juniors never learn to write a memo themselves anymore.
+R0427,40,Female,Germany,PhD,4,2,4,5,4,4,3,4,2,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0611,43,Male,DE,Other,5,2,4,4,3,4,4,3,3,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0886,51,Male,UK,Master,4,3,2,2,4,4,4,3,3,4,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0330,44,Female,IT,Bachelor,5,2,3,5,3,3,4,3,2,3,"Whoever understands the tool best games the metrics, the rest of us lose."
+R0485,49,Male,IT,Bachelor,3,1,4,4,3,2,4,4,2,3,"They will not fire anyone, they just will not replace people who leave."
+R0582,41,Male,germany,Bachelor,3,2,3,3,2,4,4,3,2,3,"The craft side of this job is eroding, we just edit machine output."
+R0914,35,Male,Germany,Bachelor,3,2,4,3,4,4,3,3,3,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0787,48,Prefer not to say,CN,Other,5,3,4,4,3,5,3,4,1,5,We had to redo a whole analysis because the tool silently dropped rows.
+R0944,23,Male,BE,Master,3,3,3,2,2,3,3,3,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0315,41,Male,US,Bachelor,3,3,2,3,3,3,3,2,4,3,"Wages in my function have been flat since automation started, that is my real worry."
+R0307,42,Female,BE,Bachelor,4,4,4,3,3,3,4,3,2,2,There is a productivity index on my profile that follows me around.
+R0266,23,Female,germany,Bachelor,5,1,5,5,4,3,3,3,3,4,"They will not fire anyone, they just will not replace people who leave."
+R0136,39,Female,IT,Master,1,5,2,3,2,3,2,3,2,2,It fails on edge cases and our work is mostly edge cases.
+R0782,42,Female,UK,Master,4,3,3,3,3,3,3,3,3,2,Juniors never learn to write a memo themselves anymore.
+R0234,32,Male,The Netherlands,Bachelor,3,1,4,3,3,3,3,3,3,3,I think a third of what I do could be automated before long.
+R0001,36,Female,DE,Bachelor,5,1,5,5,5,4,4,3,3,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0076,53,Prefer not to say,NL,Master,2,4,2,2,1,2,2,1,4,2,I am optimistic about it overall.
+R0949,56,Female,IT,Master,5,1,4,5,4,4,3,4,2,4,Last month it merged two clients records and we only noticed by accident.
+R0873,22,Male,The Netherlands,Bachelor,2,3,3,2,3,3,3,4,3,3,Decisions feel arbitrary and there is no appeal process against the model.
+R1159,45,Female,TR,Master,3,4,2,2,2,4,3,4,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0359,57,Female,NL,Master,5,1,5,5,5,4,5,5,1,4,Nothing specific comes to mind.
+R0921,30,Female,The Netherlands,Other,3,2,4,3,4,4,3,5,2,4,"Wages in my function have been flat since automation started, that is my real worry."
+R0473,52,Male,CN,PhD,4,1,4,4,3,4,3,3,2,4,Every keystroke is logged and turned into a score now.
+R0275,46,Female,The Netherlands,Bachelor,3,1,3,3,4,3,4,5,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R0612,44,Female,CN,Bachelor,5,2,4,4,5,3,5,4,4,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0562,29,Female,Germany,Other,3,4,2,3,3,2,3,2,4,3,"Nobody checks the outputs anymore, that is what scares me."
+R0049,56,Female,US,Bachelor,3,3,3,4,5,3,3,3,3,3,It fails on edge cases and our work is mostly edge cases.
+R0060,37,Male,IT,Bachelor,3,3,3,4,3,5,3,4,2,4,It invents numbers and management copies them into reports.
+R1051,38,Female,germany,Master,5,1,5,5,5,5,4,4,2,3,Accent recognition fails for some of us and our quality scores suffer.
+R0206,41,Male,Netherlands,Master,4,2,4,3,3,4,4,4,2,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0133,32,Male,US,Bachelor,4,1,5,4,3,4,3,3,3,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0727,23,Male,netherlands,Bachelor,2,3,1,3,2,2,2,3,3,2,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0602,47,Non-binary,BE,Bachelor,3,2,3,3,2,2,2,2,4,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0739,38,Female,The Netherlands,Master,4,3,3,2,2,3,3,3,4,3,My role feels replaceable now that the system drafts most of it.
+R1172,55,Male,BE,Other,3,4,3,2,3,3,3,3,4,2,Two colleagues did the same work and got very different automated ratings.
+R0759,53,Non-binary,BE,Bachelor,5,3,2,4,3,3,3,3,2,4,"None really, I find it mostly helpful."
+R0217,29,Female,US,Bachelor,3,3,3,3,3,3,3,3,4,4,The system decides my schedule and there is no one to argue with.
+R0866,39,Male,UK,Master,4,2,3,3,3,4,5,5,2,3,Clients already ask why they pay us if a model does the first version.
+R0880,64,Female,IT,Master,3,3,3,3,3,3,4,4,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0164,24,Female,IT,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0048,38,Male,IT,Bachelor,4,2,4,4,4,3,3,2,5,3,"Nobody checks the outputs anymore, that is what scares me."
+R0748,64,Female,The Netherlands,PhD,3,2,3,3,5,3,4,4,3,3,My calls are transcribed and analyzed without anyone asking me.
+R0061,49,Female,Germany,Bachelor,3,2,3,2,2,4,3,3,4,3,"None really, I find it mostly helpful."
+R0024,21,Female,IT,Master,3,2,4,4,4,4,5,4,3,4,Decisions feel arbitrary and there is no appeal process against the model.
+R0469,22,Male,CN,Master,1,5,2,2,2,3,2,2,4,2,Every keystroke is logged and turned into a score now.
+R0071,54,Female,CN,PhD,4,2,5,5,5,5,5,4,2,4,New hires cannot troubleshoot anything because the assistant always did it.
+R1015,58,Female,US,Master,3,3,3,3,5,4,2,4,2,3,"Hard to say, ask me again in a year."
+R0855,54,Male,NL,Bachelor,3,4,3,2,2,2,4,2,4,2,Juniors never learn to write a memo themselves anymore.
+R0826,30,Female,TR,Master,3,3,3,3,4,3,2,2,4,2,I think a third of what I do could be automated before long.
+R1081,21,Female,DE,Bachelor,4,2,3,3,5,2,2,3,3,3,The translations look fluent but change the meaning of contract clauses.
+R0842,65,Male,UK,Master,3,2,3,2,4,3,3,1,3,2,I am becoming dependent on it for things I used to do from memory.
+R0576,33,Male,Netherlands,PhD,5,1,5,3,5,3,3,4,1,3,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0461,52,Female,BE,Bachelor,3,4,2,2,4,3,3,2,4,1,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0820,48,Prefer not to say,Germany,PhD,5,2,5,5,4,5,4,3,4,3,The system was trained on the old boys club data and it shows.
+R0592,51,Male,TR,Bachelor,5,2,5,4,4,2,4,4,1,4,Clients already ask why they pay us if a model does the first version.
+R0892,37,Male,germany,PhD,3,3,3,3,3,3,3,3,3,3,"None really, I find it mostly helpful."
+R1128,32,Female,CN,Master,4,2,5,3,4,3,2,3,3,3,"Autonomy is gone, the system assigns and times everything."
+R1155,24,Male,The Netherlands,Bachelor,2,3,3,3,4,3,3,3,4,1,"It penalizes career gaps, which mostly hits women here."
+R0927,46,Male,IT,Master,3,3,4,3,4,2,2,2,3,2,There is a productivity index on my profile that follows me around.
+R0390,22,Male,US,Master,3,3,4,3,3,3,4,2,4,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0686,49,Male,TR,Other,2,2,2,2,3,3,2,3,3,2,New hires cannot troubleshoot anything because the assistant always did it.
+R0449,61,Female,BE,Master,4,2,4,3,4,3,3,3,3,2,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0030,37,Male,DE,Master,3,2,4,3,4,3,2,3,3,3,No concerns.
+R0366,53,Male,BE,Bachelor,3,3,3,2,2,5,3,4,2,5,Clients already ask why they pay us if a model does the first version.
+R0898,47,Female,UK,PhD,4,3,2,2,4,3,3,4,3,3,"The screening tool filters out people with non-Western names, I have seen it."
+R0173,24,Female,NL,Bachelor,2,4,2,3,2,2,2,3,3,3,"Autonomy is gone, the system assigns and times everything."
+R0509,35,Female,germany,PhD,4,3,4,5,4,3,4,2,3,3,Promotion scores come from a model nobody can explain.
+R0705,41,Male,CN,Bachelor,3,3,4,2,3,3,2,2,3,3,The translations look fluent but change the meaning of contract clauses.
+R0227,54,Male,The Netherlands,Bachelor,5,1,4,4,5,5,4,5,2,4,I am optimistic about it overall.
+R0965,64,Male,IT,Master,2,3,3,4,3,2,4,4,3,4,The translations look fluent but change the meaning of contract clauses.
+R0114,30,Female,TR,Master,4,2,4,4,4,3,3,5,2,4,It is confidently wrong in ways that are hard to spot.
+R0835,60,Male,The Netherlands,Bachelor,4,4,3,4,4,4,4,3,3,3,"It is moving faster than our policies, on every front at once."
+R0361,52,Male,IT,Bachelor,3,4,2,3,3,2,3,4,3,3,"Hard to say, ask me again in a year."
+R1132,59,Female,TR,Master,4,2,3,3,3,2,4,3,3,2,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0198,47,Female,IT,PhD,5,2,4,4,5,4,3,3,3,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0643,59,Male,Germany,Bachelor,3,2,3,3,2,4,4,2,2,4,We stopped training people properly because the tool covers the gaps.
+R0239,46,Male,NL,PhD,4,1,4,5,5,5,4,5,1,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0027,57,Male,netherlands,Bachelor,4,2,4,3,3,3,1,3,5,3,Clients already ask why they pay us if a model does the first version.
+R1157,26,Female,NL,Bachelor,4,2,5,4,4,3,4,4,4,4,"Older colleagues get worse recommendations from it, consistently."
+R1141,46,Male,DE,Master,2,3,3,3,3,2,2,3,4,4,My role feels replaceable now that the system drafts most of it.
+R1018,63,Male,NL,Other,3,2,3,4,4,3,2,4,3,2,I worry I will forget how to do the analysis without the tool.
+R0808,36,Female,netherlands,PhD,3,2,3,4,3,5,5,4,2,4,We stopped training people properly because the tool covers the gaps.
+R0436,56,Female,NL,Master,4,2,3,3,3,3,3,4,3,3,We get weekly reports about our own behavior that we never agreed to.
+R1114,52,Female,The Netherlands,Other,3,3,4,2,3,3,2,2,5,3,"I feel watched all day, the dashboard shows when I am idle."
+R0085,55,Female,CN,Bachelor,3,2,4,3,3,3,3,3,4,2,"People trust the answer because it is well written, not because it is right."
+R0211,29,Male,NL,Bachelor,4,4,4,4,4,4,4,4,4,4,"None really, I find it mostly helpful."
+R0171,26,Female,UK,Master,4,3,3,3,2,2,3,4,3,4,New hires cannot troubleshoot anything because the assistant always did it.
+R1113,60,Male,netherlands,Other,5,2,4,5,5,4,3,3,1,4,"It penalizes career gaps, which mostly hits women here."
+R0150,48,Female,TR,Bachelor,3,2,3,4,4,4,3,3,2,4,"People trust the answer because it is well written, not because it is right."
+R0982,52,Male,NL,Master,4,3,4,5,4,3,5,3,3,3,Nothing specific comes to mind.
+R0777,1987,Male,US,PhD,4,2,4,4,3,3,4,4,3,4,If the pilot succeeds I do not see why they would keep three of us on this task.
+R0506,39,Male,TR,Master,5,1,4,3,5,3,4,5,1,5,Promotion scores come from a model nobody can explain.
+R0298,41,Male,netherlands,Master,3,3,3,3,3,3,3,3,3,3,No concerns.
+R0306,59,Male,BE,Bachelor,4,2,2,3,4,2,3,3,2,3,The system was trained on the old boys club data and it shows.
+R0637,63,Male,netherlands,Other,5,1,4,3,3,4,3,5,2,4,No concerns.
+R1091,64,Male,The Netherlands,Bachelor,2,3,2,4,2,1,2,2,4,3,Every keystroke is logged and turned into a score now.
+R0275,46,Female,The Netherlands,Bachelor,3,1,3,3,4,3,4,5,3,3,"I feel watched all day, the dashboard shows when I am idle."
+R1090,22,Male,UK,Bachelor,4,2,3,4,5,4,3,4,3,4,The translations look fluent but change the meaning of contract clauses.
+R0932,56,Female,TR,PhD,1,3,3,2,2,2,3,3,3,3,"Nobody practices the basics now, and it will show in a few years."
+R0505,57,Male,UK,Master,4,3,4,4,4,3,3,3,2,3,I fear my skills will not transfer anywhere once this place fully automates.
+R0520,45,Female,The Netherlands,Bachelor,4,3,5,4,5,4,4,4,3,4,"The screening tool filters out people with non-Western names, I have seen it."
+R0789,34,Male,UK,Bachelor,3,4,3,2,3,3,4,4,3,2,"People trust the answer because it is well written, not because it is right."
+R0070,26,Male,BE,PhD,3,3,3,3,3,4,4,4,3,4,I am optimistic about it overall.
+R0351,35,Female,IT,Bachelor,4,2,5,4,4,4,5,5,2,5,"The craft side of this job is eroding, we just edit machine output."
+R0404,62,Male,Netherlands,PhD,2,2,3,3,3,3,4,4,3,4,"They will not fire anyone, they just will not replace people who leave."
+R0409,32,Female,CN,Bachelor,4,2,4,3,3,3,4,5,2,4,"None really, I find it mostly helpful."
+R0450,22,Male,TR,Bachelor,5,2,4,4,3,2,3,3,1,3,"Whole occupations like mine have been hollowed out before, this feels similar."
+R0138,58,Male,BE,Bachelor,4,1,3,4,4,4,3,4,3,3,It invents numbers and management copies them into reports.
+R1025,44,Male,UK,Bachelor,3,2,3,3,3,4,3,4,3,4,"When it breaks there is no error, just a plausible wrong answer."
+R0103,26,Male,The Netherlands,Master,5,3,4,4,4,5,4,4,3,3,Clients already ask why they pay us if a model does the first version.
+R0580,22,Female,netherlands,Master,4,2,3,4,3,2,3,2,4,4,"Autonomy is gone, the system assigns and times everything."
+R0903,60,Female,Netherlands,Master,3,2,3,3,4,3,3,3,3,3,The summaries miss the one critical detail surprisingly often.
+R0529,27,Female,US,Bachelor,4,3,2,3,4,3,3,4,3,3,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0094,52,Female,UK,Bachelor,2,3,1,3,4,3,3,3,2,3,"Older colleagues get worse recommendations from it, consistently."
+R0166,45,Male,netherlands,Bachelor,5,2,4,5,4,4,4,3,3,4,"I feel watched all day, the dashboard shows when I am idle."
+R0374,44,Male,TR,Bachelor,4,1,3,3,3,2,3,3,2,3,Two colleagues did the same work and got very different automated ratings.
+R0768,51,Female,BE,Bachelor,4,1,4,5,5,4,5,4,2,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0308,23,Male,BE,Bachelor,4,1,4,5,4,5,3,3,2,4,My calls are transcribed and analyzed without anyone asking me.
+R0550,34,Female,Germany,Bachelor,3,3,2,2,3,3,3,3,3,2,"They will not fire anyone, they just will not replace people who leave."
+R0082,65,Female,netherlands,Bachelor,2,3,2,3,1,4,3,4,3,3,"They will not fire anyone, they just will not replace people who leave."
+R0683,42,Female,TR,Other,3,3,4,3,3,2,2,3,4,3,I am optimistic about it overall.
+R0284,25,Female,netherlands,PhD,4,2,5,5,5,3,5,4,3,4,"Nobody practices the basics now, and it will show in a few years."
+R0459,25,Non-binary,IT,Master,3,2,5,2,3,4,3,3,3,3,Accent recognition fails for some of us and our quality scores suffer.
+R0043,34,Female,US,PhD,3,4,3,3,3,3,2,3,3,3,Every keystroke is logged and turned into a score now.
+R0255,28,Female,BE,Bachelor,4,2,4,4,4,4,4,3,2,4,We had to redo a whole analysis because the tool silently dropped rows.
+R0783,49,Female,CN,Bachelor,4,2,4,4,5,3,3,4,3,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0105,51,Female,TR,Master,3,4,4,4,3,4,3,3,3,3,"It penalizes career gaps, which mostly hits women here."
+R0047,30,Male,Germany,Bachelor,3,3,3,3,4,3,3,3,4,4,"Nobody practices the basics now, and it will show in a few years."
+R0871,39,Male,germany,Bachelor,4,3,4,4,3,4,3,3,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0349,58,Male,Netherlands,Master,5,2,5,4,4,3,4,4,1,4,It invents numbers and management copies them into reports.
+R0651,21,Prefer not to say,US,Bachelor,2,4,4,2,2,4,4,2,3,3,The translations look fluent but change the meaning of contract clauses.
+R0920,49,Male,NL,Master,4,4,4,4,4,3,4,4,2,3,New hires cannot troubleshoot anything because the assistant always did it.
+R0041,38,Male,Netherlands,Bachelor,4,2,4,4,4,4,4,5,1,4,"Nobody checks the outputs anymore, that is what scares me."
+R0887,57,Female,netherlands,Master,4,1,4,4,4,3,3,4,3,4,"Too many things to name, jobs, privacy, mistakes, all of it."
+R1028,34,Female,UK,Master,2,5,2,2,1,3,3,2,4,2,I am becoming dependent on it for things I used to do from memory.
+R1094,27,Male,NL,Master,3,4,3,2,3,3,3,3,4,3,"They will not fire anyone, they just will not replace people who leave."
+R0966,47,Prefer not to say,netherlands,Bachelor,4,2,4,3,3,5,3,3,2,4,It invents numbers and management copies them into reports.
+R0740,62,Female,TR,Bachelor,4,2,4,4,4,3,3,2,3,4,I worry I will forget how to do the analysis without the tool.
+R0362,61,Male,Netherlands,Master,3,2,2,5,4,3,3,3,3,3,There is a productivity index on my profile that follows me around.
+R0336,33,Male,Netherlands,Bachelor,2,3,4,3,3,3,3,2,3,2,Keeping up with every new tool is exhausting and I am falling behind.
+R0367,64,Female,CN,Master,5,2,4,4,3,4,5,4,2,5,I worry I will forget how to do the analysis without the tool.
+R1149,60,Male,The Netherlands,Bachelor,3,2,3,3,3,2,3,4,2,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R1104,48,Male,germany,Bachelor,4,1,4,4,5,3,4,3,3,3,We stopped training people properly because the tool covers the gaps.
+R0638,35,Female,netherlands,Master,3,3,3,3,4,4,4,2,3,5,I am becoming dependent on it for things I used to do from memory.
+R0541,41,Male,The Netherlands,Bachelor,3,2,3,4,3,4,3,4,3,3,"Hard to say, ask me again in a year."
+R0764,40,Female,IT,PhD,4,2,3,4,3,3,4,3,2,5,"It is moving faster than our policies, on every front at once."
+R0391,39,Male,TR,PhD,3,3,3,3,3,3,2,3,4,2,"The screening tool filters out people with non-Western names, I have seen it."
+R1046,66,Female,The Netherlands,Master,5,1,3,3,4,4,3,5,2,4,Honestly worried my contract will not be renewed once the AI rollout finishes.
+R0405,32,Female,BE,Bachelor,4,4,4,4,4,4,4,4,4,4,No concerns.
+R0616,30,Male,UK,Bachelor,3,1,3,5,4,4,4,4,1,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R1171,59,Male,BE,Bachelor,2,3,3,2,2,4,4,3,2,4,We get weekly reports about our own behavior that we never agreed to.
+R0816,32,Female,The Netherlands,Master,4,3,4,3,3,3,4,3,3,4,Accent recognition fails for some of us and our quality scores suffer.
+R0987,25,Male,UK,Master,5,4,5,5,3,3,5,5,2,4,I cannot take a longer break without the tool flagging it to my lead.
+R0353,35,Female,CN,PhD,4,2,4,4,3,3,4,4,2,3,"Nobody checks the outputs anymore, that is what scares me."
+R0831,35,Female,DE,Bachelor,2,2,2,4,4,3,3,3,3,2,New hires cannot troubleshoot anything because the assistant always did it.
+R0699,62,Male,US,Master,4,2,4,4,4,2,3,3,3,3,"The screening tool filters out people with non-Western names, I have seen it."
+R0632,21,Female,IT,PhD,2,2,3,4,3,4,3,2,3,5,Juniors never learn to write a memo themselves anymore.
+R1123,28,Male,IT,Master,4,2,4,5,4,4,5,3,2,5,"Autonomy is gone, the system assigns and times everything."
+R0083,49,Male,TR,Master,3,3,4,4,4,4,4,4,2,3,We stopped training people properly because the tool covers the gaps.
+R0382,48,Female,The Netherlands,Bachelor,3,3,2,2,3,3,4,3,4,3,"None really, I find it mostly helpful."
+R0641,42,Female,The Netherlands,PhD,4,2,4,3,3,3,4,5,1,4,"The junior positions are disappearing, which is how I got my start."
+R0341,52,Female,germany,Master,5,3,4,3,3,3,4,3,3,3,Clients already ask why they pay us if a model does the first version.
+R0629,32,Male,The Netherlands,Bachelor,3,3,2,4,3,4,3,3,3,3,I cannot take a longer break without the tool flagging it to my lead.
+R0579,34,Male,NL,Bachelor,3,3,3,3,3,4,3,2,3,3,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0416,25,Female,UK,Bachelor,4,2,4,5,4,4,3,4,3,4,"I feel watched all day, the dashboard shows when I am idle."
+R0984,31,Male,IT,Bachelor,4,2,4,3,4,3,3,2,4,3,We had to redo a whole analysis because the tool silently dropped rows.
+R0087,45,Female,US,Other,4,3,4,4,3,4,4,4,2,3,"The craft side of this job is eroding, we just edit machine output."
+R0911,34,Male,IT,Other,5,2,5,5,5,5,5,5,2,5,Keeping up with every new tool is exhausting and I am falling behind.
+R0386,22,Female,germany,Bachelor,4,2,2,3,3,4,2,3,2,3,My calls are transcribed and analyzed without anyone asking me.
+R0403,58,Female,BE,Master,2,3,3,3,1,3,3,2,3,3,Management keeps hinting that the team will be smaller next year because of these tools.
+R0072,66,Female,UK,PhD,3,3,2,2,3,3,4,3,3,3,Nothing specific comes to mind.
+R0187,29,Female,DE,Master,2,2,3,2,3,2,2,2,4,2,Two colleagues did the same work and got very different automated ratings.
+R1023,64,Male,BE,Master,3,3,2,4,3,2,2,2,4,2,Nothing specific comes to mind.
+R0931,56,Female,netherlands,PhD,5,1,4,5,4,3,3,3,3,3,"Hard to say, ask me again in a year."
+R1126,49,Male,IT,Bachelor,3,3,4,4,3,3,4,4,3,3,"The junior positions are disappearing, which is how I got my start."
+R0524,45,Male,UK,Bachelor,5,2,4,4,3,4,3,4,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R0846,53,Male,UK,PhD,4,2,5,3,3,3,4,4,3,4,The summaries miss the one critical detail surprisingly often.
+R0712,44,Male,Netherlands,Master,4,1,5,4,4,2,2,5,3,4,"The junior positions are disappearing, which is how I got my start."
+R0521,43,Male,netherlands,Master,4,3,3,4,3,3,3,3,2,3,Clients already ask why they pay us if a model does the first version.
+R0179,53,Male,Netherlands,Bachelor,3,3,4,3,4,3,4,3,2,4,"Hard to say, ask me again in a year."
+R1110,23,Female,IT,Other,1,3,3,3,3,2,3,4,3,3,It invents numbers and management copies them into reports.
+R0352,30,Female,US,Bachelor,3,2,3,3,3,3,4,3,2,4,"Part-timers always end up ranked lower by the algorithm, that cannot be right."
+R0387,52,Female,CN,Master,3,2,3,4,3,3,3,2,3,3,I am optimistic about it overall.
+R0081,41,Male,The Netherlands,Master,3,2,3,4,4,4,4,4,3,4,It tracks how fast I answer messages and my manager brings it up in reviews.
+R1177,24,Female,Netherlands,Master,4,2,3,3,4,5,5,4,1,5,"Wages in my function have been flat since automation started, that is my real worry."
+R1011,63,Female,UK,Other,3,2,4,4,3,2,3,4,4,3,"I mostly worry about how management will use it, in every sense."
+R0654,58,Non-binary,US,Bachelor,5,1,5,5,5,3,4,4,2,4,Juniors never learn to write a memo themselves anymore.
+R0902,23,Male,Netherlands,Master,3,3,2,2,2,4,2,4,3,4,"Even the tone of my emails gets rated, which feels deeply intrusive."
+R0925,57,Male,BE,Master,3,2,4,5,3,4,4,4,2,3,Clients already ask why they pay us if a model does the first version.
+R0960,57,Female,CN,Master,2,4,4,4,4,3,2,3,4,3,"Nobody practices the basics now, and it will show in a few years."
+R0157,34,Female,netherlands,Master,5,1,4,5,4,4,4,5,1,3,"It penalizes career gaps, which mostly hits women here."
+R0962,52,Female,BE,Other,3,4,3,2,4,2,4,3,3,4,Keeping up with every new tool is exhausting and I am falling behind.
+R0467,29,Male,NL,Master,3,1,3,3,2,4,4,3,3,4,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0644,33,Male,CN,Master,4,4,3,2,2,2,3,2,4,2,"Mixed feelings, it helps daily but something about the whole direction worries me."
+R0045,48,Male,Netherlands,Master,3,2,3,3,2,3,3,3,2,3,"They will not fire anyone, they just will not replace people who leave."
+R0993,36,Female,BE,Master,4,1,4,4,3,3,4,4,4,3,We stopped training people properly because the tool covers the gaps.
+R1101,43,Male,Netherlands,PhD,5,1,5,5,4,3,3,4,2,3,Keeping up with every new tool is exhausting and I am falling behind.
+R0811,53,Male,Netherlands,Master,2,3,3,3,3,4,3,4,4,2,If the pilot succeeds I do not see why they would keep three of us on this task.

@@ -1,0 +1,801 @@
+review_id,app,rating,review_text
+rv0001,MoodLog,2,"Everything useful is behind a subscription, the free mood chart is a demo at best."
+rv0002,MoodLog,4,"Simple, calm design and the habit tracker is the best I have tried."
+rv0003,SleepWell,4,"Simple, calm design and the focus timer is the best I have tried."
+rv0004,CalmMind,5,Been using it for 2 months and the sleep diary keeps me coming back.
+rv0005,StudyPace,1,Claims the statistics page reduces anxiety but nothing changed for me in 2 months.
+rv0006,SleepWell,5,"Five stars, the mood chart works exactly as promised."
+rv0007,FocusFlow,5,Been using it for 4 months and the focus timer keeps me coming back.
+rv0008,SleepWell,5,"Simple, calm design and the mood chart is the best I have tried."
+rv0009,HabitHero,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0010,SleepWell,5,"Five stars, the focus timer works exactly as promised."
+rv0011,HabitHero,4,"Five stars, the journal works exactly as promised."
+rv0012,StudyPace,1,"Bait and switch, features that were free moved into premium."
+rv0013,StudyPace,4,Been using it for 2 months and the reminder system keeps me coming back.
+rv0014,CalmMind,1,The sleep diary lost all my data twice this month.
+rv0015,CalmMind,1,"Bait and switch, features that were free moved into premium."
+rv0016,SleepWell,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0017,SleepWell,1,No way to use the focus timer without creating an account and handing over my data.
+rv0018,FocusFlow,1,No way to use the sleep diary without creating an account and handing over my data.
+rv0019,FocusFlow,1,"Everything useful is behind a subscription, the free sleep diary is a demo at best."
+rv0020,HabitHero,2,Great idea but the focus timer freezes on my phone daily.
+rv0021,CalmMind,3,The sleep diary gives advice that my therapist says is questionable.
+rv0022,HabitHero,1,"Everything useful is behind a subscription, the free habit tracker is a demo at best."
+rv0023,StudyPace,5,"Five stars, the mood chart works exactly as promised."
+rv0024,CalmMind,3,"Love the sleep diary, hate the notifications, still deciding overall."
+rv0025,StudyPace,5,"This app genuinely changed my daily routine, the statistics page is excellent."
+rv0026,StudyPace,1,The focus timer gives advice that my therapist says is questionable.
+rv0027,MoodLog,1,"Crashes every time I open the journal, unusable since the last update."
+rv0028,HabitHero,5,"Five stars, the statistics page works exactly as promised."
+rv0029,StudyPace,1,Ads interrupt the mood chart constantly unless you pay.
+rv0030,FocusFlow,1,"Constant sync errors in the sleep diary, support never replies."
+rv0031,StudyPace,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0032,FocusFlow,1,"Crashes every time I open the mood chart, unusable since the last update."
+rv0033,StudyPace,1,The reminder system lost all my data twice this month.
+rv0034,HabitHero,1,"The privacy policy changed silently, now everything in the habit tracker is collected."
+rv0035,MoodLog,1,"Bait and switch, features that were free moved into premium."
+rv0036,FocusFlow,1,"Bait and switch, features that were free moved into premium."
+rv0037,FocusFlow,2,Ads interrupt the statistics page constantly unless you pay.
+rv0038,HabitHero,1,"Feels pseudo-scientific, the statistics page promises results no app can deliver."
+rv0039,SleepWell,2,Great idea but the reminder system freezes on my phone daily.
+rv0040,SleepWell,1,"Crashes every time I open the mood chart, unusable since the last update."
+rv0041,MoodLog,5,Been using it for 2 months and the habit tracker keeps me coming back.
+rv0042,StudyPace,5,"Five stars, the mood chart works exactly as promised."
+rv0043,CalmMind,3,The reminder system gives advice that my therapist says is questionable.
+rv0044,FocusFlow,1,"Feels pseudo-scientific, the mood chart promises results no app can deliver."
+rv0045,FocusFlow,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0046,FocusFlow,1,"The privacy policy changed silently, now everything in the journal is collected."
+rv0047,CalmMind,1,Ads interrupt the reminder system constantly unless you pay.
+rv0048,HabitHero,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0049,HabitHero,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0050,SleepWell,5,"Five stars, the sleep diary works exactly as promised."
+rv0051,FocusFlow,3,"Decent mental health app, the statistics page is clever, everything else is average."
+rv0052,SleepWell,3,Better than HabitHero but the journal still needs work.
+rv0053,CalmMind,1,"Crashes every time I open the breathing exercise, unusable since the last update."
+rv0054,CalmMind,1,"The privacy policy changed silently, now everything in the journal is collected."
+rv0055,StudyPace,3,"Decent sleep app, the journal is clever, everything else is average."
+rv0056,StudyPace,2,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0057,MoodLog,2,"Bait and switch, features that were free moved into premium."
+rv0058,FocusFlow,2,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0059,MoodLog,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0060,FocusFlow,4,Been using it for 2 months and the focus timer keeps me coming back.
+rv0061,MoodLog,1,Great idea but the sleep diary freezes on my phone daily.
+rv0062,HabitHero,2,"Everything useful is behind a subscription, the free breathing exercise is a demo at best."
+rv0063,CalmMind,1,The sleep diary lost all my data twice this month.
+rv0064,SleepWell,3,Claims the reminder system reduces anxiety but nothing changed for me in 8 months.
+rv0065,HabitHero,5,"Simple, calm design and the journal is the best I have tried."
+rv0066,CalmMind,5,Been using it for 6 months and the journal keeps me coming back.
+rv0067,HabitHero,1,Great idea but the focus timer freezes on my phone daily.
+rv0068,FocusFlow,4,Been using it for 4 months and the reminder system keeps me coming back.
+rv0069,HabitHero,1,"The streak pressure from the focus timer made my stress worse, not better."
+rv0070,StudyPace,2,Ads interrupt the reminder system constantly unless you pay.
+rv0071,MoodLog,1,"The privacy policy changed silently, now everything in the mood chart is collected."
+rv0072,SleepWell,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0073,FocusFlow,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0074,HabitHero,2,"Crashes every time I open the mood chart, unusable since the last update."
+rv0075,MoodLog,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0076,MoodLog,2,"Everything useful is behind a subscription, the free breathing exercise is a demo at best."
+rv0077,MoodLog,2,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0078,MoodLog,4,"This app genuinely changed my daily routine, the focus timer is excellent."
+rv0079,SleepWell,4,"This app genuinely changed my daily routine, the statistics page is excellent."
+rv0080,CalmMind,2,"The streak pressure from the sleep diary made my stress worse, not better."
+rv0081,MoodLog,2,"Price doubled this year, the mood chart is not worth 12 euro a month."
+rv0082,HabitHero,3,"Decent sleep app, the sleep diary is clever, everything else is average."
+rv0083,MoodLog,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0084,MoodLog,3,Better than MoodLog but the habit tracker still needs work.
+rv0085,FocusFlow,1,No way to use the sleep diary without creating an account and handing over my data.
+rv0086,CalmMind,1,Great idea but the mood chart freezes on my phone daily.
+rv0087,MoodLog,3,"Decent mental health app, the habit tracker is clever, everything else is average."
+rv0088,HabitHero,3,"The streak pressure from the habit tracker made my stress worse, not better."
+rv0089,HabitHero,5,"Five stars, the breathing exercise works exactly as promised."
+rv0090,MoodLog,3,"Works well on good days, the journal is confusing on bad ones."
+rv0091,SleepWell,5,"Five stars, the breathing exercise works exactly as promised."
+rv0092,HabitHero,2,"The streak pressure from the breathing exercise made my stress worse, not better."
+rv0093,HabitHero,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0094,CalmMind,2,"The streak pressure from the statistics page made my stress worse, not better."
+rv0095,FocusFlow,3,"Decent mental health app, the sleep diary is clever, everything else is average."
+rv0096,HabitHero,4,Been using it for 8 months and the reminder system keeps me coming back.
+rv0097,StudyPace,3,"Decent wellbeing app, the habit tracker is clever, everything else is average."
+rv0098,CalmMind,5,"This app genuinely changed my daily routine, the sleep diary is excellent."
+rv0099,FocusFlow,2,"Constant sync errors in the statistics page, support never replies."
+rv0100,SleepWell,5,"Simple, calm design and the focus timer is the best I have tried."
+rv0101,StudyPace,2,"Bait and switch, features that were free moved into premium."
+rv0102,MoodLog,3,Better than HabitHero but the journal still needs work.
+rv0103,CalmMind,2,"Constant sync errors in the mood chart, support never replies."
+rv0104,StudyPace,3,"Decent sleep app, the mood chart is clever, everything else is average."
+rv0105,FocusFlow,3,The sleep diary gives advice that my therapist says is questionable.
+rv0106,MoodLog,4,Been using it for 6 months and the reminder system keeps me coming back.
+rv0107,FocusFlow,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0108,CalmMind,3,The statistics page gives advice that my therapist says is questionable.
+rv0109,MoodLog,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0110,CalmMind,1,The sleep diary lost all my data twice this month.
+rv0111,StudyPace,1,Great idea but the sleep diary freezes on my phone daily.
+rv0112,StudyPace,3,"Decent wellbeing app, the breathing exercise is clever, everything else is average."
+rv0113,SleepWell,1,Great idea but the journal freezes on my phone daily.
+rv0114,MoodLog,5,Been using it for 2 months and the focus timer keeps me coming back.
+rv0115,MoodLog,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0116,FocusFlow,4,"Five stars, the reminder system works exactly as promised."
+rv0117,SleepWell,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0118,HabitHero,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0119,CalmMind,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0120,MoodLog,1,No way to use the sleep diary without creating an account and handing over my data.
+rv0121,StudyPace,2,Ads interrupt the statistics page constantly unless you pay.
+rv0122,StudyPace,5,"Five stars, the statistics page works exactly as promised."
+rv0123,CalmMind,5,"Simple, calm design and the reminder system is the best I have tried."
+rv0124,CalmMind,5,"This app genuinely changed my daily routine, the reminder system is excellent."
+rv0125,FocusFlow,1,No way to use the habit tracker without creating an account and handing over my data.
+rv0126,MoodLog,1,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0127,CalmMind,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0128,MoodLog,5,"Five stars, the statistics page works exactly as promised."
+rv0129,MoodLog,5,"Simple, calm design and the journal is the best I have tried."
+rv0130,HabitHero,4,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0131,SleepWell,1,No way to use the statistics page without creating an account and handing over my data.
+rv0132,SleepWell,1,"Bait and switch, features that were free moved into premium."
+rv0133,FocusFlow,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0134,CalmMind,4,"Five stars, the reminder system works exactly as promised."
+rv0135,MoodLog,3,"Decent sleep app, the statistics page is clever, everything else is average."
+rv0136,CalmMind,1,"The privacy policy changed silently, now everything in the sleep diary is collected."
+rv0137,MoodLog,2,"Constant sync errors in the reminder system, support never replies."
+rv0138,MoodLog,1,"The privacy policy changed silently, now everything in the reminder system is collected."
+rv0139,StudyPace,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0140,SleepWell,2,Ads interrupt the reminder system constantly unless you pay.
+rv0141,CalmMind,2,Ads interrupt the sleep diary constantly unless you pay.
+rv0142,MoodLog,1,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0143,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0144,SleepWell,5,"Simple, calm design and the journal is the best I have tried."
+rv0145,SleepWell,2,"Everything useful is behind a subscription, the free reminder system is a demo at best."
+rv0146,HabitHero,3,The reminder system gives advice that my therapist says is questionable.
+rv0147,StudyPace,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0148,SleepWell,3,"Love the statistics page, hate the notifications, still deciding overall."
+rv0149,MoodLog,3,"Decent productivity app, the focus timer is clever, everything else is average."
+rv0150,StudyPace,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0151,MoodLog,2,The journal gives advice that my therapist says is questionable.
+rv0152,MoodLog,1,Great idea but the focus timer freezes on my phone daily.
+rv0153,CalmMind,3,"Decent mental health app, the mood chart is clever, everything else is average."
+rv0154,MoodLog,2,Ads interrupt the sleep diary constantly unless you pay.
+rv0155,MoodLog,4,"Simple, calm design and the sleep diary is the best I have tried."
+rv0156,SleepWell,1,Great idea but the sleep diary freezes on my phone daily.
+rv0157,MoodLog,2,The habit tracker gives advice that my therapist says is questionable.
+rv0158,HabitHero,5,"This app genuinely changed my daily routine, the habit tracker is excellent."
+rv0159,HabitHero,4,Been using it for 4 months and the focus timer keeps me coming back.
+rv0160,MoodLog,4,"Simple, calm design and the habit tracker is the best I have tried."
+rv0161,MoodLog,2,Great idea but the breathing exercise freezes on my phone daily.
+rv0162,SleepWell,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0163,StudyPace,1,"Crashes every time I open the reminder system, unusable since the last update."
+rv0164,CalmMind,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0165,FocusFlow,3,Claims the reminder system reduces anxiety but nothing changed for me in 4 months.
+rv0166,HabitHero,1,"Crashes every time I open the reminder system, unusable since the last update."
+rv0167,CalmMind,1,The journal lost all my data twice this month.
+rv0168,HabitHero,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0169,HabitHero,2,"Bait and switch, features that were free moved into premium."
+rv0170,FocusFlow,2,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0171,MoodLog,3,"Decent wellbeing app, the habit tracker is clever, everything else is average."
+rv0172,SleepWell,4,"Five stars, the journal works exactly as promised."
+rv0173,MoodLog,1,"Constant sync errors in the focus timer, support never replies."
+rv0174,CalmMind,5,Been using it for 3 months and the journal keeps me coming back.
+rv0175,SleepWell,1,No way to use the sleep diary without creating an account and handing over my data.
+rv0176,CalmMind,3,"Works well on good days, the reminder system is confusing on bad ones."
+rv0177,StudyPace,1,"Constant sync errors in the journal, support never replies."
+rv0178,HabitHero,2,"The streak pressure from the statistics page made my stress worse, not better."
+rv0179,MoodLog,1,Ads interrupt the breathing exercise constantly unless you pay.
+rv0180,FocusFlow,5,"Five stars, the breathing exercise works exactly as promised."
+rv0181,FocusFlow,2,Ads interrupt the breathing exercise constantly unless you pay.
+rv0182,FocusFlow,5,Been using it for 2 months and the habit tracker keeps me coming back.
+rv0183,HabitHero,3,"The streak pressure from the habit tracker made my stress worse, not better."
+rv0184,MoodLog,1,"Crashes every time I open the habit tracker, unusable since the last update."
+rv0185,FocusFlow,5,Been using it for 6 months and the reminder system keeps me coming back.
+rv0186,HabitHero,1,"The privacy policy changed silently, now everything in the journal is collected."
+rv0187,HabitHero,1,The reminder system lost all my data twice this month.
+rv0188,SleepWell,3,"Decent mental health app, the habit tracker is clever, everything else is average."
+rv0189,FocusFlow,5,Been using it for 8 months and the journal keeps me coming back.
+rv0190,SleepWell,3,Better than HabitHero but the statistics page still needs work.
+rv0191,CalmMind,2,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0192,MoodLog,5,"This app genuinely changed my daily routine, the statistics page is excellent."
+rv0193,FocusFlow,1,Why does a productivity app need my location and contacts? Deleted it.
+rv0194,MoodLog,2,"Price doubled this year, the reminder system is not worth 12 euro a month."
+rv0195,MoodLog,2,Great idea but the mood chart freezes on my phone daily.
+rv0196,MoodLog,2,"Crashes every time I open the journal, unusable since the last update."
+rv0197,HabitHero,1,"Bait and switch, features that were free moved into premium."
+rv0198,CalmMind,1,The statistics page lost all my data twice this month.
+rv0199,MoodLog,2,The reminder system gives advice that my therapist says is questionable.
+rv0200,SleepWell,1,"Constant sync errors in the journal, support never replies."
+rv0201,MoodLog,1,"The streak pressure from the reminder system made my stress worse, not better."
+rv0202,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0203,FocusFlow,3,Better than MoodLog but the journal still needs work.
+rv0204,SleepWell,4,"Five stars, the focus timer works exactly as promised."
+rv0205,FocusFlow,3,Claims the breathing exercise reduces anxiety but nothing changed for me in 2 months.
+rv0206,StudyPace,3,"Feels pseudo-scientific, the reminder system promises results no app can deliver."
+rv0207,SleepWell,3,Claims the breathing exercise reduces anxiety but nothing changed for me in 6 months.
+rv0208,MoodLog,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0209,StudyPace,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0210,StudyPace,1,The habit tracker lost all my data twice this month.
+rv0211,SleepWell,3,"Decent mental health app, the reminder system is clever, everything else is average."
+rv0212,StudyPace,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0213,HabitHero,2,Ads interrupt the reminder system constantly unless you pay.
+rv0214,FocusFlow,1,Ads interrupt the sleep diary constantly unless you pay.
+rv0215,MoodLog,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0216,MoodLog,3,"Love the journal, hate the notifications, still deciding overall."
+rv0217,HabitHero,5,"Five stars, the breathing exercise works exactly as promised."
+rv0218,MoodLog,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0219,CalmMind,1,"The privacy policy changed silently, now everything in the habit tracker is collected."
+rv0220,StudyPace,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0221,MoodLog,3,"Decent mental health app, the reminder system is clever, everything else is average."
+rv0222,CalmMind,4,Been using it for 3 months and the sleep diary keeps me coming back.
+rv0223,SleepWell,3,"Decent mental health app, the statistics page is clever, everything else is average."
+rv0224,CalmMind,4,"This app genuinely changed my daily routine, the habit tracker is excellent."
+rv0225,FocusFlow,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0226,SleepWell,1,"The privacy policy changed silently, now everything in the focus timer is collected."
+rv0227,StudyPace,3,"Works well on good days, the statistics page is confusing on bad ones."
+rv0228,FocusFlow,2,"Bait and switch, features that were free moved into premium."
+rv0229,MoodLog,1,The journal lost all my data twice this month.
+rv0230,HabitHero,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0231,CalmMind,3,"Love the focus timer, hate the notifications, still deciding overall."
+rv0232,CalmMind,4,"Five stars, the journal works exactly as promised."
+rv0233,HabitHero,2,"The streak pressure from the focus timer made my stress worse, not better."
+rv0234,HabitHero,1,"The privacy policy changed silently, now everything in the mood chart is collected."
+rv0235,FocusFlow,3,"Feels pseudo-scientific, the focus timer promises results no app can deliver."
+rv0236,HabitHero,4,"Simple, calm design and the mood chart is the best I have tried."
+rv0237,FocusFlow,2,Ads interrupt the mood chart constantly unless you pay.
+rv0238,CalmMind,1,"The streak pressure from the breathing exercise made my stress worse, not better."
+rv0239,MoodLog,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0240,MoodLog,1,"Bait and switch, features that were free moved into premium."
+rv0241,FocusFlow,1,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0242,FocusFlow,5,Been using it for 4 months and the reminder system keeps me coming back.
+rv0243,HabitHero,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0244,MoodLog,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0245,MoodLog,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0246,CalmMind,2,"Everything useful is behind a subscription, the free breathing exercise is a demo at best."
+rv0247,CalmMind,1,The statistics page lost all my data twice this month.
+rv0248,MoodLog,1,"The privacy policy changed silently, now everything in the habit tracker is collected."
+rv0249,HabitHero,1,"Constant sync errors in the habit tracker, support never replies."
+rv0250,FocusFlow,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0251,SleepWell,1,The statistics page lost all my data twice this month.
+rv0252,HabitHero,3,Claims the breathing exercise reduces anxiety but nothing changed for me in 2 months.
+rv0253,SleepWell,5,"This app genuinely changed my daily routine, the reminder system is excellent."
+rv0254,SleepWell,1,Why does a productivity app need my location and contacts? Deleted it.
+rv0255,SleepWell,1,The sleep diary lost all my data twice this month.
+rv0256,HabitHero,1,The journal lost all my data twice this month.
+rv0257,SleepWell,2,Great idea but the reminder system freezes on my phone daily.
+rv0258,StudyPace,2,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0259,MoodLog,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0260,StudyPace,3,"Works well on good days, the habit tracker is confusing on bad ones."
+rv0261,MoodLog,1,"The privacy policy changed silently, now everything in the focus timer is collected."
+rv0262,CalmMind,1,No way to use the statistics page without creating an account and handing over my data.
+rv0263,SleepWell,5,"Five stars, the reminder system works exactly as promised."
+rv0264,MoodLog,3,"Decent wellbeing app, the sleep diary is clever, everything else is average."
+rv0265,FocusFlow,2,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0266,SleepWell,1,"Crashes every time I open the journal, unusable since the last update."
+rv0267,StudyPace,1,Great idea but the focus timer freezes on my phone daily.
+rv0268,FocusFlow,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0269,HabitHero,3,"Works well on good days, the breathing exercise is confusing on bad ones."
+rv0270,HabitHero,2,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0271,SleepWell,2,The focus timer lost all my data twice this month.
+rv0272,CalmMind,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0273,SleepWell,1,Great idea but the breathing exercise freezes on my phone daily.
+rv0274,HabitHero,5,Been using it for 8 months and the breathing exercise keeps me coming back.
+rv0275,CalmMind,4,"Five stars, the breathing exercise works exactly as promised."
+rv0276,HabitHero,3,"Love the journal, hate the notifications, still deciding overall."
+rv0277,CalmMind,1,"Bait and switch, features that were free moved into premium."
+rv0278,SleepWell,1,"Constant sync errors in the breathing exercise, support never replies."
+rv0279,SleepWell,1,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0280,StudyPace,3,"Love the journal, hate the notifications, still deciding overall."
+rv0281,MoodLog,2,Ads interrupt the statistics page constantly unless you pay.
+rv0282,FocusFlow,2,The reminder system lost all my data twice this month.
+rv0283,SleepWell,3,"Decent productivity app, the habit tracker is clever, everything else is average."
+rv0284,StudyPace,1,"The streak pressure from the journal made my stress worse, not better."
+rv0285,MoodLog,2,Claims the statistics page reduces anxiety but nothing changed for me in 8 months.
+rv0286,HabitHero,5,"This app genuinely changed my daily routine, the journal is excellent."
+rv0287,CalmMind,1,"Constant sync errors in the reminder system, support never replies."
+rv0288,StudyPace,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0289,StudyPace,3,Better than StudyPace but the breathing exercise still needs work.
+rv0290,CalmMind,3,"Works well on good days, the habit tracker is confusing on bad ones."
+rv0291,HabitHero,3,Claims the focus timer reduces anxiety but nothing changed for me in 6 months.
+rv0292,StudyPace,4,Been using it for 6 months and the sleep diary keeps me coming back.
+rv0293,FocusFlow,3,Claims the reminder system reduces anxiety but nothing changed for me in 4 months.
+rv0294,HabitHero,4,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0295,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0296,MoodLog,3,Better than StudyPace but the breathing exercise still needs work.
+rv0297,HabitHero,3,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0298,CalmMind,1,"Crashes every time I open the focus timer, unusable since the last update."
+rv0299,StudyPace,1,Why does a productivity app need my location and contacts? Deleted it.
+rv0300,HabitHero,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0301,SleepWell,1,No way to use the statistics page without creating an account and handing over my data.
+rv0302,StudyPace,5,"This app genuinely changed my daily routine, the focus timer is excellent."
+rv0303,MoodLog,5,"Simple, calm design and the focus timer is the best I have tried."
+rv0304,MoodLog,4,"Five stars, the sleep diary works exactly as promised."
+rv0305,SleepWell,1,"The privacy policy changed silently, now everything in the breathing exercise is collected."
+rv0306,HabitHero,1,"Feels pseudo-scientific, the sleep diary promises results no app can deliver."
+rv0307,FocusFlow,3,"Works well on good days, the reminder system is confusing on bad ones."
+rv0308,FocusFlow,1,Claims the habit tracker reduces anxiety but nothing changed for me in 2 months.
+rv0309,CalmMind,3,"Love the statistics page, hate the notifications, still deciding overall."
+rv0310,SleepWell,1,"Everything useful is behind a subscription, the free habit tracker is a demo at best."
+rv0311,SleepWell,3,"Feels pseudo-scientific, the reminder system promises results no app can deliver."
+rv0312,CalmMind,1,The journal gives advice that my therapist says is questionable.
+rv0313,StudyPace,3,"Love the focus timer, hate the notifications, still deciding overall."
+rv0314,SleepWell,1,"Constant sync errors in the sleep diary, support never replies."
+rv0315,FocusFlow,4,"Five stars, the statistics page works exactly as promised."
+rv0316,SleepWell,1,"Bait and switch, features that were free moved into premium."
+rv0317,MoodLog,3,"Decent mental health app, the reminder system is clever, everything else is average."
+rv0318,FocusFlow,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0319,MoodLog,1,No way to use the mood chart without creating an account and handing over my data.
+rv0320,SleepWell,5,Been using it for 2 months and the breathing exercise keeps me coming back.
+rv0321,HabitHero,2,The habit tracker lost all my data twice this month.
+rv0322,StudyPace,4,"Five stars, the sleep diary works exactly as promised."
+rv0323,CalmMind,2,"Everything useful is behind a subscription, the free mood chart is a demo at best."
+rv0324,HabitHero,3,Better than CalmMind but the sleep diary still needs work.
+rv0325,FocusFlow,1,No way to use the statistics page without creating an account and handing over my data.
+rv0326,HabitHero,5,"Five stars, the mood chart works exactly as promised."
+rv0327,HabitHero,5,"Five stars, the focus timer works exactly as promised."
+rv0328,SleepWell,2,"Constant sync errors in the statistics page, support never replies."
+rv0329,SleepWell,4,"Simple, calm design and the reminder system is the best I have tried."
+rv0330,SleepWell,1,"Everything useful is behind a subscription, the free focus timer is a demo at best."
+rv0331,FocusFlow,2,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0332,MoodLog,1,Why does a productivity app need my location and contacts? Deleted it.
+rv0333,FocusFlow,4,"Five stars, the reminder system works exactly as promised."
+rv0334,FocusFlow,2,"Feels pseudo-scientific, the sleep diary promises results no app can deliver."
+rv0335,FocusFlow,3,"Decent productivity app, the journal is clever, everything else is average."
+rv0336,MoodLog,1,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0337,HabitHero,2,"Crashes every time I open the breathing exercise, unusable since the last update."
+rv0338,StudyPace,5,"This app genuinely changed my daily routine, the focus timer is excellent."
+rv0339,SleepWell,2,"Feels pseudo-scientific, the journal promises results no app can deliver."
+rv0340,HabitHero,2,Claims the habit tracker reduces anxiety but nothing changed for me in 6 months.
+rv0341,CalmMind,1,Great idea but the sleep diary freezes on my phone daily.
+rv0342,CalmMind,2,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0343,SleepWell,1,Great idea but the habit tracker freezes on my phone daily.
+rv0344,CalmMind,5,"Five stars, the statistics page works exactly as promised."
+rv0345,StudyPace,1,Great idea but the breathing exercise freezes on my phone daily.
+rv0346,CalmMind,1,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0347,SleepWell,2,Great idea but the journal freezes on my phone daily.
+rv0348,SleepWell,3,Better than SleepWell but the breathing exercise still needs work.
+rv0349,CalmMind,1,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0350,CalmMind,3,"Decent productivity app, the journal is clever, everything else is average."
+rv0351,HabitHero,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0352,MoodLog,5,"Simple, calm design and the focus timer is the best I have tried."
+rv0353,HabitHero,2,"Constant sync errors in the mood chart, support never replies."
+rv0354,SleepWell,5,"Five stars, the breathing exercise works exactly as promised."
+rv0355,MoodLog,3,Better than CalmMind but the statistics page still needs work.
+rv0356,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0357,FocusFlow,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0358,FocusFlow,5,"Simple, calm design and the reminder system is the best I have tried."
+rv0359,StudyPace,3,"Decent sleep app, the journal is clever, everything else is average."
+rv0360,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0361,CalmMind,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0362,SleepWell,1,Great idea but the journal freezes on my phone daily.
+rv0363,StudyPace,1,Claims the mood chart reduces anxiety but nothing changed for me in 2 months.
+rv0364,FocusFlow,1,The mood chart lost all my data twice this month.
+rv0365,HabitHero,2,"Everything useful is behind a subscription, the free focus timer is a demo at best."
+rv0366,MoodLog,3,"Decent mental health app, the mood chart is clever, everything else is average."
+rv0367,SleepWell,4,Been using it for 4 months and the mood chart keeps me coming back.
+rv0368,StudyPace,3,Better than MoodLog but the mood chart still needs work.
+rv0369,CalmMind,1,The habit tracker lost all my data twice this month.
+rv0370,StudyPace,2,"Price doubled this year, the reminder system is not worth 12 euro a month."
+rv0371,FocusFlow,3,"Works well on good days, the mood chart is confusing on bad ones."
+rv0372,SleepWell,3,Better than FocusFlow but the sleep diary still needs work.
+rv0373,CalmMind,2,"Constant sync errors in the journal, support never replies."
+rv0374,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0375,SleepWell,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0376,FocusFlow,2,"Everything useful is behind a subscription, the free journal is a demo at best."
+rv0377,StudyPace,2,"Bait and switch, features that were free moved into premium."
+rv0378,FocusFlow,1,"Crashes every time I open the reminder system, unusable since the last update."
+rv0379,CalmMind,2,"Constant sync errors in the mood chart, support never replies."
+rv0380,SleepWell,2,"Feels pseudo-scientific, the mood chart promises results no app can deliver."
+rv0381,CalmMind,3,The statistics page gives advice that my therapist says is questionable.
+rv0382,CalmMind,2,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0383,CalmMind,2,"Everything useful is behind a subscription, the free sleep diary is a demo at best."
+rv0384,MoodLog,1,"Bait and switch, features that were free moved into premium."
+rv0385,MoodLog,1,The statistics page lost all my data twice this month.
+rv0386,FocusFlow,4,Been using it for 4 months and the focus timer keeps me coming back.
+rv0387,StudyPace,1,"Bait and switch, features that were free moved into premium."
+rv0388,HabitHero,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0389,CalmMind,5,"Five stars, the habit tracker works exactly as promised."
+rv0390,StudyPace,3,"Love the habit tracker, hate the notifications, still deciding overall."
+rv0391,HabitHero,5,Been using it for 2 months and the breathing exercise keeps me coming back.
+rv0392,MoodLog,2,The sleep diary gives advice that my therapist says is questionable.
+rv0393,CalmMind,2,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0394,MoodLog,3,"Decent sleep app, the habit tracker is clever, everything else is average."
+rv0395,SleepWell,2,The reminder system gives advice that my therapist says is questionable.
+rv0396,HabitHero,2,"Bait and switch, features that were free moved into premium."
+rv0397,MoodLog,3,"Love the journal, hate the notifications, still deciding overall."
+rv0398,HabitHero,1,"Bait and switch, features that were free moved into premium."
+rv0399,CalmMind,2,Great idea but the habit tracker freezes on my phone daily.
+rv0400,MoodLog,2,"Feels pseudo-scientific, the focus timer promises results no app can deliver."
+rv0401,SleepWell,2,"The streak pressure from the reminder system made my stress worse, not better."
+rv0402,StudyPace,3,"Feels pseudo-scientific, the reminder system promises results no app can deliver."
+rv0403,SleepWell,1,"The privacy policy changed silently, now everything in the focus timer is collected."
+rv0404,FocusFlow,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0405,MoodLog,3,"Love the habit tracker, hate the notifications, still deciding overall."
+rv0406,FocusFlow,5,"Five stars, the sleep diary works exactly as promised."
+rv0407,MoodLog,2,"Constant sync errors in the mood chart, support never replies."
+rv0408,StudyPace,1,"Constant sync errors in the focus timer, support never replies."
+rv0409,StudyPace,5,"Five stars, the reminder system works exactly as promised."
+rv0410,CalmMind,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0411,CalmMind,5,"Five stars, the mood chart works exactly as promised."
+rv0412,MoodLog,2,Great idea but the sleep diary freezes on my phone daily.
+rv0413,CalmMind,1,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0414,StudyPace,1,The journal gives advice that my therapist says is questionable.
+rv0415,HabitHero,3,Better than FocusFlow but the journal still needs work.
+rv0416,StudyPace,5,Been using it for 3 months and the mood chart keeps me coming back.
+rv0417,MoodLog,3,"Love the breathing exercise, hate the notifications, still deciding overall."
+rv0418,HabitHero,2,"Everything useful is behind a subscription, the free reminder system is a demo at best."
+rv0419,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0420,FocusFlow,4,"Simple, calm design and the habit tracker is the best I have tried."
+rv0421,MoodLog,3,Better than SleepWell but the statistics page still needs work.
+rv0422,CalmMind,3,"Feels pseudo-scientific, the journal promises results no app can deliver."
+rv0423,CalmMind,3,"Works well on good days, the habit tracker is confusing on bad ones."
+rv0424,CalmMind,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0425,HabitHero,5,Been using it for 8 months and the sleep diary keeps me coming back.
+rv0426,MoodLog,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0427,SleepWell,5,"This app genuinely changed my daily routine, the reminder system is excellent."
+rv0428,StudyPace,1,"The streak pressure from the statistics page made my stress worse, not better."
+rv0429,CalmMind,2,"Constant sync errors in the breathing exercise, support never replies."
+rv0430,HabitHero,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0431,StudyPace,3,"Works well on good days, the breathing exercise is confusing on bad ones."
+rv0432,FocusFlow,1,Claims the journal reduces anxiety but nothing changed for me in 8 months.
+rv0433,MoodLog,2,"The streak pressure from the reminder system made my stress worse, not better."
+rv0434,MoodLog,5,"Five stars, the reminder system works exactly as promised."
+rv0435,StudyPace,5,Been using it for 6 months and the reminder system keeps me coming back.
+rv0436,HabitHero,2,Ads interrupt the reminder system constantly unless you pay.
+rv0437,CalmMind,2,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0438,MoodLog,2,Claims the habit tracker reduces anxiety but nothing changed for me in 8 months.
+rv0439,HabitHero,3,"Decent mental health app, the breathing exercise is clever, everything else is average."
+rv0440,MoodLog,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0441,FocusFlow,5,"Five stars, the breathing exercise works exactly as promised."
+rv0442,SleepWell,3,The sleep diary gives advice that my therapist says is questionable.
+rv0443,StudyPace,2,Great idea but the habit tracker freezes on my phone daily.
+rv0444,HabitHero,1,The statistics page lost all my data twice this month.
+rv0445,FocusFlow,3,"Works well on good days, the statistics page is confusing on bad ones."
+rv0446,MoodLog,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0447,HabitHero,2,Claims the focus timer reduces anxiety but nothing changed for me in 6 months.
+rv0448,FocusFlow,4,"Five stars, the statistics page works exactly as promised."
+rv0449,MoodLog,2,"Everything useful is behind a subscription, the free breathing exercise is a demo at best."
+rv0450,HabitHero,1,Ads interrupt the sleep diary constantly unless you pay.
+rv0451,HabitHero,1,"Price doubled this year, the mood chart is not worth 12 euro a month."
+rv0452,MoodLog,1,"Crashes every time I open the habit tracker, unusable since the last update."
+rv0453,HabitHero,2,"Everything useful is behind a subscription, the free sleep diary is a demo at best."
+rv0454,StudyPace,1,"The privacy policy changed silently, now everything in the habit tracker is collected."
+rv0455,MoodLog,3,"Love the statistics page, hate the notifications, still deciding overall."
+rv0456,StudyPace,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0457,MoodLog,2,"The streak pressure from the reminder system made my stress worse, not better."
+rv0458,SleepWell,1,"The privacy policy changed silently, now everything in the mood chart is collected."
+rv0459,CalmMind,1,"Bait and switch, features that were free moved into premium."
+rv0460,StudyPace,3,"The streak pressure from the breathing exercise made my stress worse, not better."
+rv0461,CalmMind,2,"Everything useful is behind a subscription, the free breathing exercise is a demo at best."
+rv0462,MoodLog,5,"Five stars, the reminder system works exactly as promised."
+rv0463,FocusFlow,2,"Crashes every time I open the breathing exercise, unusable since the last update."
+rv0464,SleepWell,5,"Five stars, the breathing exercise works exactly as promised."
+rv0465,CalmMind,1,"Feels pseudo-scientific, the statistics page promises results no app can deliver."
+rv0466,CalmMind,2,Ads interrupt the reminder system constantly unless you pay.
+rv0467,SleepWell,1,Great idea but the sleep diary freezes on my phone daily.
+rv0468,MoodLog,3,Better than FocusFlow but the journal still needs work.
+rv0469,FocusFlow,3,"Decent wellbeing app, the sleep diary is clever, everything else is average."
+rv0470,HabitHero,1,"The streak pressure from the reminder system made my stress worse, not better."
+rv0471,SleepWell,1,Ads interrupt the sleep diary constantly unless you pay.
+rv0472,FocusFlow,4,"Five stars, the journal works exactly as promised."
+rv0473,CalmMind,3,Better than CalmMind but the breathing exercise still needs work.
+rv0474,MoodLog,1,Claims the journal reduces anxiety but nothing changed for me in 4 months.
+rv0475,HabitHero,1,The breathing exercise lost all my data twice this month.
+rv0476,FocusFlow,3,"Works well on good days, the journal is confusing on bad ones."
+rv0477,HabitHero,1,"Crashes every time I open the reminder system, unusable since the last update."
+rv0478,SleepWell,3,Better than HabitHero but the reminder system still needs work.
+rv0479,SleepWell,3,Better than MoodLog but the journal still needs work.
+rv0480,HabitHero,1,"The streak pressure from the statistics page made my stress worse, not better."
+rv0481,StudyPace,1,"The privacy policy changed silently, now everything in the journal is collected."
+rv0482,SleepWell,5,"Five stars, the mood chart works exactly as promised."
+rv0483,MoodLog,2,Ads interrupt the reminder system constantly unless you pay.
+rv0484,CalmMind,2,"Price doubled this year, the mood chart is not worth 12 euro a month."
+rv0485,MoodLog,1,"Constant sync errors in the journal, support never replies."
+rv0486,StudyPace,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0487,FocusFlow,2,Great idea but the mood chart freezes on my phone daily.
+rv0488,FocusFlow,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0489,SleepWell,2,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0490,FocusFlow,2,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0491,MoodLog,5,"Five stars, the habit tracker works exactly as promised."
+rv0492,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0493,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0494,SleepWell,4,"Five stars, the reminder system works exactly as promised."
+rv0495,MoodLog,5,"Simple, calm design and the mood chart is the best I have tried."
+rv0496,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0497,SleepWell,1,"The privacy policy changed silently, now everything in the mood chart is collected."
+rv0498,MoodLog,5,"Simple, calm design and the journal is the best I have tried."
+rv0499,CalmMind,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0500,CalmMind,5,"Simple, calm design and the focus timer is the best I have tried."
+rv0501,SleepWell,1,The habit tracker lost all my data twice this month.
+rv0502,HabitHero,1,Claims the sleep diary reduces anxiety but nothing changed for me in 3 months.
+rv0503,StudyPace,3,Claims the focus timer reduces anxiety but nothing changed for me in 6 months.
+rv0504,CalmMind,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0505,CalmMind,1,Great idea but the reminder system freezes on my phone daily.
+rv0506,MoodLog,3,"Decent wellbeing app, the breathing exercise is clever, everything else is average."
+rv0507,FocusFlow,1,"Crashes every time I open the habit tracker, unusable since the last update."
+rv0508,SleepWell,1,"Constant sync errors in the journal, support never replies."
+rv0509,FocusFlow,3,"Decent sleep app, the journal is clever, everything else is average."
+rv0510,SleepWell,2,Ads interrupt the journal constantly unless you pay.
+rv0511,MoodLog,2,"Bait and switch, features that were free moved into premium."
+rv0512,HabitHero,2,"Crashes every time I open the statistics page, unusable since the last update."
+rv0513,CalmMind,1,"Everything useful is behind a subscription, the free sleep diary is a demo at best."
+rv0514,MoodLog,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0515,HabitHero,2,"Constant sync errors in the focus timer, support never replies."
+rv0516,MoodLog,2,Claims the reminder system reduces anxiety but nothing changed for me in 8 months.
+rv0517,MoodLog,4,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0518,CalmMind,2,The focus timer lost all my data twice this month.
+rv0519,SleepWell,3,"Feels pseudo-scientific, the journal promises results no app can deliver."
+rv0520,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0521,StudyPace,2,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0522,SleepWell,4,Been using it for 8 months and the habit tracker keeps me coming back.
+rv0523,SleepWell,5,Been using it for 2 months and the breathing exercise keeps me coming back.
+rv0524,StudyPace,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0525,StudyPace,5,Been using it for 3 months and the journal keeps me coming back.
+rv0526,StudyPace,1,Great idea but the sleep diary freezes on my phone daily.
+rv0527,FocusFlow,2,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0528,FocusFlow,2,The breathing exercise lost all my data twice this month.
+rv0529,MoodLog,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0530,FocusFlow,1,"Crashes every time I open the statistics page, unusable since the last update."
+rv0531,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0532,CalmMind,5,"Simple, calm design and the statistics page is the best I have tried."
+rv0533,FocusFlow,1,The reminder system gives advice that my therapist says is questionable.
+rv0534,SleepWell,2,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0535,FocusFlow,2,"Everything useful is behind a subscription, the free mood chart is a demo at best."
+rv0536,MoodLog,5,Been using it for 8 months and the journal keeps me coming back.
+rv0537,CalmMind,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0538,SleepWell,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0539,FocusFlow,3,"Decent wellbeing app, the focus timer is clever, everything else is average."
+rv0540,StudyPace,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0541,SleepWell,5,Been using it for 4 months and the reminder system keeps me coming back.
+rv0542,StudyPace,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0543,MoodLog,2,The statistics page lost all my data twice this month.
+rv0544,FocusFlow,5,"Five stars, the focus timer works exactly as promised."
+rv0545,SleepWell,2,"Price doubled this year, the reminder system is not worth 12 euro a month."
+rv0546,FocusFlow,3,"Decent mental health app, the statistics page is clever, everything else is average."
+rv0547,FocusFlow,5,"Five stars, the habit tracker works exactly as promised."
+rv0548,StudyPace,2,"Crashes every time I open the reminder system, unusable since the last update."
+rv0549,CalmMind,1,Great idea but the journal freezes on my phone daily.
+rv0550,StudyPace,3,"Decent productivity app, the focus timer is clever, everything else is average."
+rv0551,SleepWell,2,Great idea but the focus timer freezes on my phone daily.
+rv0552,StudyPace,2,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0553,FocusFlow,5,"Simple, calm design and the habit tracker is the best I have tried."
+rv0554,MoodLog,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0555,StudyPace,3,"Works well on good days, the statistics page is confusing on bad ones."
+rv0556,StudyPace,3,"Decent sleep app, the sleep diary is clever, everything else is average."
+rv0557,MoodLog,5,"This app genuinely changed my daily routine, the journal is excellent."
+rv0558,FocusFlow,3,"Decent productivity app, the statistics page is clever, everything else is average."
+rv0559,CalmMind,5,"This app genuinely changed my daily routine, the statistics page is excellent."
+rv0560,CalmMind,3,"Works well on good days, the habit tracker is confusing on bad ones."
+rv0561,MoodLog,1,"Bait and switch, features that were free moved into premium."
+rv0562,FocusFlow,4,Been using it for 2 months and the focus timer keeps me coming back.
+rv0563,SleepWell,3,Better than CalmMind but the reminder system still needs work.
+rv0564,HabitHero,2,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0565,MoodLog,2,"The streak pressure from the sleep diary made my stress worse, not better."
+rv0566,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0567,FocusFlow,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0568,CalmMind,2,"Bait and switch, features that were free moved into premium."
+rv0569,StudyPace,4,"Simple, calm design and the sleep diary is the best I have tried."
+rv0570,CalmMind,5,"Five stars, the mood chart works exactly as promised."
+rv0571,HabitHero,4,Been using it for 6 months and the reminder system keeps me coming back.
+rv0572,HabitHero,3,"Love the breathing exercise, hate the notifications, still deciding overall."
+rv0573,StudyPace,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0574,FocusFlow,1,"Constant sync errors in the sleep diary, support never replies."
+rv0575,SleepWell,2,"Bait and switch, features that were free moved into premium."
+rv0576,CalmMind,1,No way to use the focus timer without creating an account and handing over my data.
+rv0577,FocusFlow,1,"Crashes every time I open the focus timer, unusable since the last update."
+rv0578,StudyPace,2,Great idea but the mood chart freezes on my phone daily.
+rv0579,HabitHero,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0580,SleepWell,3,"Love the mood chart, hate the notifications, still deciding overall."
+rv0581,MoodLog,1,"Constant sync errors in the journal, support never replies."
+rv0582,SleepWell,1,"Everything useful is behind a subscription, the free focus timer is a demo at best."
+rv0583,HabitHero,1,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0584,MoodLog,3,"Love the sleep diary, hate the notifications, still deciding overall."
+rv0585,HabitHero,3,"Decent sleep app, the reminder system is clever, everything else is average."
+rv0586,HabitHero,2,"Everything useful is behind a subscription, the free journal is a demo at best."
+rv0587,SleepWell,1,The breathing exercise lost all my data twice this month.
+rv0588,HabitHero,2,"Feels pseudo-scientific, the journal promises results no app can deliver."
+rv0589,SleepWell,3,Better than MoodLog but the reminder system still needs work.
+rv0590,FocusFlow,1,"Everything useful is behind a subscription, the free mood chart is a demo at best."
+rv0591,MoodLog,2,"Bait and switch, features that were free moved into premium."
+rv0592,MoodLog,2,The breathing exercise gives advice that my therapist says is questionable.
+rv0593,HabitHero,5,"Simple, calm design and the breathing exercise is the best I have tried."
+rv0594,FocusFlow,1,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0595,MoodLog,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0596,FocusFlow,2,"Feels pseudo-scientific, the statistics page promises results no app can deliver."
+rv0597,SleepWell,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0598,HabitHero,3,"Works well on good days, the statistics page is confusing on bad ones."
+rv0599,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0600,StudyPace,1,The breathing exercise lost all my data twice this month.
+rv0601,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0602,MoodLog,1,No way to use the journal without creating an account and handing over my data.
+rv0603,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0604,CalmMind,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0605,MoodLog,1,"Crashes every time I open the mood chart, unusable since the last update."
+rv0606,StudyPace,3,Better than SleepWell but the statistics page still needs work.
+rv0607,MoodLog,2,"Constant sync errors in the habit tracker, support never replies."
+rv0608,SleepWell,5,"Simple, calm design and the sleep diary is the best I have tried."
+rv0609,SleepWell,3,"Love the sleep diary, hate the notifications, still deciding overall."
+rv0610,MoodLog,1,"Feels pseudo-scientific, the focus timer promises results no app can deliver."
+rv0611,FocusFlow,3,"Works well on good days, the journal is confusing on bad ones."
+rv0612,SleepWell,4,Been using it for 4 months and the habit tracker keeps me coming back.
+rv0613,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0614,MoodLog,3,"Decent wellbeing app, the statistics page is clever, everything else is average."
+rv0615,HabitHero,3,Better than CalmMind but the reminder system still needs work.
+rv0616,CalmMind,3,The focus timer gives advice that my therapist says is questionable.
+rv0617,FocusFlow,2,"Everything useful is behind a subscription, the free habit tracker is a demo at best."
+rv0618,FocusFlow,3,"Feels pseudo-scientific, the focus timer promises results no app can deliver."
+rv0619,CalmMind,3,"Love the sleep diary, hate the notifications, still deciding overall."
+rv0620,StudyPace,2,Ads interrupt the mood chart constantly unless you pay.
+rv0621,CalmMind,2,"Feels pseudo-scientific, the mood chart promises results no app can deliver."
+rv0622,StudyPace,2,"Constant sync errors in the breathing exercise, support never replies."
+rv0623,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0624,StudyPace,5,Been using it for 2 months and the journal keeps me coming back.
+rv0625,HabitHero,1,The reminder system lost all my data twice this month.
+rv0626,SleepWell,3,"Love the focus timer, hate the notifications, still deciding overall."
+rv0627,SleepWell,1,"Constant sync errors in the statistics page, support never replies."
+rv0628,StudyPace,1,"Price doubled this year, the habit tracker is not worth 12 euro a month."
+rv0629,FocusFlow,1,"Crashes every time I open the journal, unusable since the last update."
+rv0630,StudyPace,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0631,FocusFlow,5,"This app genuinely changed my daily routine, the focus timer is excellent."
+rv0632,StudyPace,3,"Love the breathing exercise, hate the notifications, still deciding overall."
+rv0633,CalmMind,5,"Five stars, the habit tracker works exactly as promised."
+rv0634,CalmMind,5,"Five stars, the sleep diary works exactly as promised."
+rv0635,SleepWell,3,"Works well on good days, the reminder system is confusing on bad ones."
+rv0636,CalmMind,4,"Simple, calm design and the breathing exercise is the best I have tried."
+rv0637,StudyPace,1,"The streak pressure from the breathing exercise made my stress worse, not better."
+rv0638,HabitHero,2,Ads interrupt the statistics page constantly unless you pay.
+rv0639,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0640,MoodLog,2,"Crashes every time I open the focus timer, unusable since the last update."
+rv0641,FocusFlow,4,"Five stars, the mood chart works exactly as promised."
+rv0642,HabitHero,5,"This app genuinely changed my daily routine, the habit tracker is excellent."
+rv0643,StudyPace,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0644,FocusFlow,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0645,FocusFlow,2,The statistics page gives advice that my therapist says is questionable.
+rv0646,SleepWell,5,"Simple, calm design and the breathing exercise is the best I have tried."
+rv0647,CalmMind,3,"Works well on good days, the reminder system is confusing on bad ones."
+rv0648,MoodLog,3,"Decent sleep app, the statistics page is clever, everything else is average."
+rv0649,CalmMind,3,"Works well on good days, the sleep diary is confusing on bad ones."
+rv0650,CalmMind,3,The focus timer gives advice that my therapist says is questionable.
+rv0651,CalmMind,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0652,SleepWell,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0653,MoodLog,1,"Crashes every time I open the habit tracker, unusable since the last update."
+rv0654,StudyPace,5,"Simple, calm design and the journal is the best I have tried."
+rv0655,MoodLog,5,"This app genuinely changed my daily routine, the statistics page is excellent."
+rv0656,CalmMind,2,"Price doubled this year, the sleep diary is not worth 12 euro a month."
+rv0657,StudyPace,5,Been using it for 8 months and the journal keeps me coming back.
+rv0658,MoodLog,4,"Five stars, the breathing exercise works exactly as promised."
+rv0659,CalmMind,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0660,SleepWell,5,Been using it for 6 months and the journal keeps me coming back.
+rv0661,CalmMind,1,"The privacy policy changed silently, now everything in the sleep diary is collected."
+rv0662,SleepWell,4,Been using it for 3 months and the sleep diary keeps me coming back.
+rv0663,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a mental health app."
+rv0664,StudyPace,5,"Five stars, the reminder system works exactly as promised."
+rv0665,SleepWell,1,"Bait and switch, features that were free moved into premium."
+rv0666,MoodLog,3,"Love the breathing exercise, hate the notifications, still deciding overall."
+rv0667,HabitHero,1,The breathing exercise lost all my data twice this month.
+rv0668,HabitHero,1,The focus timer lost all my data twice this month.
+rv0669,FocusFlow,2,"Price doubled this year, the mood chart is not worth 12 euro a month."
+rv0670,HabitHero,5,Been using it for 6 months and the mood chart keeps me coming back.
+rv0671,HabitHero,1,"Crashes every time I open the journal, unusable since the last update."
+rv0672,MoodLog,2,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0673,MoodLog,1,"The privacy policy changed silently, now everything in the focus timer is collected."
+rv0674,HabitHero,1,Great idea but the reminder system freezes on my phone daily.
+rv0675,FocusFlow,1,"Constant sync errors in the habit tracker, support never replies."
+rv0676,FocusFlow,2,"The streak pressure from the statistics page made my stress worse, not better."
+rv0677,HabitHero,3,"Love the breathing exercise, hate the notifications, still deciding overall."
+rv0678,FocusFlow,5,"Simple, calm design and the mood chart is the best I have tried."
+rv0679,MoodLog,5,"Simple, calm design and the mood chart is the best I have tried."
+rv0680,CalmMind,2,The habit tracker gives advice that my therapist says is questionable.
+rv0681,SleepWell,1,Ads interrupt the statistics page constantly unless you pay.
+rv0682,HabitHero,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0683,SleepWell,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0684,CalmMind,1,"Found out it shares usage data with advertisers, disgraceful for a wellbeing app."
+rv0685,StudyPace,2,"Crashes every time I open the focus timer, unusable since the last update."
+rv0686,SleepWell,2,"Feels pseudo-scientific, the reminder system promises results no app can deliver."
+rv0687,MoodLog,1,"The streak pressure from the reminder system made my stress worse, not better."
+rv0688,SleepWell,2,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0689,CalmMind,1,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0690,CalmMind,1,The focus timer lost all my data twice this month.
+rv0691,CalmMind,4,"Simple, calm design and the statistics page is the best I have tried."
+rv0692,FocusFlow,1,"The privacy policy changed silently, now everything in the habit tracker is collected."
+rv0693,SleepWell,2,"Price doubled this year, the breathing exercise is not worth 12 euro a month."
+rv0694,FocusFlow,2,The sleep diary lost all my data twice this month.
+rv0695,StudyPace,3,"Love the sleep diary, hate the notifications, still deciding overall."
+rv0696,SleepWell,3,"Works well on good days, the reminder system is confusing on bad ones."
+rv0697,CalmMind,5,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0698,FocusFlow,1,"Crashes every time I open the statistics page, unusable since the last update."
+rv0699,StudyPace,1,Ads interrupt the statistics page constantly unless you pay.
+rv0700,MoodLog,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0701,FocusFlow,3,"Works well on good days, the sleep diary is confusing on bad ones."
+rv0702,MoodLog,3,"Decent sleep app, the mood chart is clever, everything else is average."
+rv0703,FocusFlow,3,"Decent mental health app, the mood chart is clever, everything else is average."
+rv0704,HabitHero,1,"Price doubled this year, the habit tracker is not worth 12 euro a month."
+rv0705,FocusFlow,2,Ads interrupt the breathing exercise constantly unless you pay.
+rv0706,CalmMind,2,Great idea but the journal freezes on my phone daily.
+rv0707,FocusFlow,3,"Love the statistics page, hate the notifications, still deciding overall."
+rv0708,CalmMind,2,Ads interrupt the breathing exercise constantly unless you pay.
+rv0709,MoodLog,2,"Bait and switch, features that were free moved into premium."
+rv0710,SleepWell,3,Better than CalmMind but the mood chart still needs work.
+rv0711,CalmMind,2,Claims the reminder system reduces anxiety but nothing changed for me in 6 months.
+rv0712,FocusFlow,1,"Price doubled this year, the focus timer is not worth 12 euro a month."
+rv0713,StudyPace,5,Been using it for 6 months and the habit tracker keeps me coming back.
+rv0714,StudyPace,1,Why does a mental health app need my location and contacts? Deleted it.
+rv0715,FocusFlow,2,Ads interrupt the journal constantly unless you pay.
+rv0716,MoodLog,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0717,HabitHero,2,Claims the sleep diary reduces anxiety but nothing changed for me in 8 months.
+rv0718,HabitHero,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0719,HabitHero,1,No way to use the breathing exercise without creating an account and handing over my data.
+rv0720,StudyPace,1,Great idea but the habit tracker freezes on my phone daily.
+rv0721,SleepWell,2,Ads interrupt the statistics page constantly unless you pay.
+rv0722,SleepWell,1,Ads interrupt the focus timer constantly unless you pay.
+rv0723,SleepWell,1,No way to use the statistics page without creating an account and handing over my data.
+rv0724,CalmMind,2,"Price doubled this year, the habit tracker is not worth 12 euro a month."
+rv0725,StudyPace,3,"Decent mental health app, the reminder system is clever, everything else is average."
+rv0726,MoodLog,1,Why does a wellbeing app need my location and contacts? Deleted it.
+rv0727,HabitHero,2,The statistics page gives advice that my therapist says is questionable.
+rv0728,HabitHero,1,"Crashes every time I open the journal, unusable since the last update."
+rv0729,MoodLog,1,Ads interrupt the breathing exercise constantly unless you pay.
+rv0730,CalmMind,5,"This app genuinely changed my daily routine, the focus timer is excellent."
+rv0731,SleepWell,1,"Price doubled this year, the journal is not worth 12 euro a month."
+rv0732,StudyPace,5,"Five stars, the journal works exactly as promised."
+rv0733,HabitHero,1,"The privacy policy changed silently, now everything in the statistics page is collected."
+rv0734,StudyPace,2,Ads interrupt the journal constantly unless you pay.
+rv0735,MoodLog,4,"Simple, calm design and the focus timer is the best I have tried."
+rv0736,StudyPace,1,The statistics page gives advice that my therapist says is questionable.
+rv0737,MoodLog,2,Ads interrupt the mood chart constantly unless you pay.
+rv0738,HabitHero,2,"Crashes every time I open the focus timer, unusable since the last update."
+rv0739,MoodLog,1,Ads interrupt the breathing exercise constantly unless you pay.
+rv0740,StudyPace,1,No way to use the journal without creating an account and handing over my data.
+rv0741,FocusFlow,1,"Found out it shares usage data with advertisers, disgraceful for a productivity app."
+rv0742,MoodLog,1,"Found out it shares usage data with advertisers, disgraceful for a sleep app."
+rv0743,FocusFlow,2,"Bait and switch, features that were free moved into premium."
+rv0744,HabitHero,1,"The streak pressure from the mood chart made my stress worse, not better."
+rv0745,MoodLog,3,"Love the habit tracker, hate the notifications, still deciding overall."
+rv0746,StudyPace,5,"Five stars, the mood chart works exactly as promised."
+rv0747,SleepWell,2,"Price doubled this year, the mood chart is not worth 12 euro a month."
+rv0748,StudyPace,3,Better than MoodLog but the mood chart still needs work.
+rv0749,HabitHero,3,"Works well on good days, the journal is confusing on bad ones."
+rv0750,HabitHero,1,Great idea but the statistics page freezes on my phone daily.
+rv0751,StudyPace,1,Why does a sleep app need my location and contacts? Deleted it.
+rv0752,FocusFlow,1,"The privacy policy changed silently, now everything in the focus timer is collected."
+rv0753,MoodLog,2,Claims the reminder system reduces anxiety but nothing changed for me in 2 months.
+rv0754,HabitHero,3,"Love the reminder system, hate the notifications, still deciding overall."
+rv0755,StudyPace,2,Ads interrupt the habit tracker constantly unless you pay.
+rv0756,MoodLog,3,"Works well on good days, the focus timer is confusing on bad ones."
+rv0757,HabitHero,1,Great idea but the mood chart freezes on my phone daily.
+rv0758,MoodLog,3,"Feels pseudo-scientific, the breathing exercise promises results no app can deliver."
+rv0759,MoodLog,5,"This app genuinely changed my daily routine, the reminder system is excellent."
+rv0760,MoodLog,1,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0761,SleepWell,2,Great idea but the focus timer freezes on my phone daily.
+rv0762,HabitHero,1,Why does a productivity app need my location and contacts? Deleted it.
+rv0763,StudyPace,1,"Crashes every time I open the sleep diary, unusable since the last update."
+rv0764,HabitHero,3,"Feels pseudo-scientific, the reminder system promises results no app can deliver."
+rv0765,StudyPace,5,"Five stars, the statistics page works exactly as promised."
+rv0766,SleepWell,1,No way to use the mood chart without creating an account and handing over my data.
+rv0767,StudyPace,3,"Love the statistics page, hate the notifications, still deciding overall."
+rv0768,SleepWell,1,No way to use the journal without creating an account and handing over my data.
+rv0769,HabitHero,5,"Five stars, the habit tracker works exactly as promised."
+rv0770,HabitHero,1,"Price doubled this year, the statistics page is not worth 12 euro a month."
+rv0771,FocusFlow,4,"Five stars, the breathing exercise works exactly as promised."
+rv0772,HabitHero,2,Great idea but the habit tracker freezes on my phone daily.
+rv0773,StudyPace,3,"Feels pseudo-scientific, the habit tracker promises results no app can deliver."
+rv0774,SleepWell,3,"Decent wellbeing app, the focus timer is clever, everything else is average."
+rv0775,HabitHero,3,"Decent mental health app, the journal is clever, everything else is average."
+rv0776,StudyPace,4,Been using it for 6 months and the focus timer keeps me coming back.
+rv0777,HabitHero,2,Great idea but the breathing exercise freezes on my phone daily.
+rv0778,FocusFlow,1,The focus timer gives advice that my therapist says is questionable.
+rv0779,SleepWell,1,"Everything useful is behind a subscription, the free statistics page is a demo at best."
+rv0780,FocusFlow,3,Better than CalmMind but the breathing exercise still needs work.
+rv0781,StudyPace,4,"Five stars, the journal works exactly as promised."
+rv0782,MoodLog,3,"Love the habit tracker, hate the notifications, still deciding overall."
+rv0783,HabitHero,4,"This app genuinely changed my daily routine, the breathing exercise is excellent."
+rv0784,HabitHero,2,"The streak pressure from the sleep diary made my stress worse, not better."
+rv0785,SleepWell,2,Claims the focus timer reduces anxiety but nothing changed for me in 6 months.
+rv0786,HabitHero,2,"The streak pressure from the reminder system made my stress worse, not better."
+rv0787,CalmMind,3,"Decent mental health app, the reminder system is clever, everything else is average."
+rv0788,MoodLog,2,Great idea but the breathing exercise freezes on my phone daily.
+rv0789,SleepWell,5,Been using it for 6 months and the statistics page keeps me coming back.
+rv0790,StudyPace,3,"Works well on good days, the statistics page is confusing on bad ones."
+rv0791,StudyPace,1,Great idea but the focus timer freezes on my phone daily.
+rv0792,StudyPace,2,The mood chart gives advice that my therapist says is questionable.
+rv0793,CalmMind,5,"This app genuinely changed my daily routine, the mood chart is excellent."
+rv0794,StudyPace,3,Better than StudyPace but the reminder system still needs work.
+rv0795,MoodLog,5,Been using it for 8 months and the focus timer keeps me coming back.
+rv0796,CalmMind,2,"Bait and switch, features that were free moved into premium."
+rv0797,HabitHero,5,"Simple, calm design and the statistics page is the best I have tried."
+rv0798,StudyPace,5,"Simple, calm design and the statistics page is the best I have tried."
+rv0799,MoodLog,3,"Works well on good days, the breathing exercise is confusing on bad ones."
+rv0800,CalmMind,3,"Love the focus timer, hate the notifications, still deciding overall."
