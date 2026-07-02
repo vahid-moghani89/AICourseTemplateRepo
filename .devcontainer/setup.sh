@@ -16,7 +16,7 @@ timeout 600 pip install -r requirements.txt \
 
 echo ""
 echo "--- Step 2/4: Codex CLI (terminal agent, ~1 min) ---"
-timeout 180 bash -c 'curl -fsSL https://chatgpt.com/codex/install.sh | sh' </dev/null \
+timeout 180 npm install -g @openai/codex </dev/null \
   && echo "--- Step 2/4 done ---" \
   || echo "!!! Codex CLI skipped (the sidebar extension covers you; the CLI can be added in Session 5)."
 
