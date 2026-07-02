@@ -37,6 +37,32 @@ def _persist(key, value):
     _ENV_FILE.chmod(0o600)
 
 
+def _configure_gemini_cli(mode, key):
+    """Write Gemini CLI's own config (~/.gemini/.env + settings.json) so the
+    `gemini` command works in every terminal with no shell setup and no
+    sign-in dialog. Called automatically after every successful API check —
+    so this heals itself even if a student deletes the files."""
+    try:
+        import json
+        gem_dir = pathlib.Path.home() / ".gemini"
+        gem_dir.mkdir(exist_ok=True)
+        env_lines = [f'GEMINI_API_KEY="{key}"', f'GOOGLE_API_KEY="{key}"']
+        if mode == "vertex":
+            env_lines.append("GOOGLE_GENAI_USE_VERTEXAI=true")
+        env_file = gem_dir / ".env"
+        env_file.write_text("\n".join(env_lines) + "\n")
+        env_file.chmod(0o600)
+        sfile = gem_dir / "settings.json"
+        try:
+            settings = json.loads(sfile.read_text()) if sfile.exists() else {}
+        except Exception:
+            settings = {}
+        settings["selectedAuthType"] = "vertex-ai" if mode == "vertex" else "gemini-api-key"
+        sfile.write_text(json.dumps(settings, indent=2))
+    except Exception:
+        pass  # CLI convenience must never break the API path
+
+
 def get_client(verbose=False):
     """A working genai client, or a RuntimeError that tells you what to do."""
     _load_env()
@@ -65,6 +91,7 @@ def get_client(verbose=False):
                 _persist("GOOGLE_GENAI_USE_VERTEXAI", None)
                 os.environ.pop("GOOGLE_GENAI_USE_VERTEXAI", None)
             os.environ["GEMINI_MODE"] = mode
+            _configure_gemini_cli(mode, key)
             if verbose:
                 name = "Vertex / Agent Platform" if mode == "vertex" else "Gemini Developer API"
                 print(f"Connected via the {name} endpoint.")
