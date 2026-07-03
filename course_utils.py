@@ -67,13 +67,17 @@ def get_client(verbose=False):
     """A working genai client, or a RuntimeError that tells you what to do."""
     _load_env()
     key = os.environ.get("GEMINI_API_KEY")
+    os.environ.pop("GOOGLE_API_KEY", None)  # silence SDK dual-key warning; CLI reads it from files
     if not key:
         raise RuntimeError("No API key stored yet — run: bash check_setup.sh")
 
     from google import genai
 
     known = os.environ.get("GEMINI_MODE")
-    candidates = [known] if known in ("vertex", "dev") else ["vertex", "dev"]
+    if known in ("vertex", "dev"):
+        candidates = [known, "dev" if known == "vertex" else "vertex"]
+    else:
+        candidates = ["vertex", "dev"]
     errors = []
     for mode in candidates:
         try:
@@ -93,18 +97,54 @@ def get_client(verbose=False):
             os.environ["GEMINI_MODE"] = mode
             _configure_gemini_cli(mode, key)
             if verbose:
-                name = "Vertex / Agent Platform" if mode == "vertex" else "Gemini Developer API"
+                name = "Vertex / Agent Platform (Path A)" if mode == "vertex" else "Gemini Developer API (Path B)"
                 print(f"Connected via the {name} endpoint.")
+                if known in ("vertex", "dev") and mode != known:
+                    print("Note: your key actually belongs to the other path than you answered — "
+                          "no problem, I reconfigured everything for the path that works.")
             return client
         except Exception as e:  # try the other endpoint before giving up
             errors.append(f"[{mode}] {e}")
 
-    raise RuntimeError(
-        "Could not reach Google on either endpoint with this key.\n"
-        "Most common fixes: (1) re-create the key inside the studio page "
-        "(Block 0, Path A step 4) or at aistudio.google.com (Path B), then "
-        "delete ~/.course_env and rerun 'bash check_setup.sh'. "
-        "(2) If the error below mentions SERVICE_DISABLED, the key's project "
-        "doesn't have the service switched on — a fresh key from the studio "
-        "page usually comes with it enabled.\n\nDetails:\n" + "\n".join(errors)
-    )
+    raise RuntimeError(_diagnose(errors))
+
+
+def _diagnose(errors):
+    """Turn Google's error salad into one plain instruction."""
+    text = "\n".join(errors)
+    hints = []
+    if "prepayment credits are depleted" in text or "prepay" in text:
+        hints.append(
+            "YOUR SPECIFIC PROBLEM: your AI Studio project has a prepaid billing plan "
+            "with no credits on it — and attaching billing removes the free tier from a "
+            "project. THE FIX: open https://aistudio.google.com, use the key/project menu "
+            "to create a NEW API key in a NEW project (one with no billing plan), then "
+            "delete ~/.course_env and rerun: bash check_setup.sh")
+    if "API_KEY_SERVICE_BLOCKED" in text and not hints:
+        hints.append(
+            "YOUR SPECIFIC PROBLEM: this key is an AI Studio (Path B) key, which cannot "
+            "be used on the Vertex platform. THE FIX: rerun 'bash check_setup.sh' and "
+            "answer B when asked for your path — or, if you meant to do Path A, create "
+            "the key inside the studio page (Block 0, Path A, step 4).")
+    if "disallows API keys" in text:
+        hints.append(
+            "YOUR SPECIFIC PROBLEM: you are on an organization-managed Google account "
+            "that blocks API keys. THE FIX: switch to a personal Gmail — see the "
+            "'API Keys are Disallowed' box in Block 0, Path A.")
+    if "SERVICE_DISABLED" in text and not hints:
+        hints.append(
+            "YOUR SPECIFIC PROBLEM: the key's project doesn't have the needed service "
+            "switched on. THE FIX: create a fresh key from the studio page (Block 0, "
+            "Path A step 4) — it comes with the service enabled — then delete "
+            "~/.course_env and rerun: bash check_setup.sh")
+    if ("API_KEY_INVALID" in text or "API key not valid" in text) and not hints:
+        hints.append(
+            "YOUR SPECIFIC PROBLEM: the key itself was not accepted — usually a copy-paste "
+            "slip (missing characters, extra spaces). THE FIX: delete ~/.course_env, copy "
+            "the key again carefully, and rerun: bash check_setup.sh")
+    if not hints:
+        hints.append(
+            "This one isn't in my catalogue — copy this whole message into an email to me "
+            "or bring it to a July-10 slot; we'll fix it together in minutes.")
+    return ("Could not reach Google with this key.\n\n" + "\n\n".join(hints)
+            + "\n\nFull details (for the instructor):\n" + text)
