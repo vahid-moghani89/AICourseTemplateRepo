@@ -14,7 +14,6 @@ hands you a working client. Use it everywhere:
 import os
 import pathlib
 
-MODEL = "gemini-2.5-flash"
 _ENV_FILE = pathlib.Path.home() / ".course_env"
 
 
@@ -24,6 +23,15 @@ def _load_env():
             if line.startswith("export ") and "=" in line:
                 k, v = line[len("export "):].split("=", 1)
                 os.environ.setdefault(k, v.strip().strip('"'))
+
+
+_load_env()
+
+# The course default. On paid / Vertex-trial credit you may upgrade, e.g.:
+#   echo 'export COURSE_MODEL="gemini-3.5-flash"' >> ~/.course_env
+# then restart your notebook kernel / app. Report the exact model string in
+# your AI-use log — the model is your instrument.
+MODEL = os.environ.get("COURSE_MODEL", "gemini-2.5-flash")
 
 
 def _persist(key, value):
@@ -74,6 +82,14 @@ def get_client(verbose=False):
     from google import genai
 
     known = os.environ.get("GEMINI_MODE")
+
+    # Fast path: if a previous run already verified which endpoint this key
+    # belongs to, build the client without spending a test request on it.
+    # (check_setup.sh and any failed real call still exercise the full path.)
+    if known in ("vertex", "dev") and not verbose:
+        _configure_gemini_cli(known, key)
+        return genai.Client(vertexai=(known == "vertex"), api_key=key)
+
     if known in ("vertex", "dev"):
         candidates = [known, "dev" if known == "vertex" else "vertex"]
     else:

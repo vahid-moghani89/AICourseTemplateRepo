@@ -14,6 +14,7 @@ This is the course repository. If you're reading this on the course's own page, 
 | `a4/` | Default corpora and the interviewer starter app for the final project | A4 |
 | `templates/` | Fill-in templates: AI-use log, A3 spec, A4 scope spec, interviewer codebook, consent script | every assignment |
 | `primers/` | Two short reads: what an API is, what an agent is | Days 2–3 prep |
+| `sessions/` | The in-class hands-on exercise sheets for the agent sessions | Day 3 |
 | `notebooks/` | `api_check.ipynb` (your Day-2 key test) + the Session 4 and 7 teaching notebooks | Days 2 & 4 |
 | `check_setup.sh` · `check_agent.sh` | The Block 0 verification scripts | Block 0 |
 | `sync_data.sh` | Refreshes `data/` to the current course datasets (they were replaced on 10 July — run this once if you copied the template before then) | before Day 3 |
@@ -22,6 +23,4 @@ The `.devcontainer/` folder is what makes your Codespace arrive ready-made: Pyth
 
 ## House rules (short version — the long versions live on Canvas)
 
-Work in **your copy** of this repo, not this one (on this one you can look but not save). Your Assignment 3 goes in a folder `a3/`, your final project in `a4/`. Never commit an API key (the check script stores it outside the repo for exactly that reason) and never commit unanonymized transcripts. When stuck for more than 30 minutes: the Canvas Discussions board, or email.
-
-*All course datasets are synthetic or public. No real research data is ever needed — that's by design.*
+Work in **your copy** of this repo, not this one (on this one you can look but not save). Your Assignment 3 goes in a folder `a3/`, your final project in `a4/`. Never commit an API key (the check script stores it outside 
